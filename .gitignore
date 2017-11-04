@@ -1,13 +1,15 @@
-# See https://help.github.com/ignore-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
+src/node_modules
+functions/node_modules
 
 # testing
 /coverage
 
 # production
 /build
+/functions/data/.env
+/functions/data/serviceAccountKey.json
 
 # misc
 .DS_Store

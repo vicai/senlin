@@ -1,0 +1,5004 @@
+{
+  "tweets": {
+    "1": {
+      "created_at": "2014-06-01 23:07:58",
+      "text": "President Resigns in Georgia’s Breakaway Region of Abkhazia http://t.co/DAploRvCvV",
+      "user_id": "nytimes"
+    },
+    "2": {
+      "created_at": "2014-06-01 23:48:06",
+      "text": "The NYT FlipBoard guide to understanding climate change and its consequences http://t.co/uPGTuYiSmQ",
+      "user_id": "nytimes"
+    },
+    "3": {
+      "created_at": "2014-06-01 23:59:06",
+      "text": "For all the struggles that young college grads face, a four-year degree has probably never been more valuable http://t.co/Gjf6wrwMsS",
+      "user_id": "nytimes"
+    },
+    "4": {
+      "created_at": "2014-06-01 23:35:09",
+      "text": "It's better to be a community-college graduate than a college dropout http://t.co/k3CO7ClmIG",
+      "user_id": "nytimes"
+    },
+    "5": {
+      "created_at": "2014-06-01 22:47:04",
+      "text": "Share your experience with Veterans Affairs health care http://t.co/PrDhLC20Bt",
+      "user_id": "nytimes"
+    },
+    "6": {
+      "created_at": "2014-06-01 22:03:27",
+      "text": "Abandon Hope, Almost All Ye Who Enter the N.B.A. Playoffs http://t.co/IQAJ5XNddR",
+      "user_id": "nytimes"
+    },
+    "7": {
+      "created_at": "2014-06-01 22:19:06",
+      "text": "Books Of the Times: ‘Do Fathers Matter?’ Shows Why They Do http://t.co/1vLBAP6k7P",
+      "user_id": "nytimes"
+    },
+    "8": {
+      "created_at": "2014-06-01 22:15:06",
+      "text": "How online dating explains the truth about the digital economy http://t.co/mXOWT2geGB",
+      "user_id": "nytimes"
+    },
+    "9": {
+      "created_at": "2014-06-01 21:43:06",
+      "text": "San Francisco's tech firms aren't moving into new buildings, they're taking over old ones http://t.co/tB9u98diqu",
+      "user_id": "nytimes"
+    },
+    "10": {
+      "created_at": "2014-06-01 21:06:34",
+      "text": "Freed Soldier Faces Long Struggle Back to Normalcy http://t.co/R8IG4lyR3F",
+      "user_id": "nytimes"
+    },
+    "11": {
+      "created_at": "2014-06-01 21:31:03",
+      "text": "Breaking up with his cable company's bundles http://t.co/qyft5nnLgU",
+      "user_id": "nytimes"
+    },
+    "12": {
+      "created_at": "2014-06-01 21:16:09",
+      "text": "E.P.A. to Seek 30 Percent Cut in Carbon Emissions http://t.co/mY3ilYlxrj",
+      "user_id": "nytimes"
+    },
+    "13": {
+      "created_at": "2014-06-01 20:18:23",
+      "text": "Lewis Katz, Co-Owner of Philadelphia Inquirer, Dies at 72 http://t.co/051ArIn1xc",
+      "user_id": "nytimes"
+    },
+    "14": {
+      "created_at": "2014-06-01 20:53:58",
+      "text": "Administration Defends Swap With Taliban to Free U.S. Soldier http://t.co/p045IqfOAJ",
+      "user_id": "nytimes"
+    },
+    "15": {
+      "created_at": "2014-06-01 20:07:04",
+      "text": "If Mayor Bill de Blasio has his way, ferrets could be legal again in New York City http://t.co/cfCADr6UNv",
+      "user_id": "nytimes"
+    },
+    "16": {
+      "created_at": "2014-06-01 20:45:06",
+      "text": "The blurry line between procrastination and homework when you're studying for a master's in video games http://t.co/HENV0sxaNI",
+      "user_id": "nytimes"
+    },
+    "17": {
+      "created_at": "2014-06-01 19:16:03",
+      "text": "As Ties With China Unravel, U.S. Companies Head to Mexico http://t.co/7n95OYNsMV",
+      "user_id": "nytimes"
+    },
+    "18": {
+      "created_at": "2014-06-01 19:01:25",
+      "text": "‘Maleficent’ Casts Spell, Burying ‘Ways to Die’ http://t.co/k9p7wxRDCe",
+      "user_id": "nytimes"
+    },
+    "19": {
+      "created_at": "2014-06-01 19:40:07",
+      "text": "DealBook: Authorities Find Insider Trading Case Tied to Phil Mickelson Is Slow to Take Shape http://t.co/6atu3fS1HX",
+      "user_id": "nytimes"
+    },
+    "20": {
+      "created_at": "2014-06-01 19:26:22",
+      "text": "Damon Lindelof Promises You His New Show Won’t End Like ‘Lost’ http://t.co/PQI9eYm3cK",
+      "user_id": "nytimes"
+    },
+    "21": {
+      "created_at": "2014-06-01 19:48:20",
+      "text": "Six Climbers Are Missing on Mount Rainier http://t.co/YvoUqD6WkW",
+      "user_id": "nytimes"
+    },
+    "22": {
+      "created_at": "2014-06-01 18:29:05",
+      "text": "Soylent is the most joyless new technology to hit the world since we first laid eyes on MS-DOS http://t.co/peqmYzAagQ",
+      "user_id": "nytimes"
+    },
+    "23": {
+      "created_at": "2014-06-01 18:45:13",
+      "text": "Google's newest driverless car has no steering wheel or gas pedal and only 2 buttons: start and panic http://t.co/sKvstTylb3",
+      "user_id": "nytimes"
+    },
+    "24": {
+      "created_at": "2014-06-01 18:18:10",
+      "text": "A Wisconsin City Split Over the Mixture of Church and Sausage http://t.co/RYOL9AWwmA",
+      "user_id": "nytimes"
+    },
+    "25": {
+      "created_at": "2014-06-01 18:04:06",
+      "text": "A few options for shoppers who want to know whether they're purchasing G.M.O. foods http://t.co/auSKW0Od5A",
+      "user_id": "nytimes"
+    },
+    "26": {
+      "created_at": "2014-06-01 17:53:05",
+      "text": "Federer Ousted at French Open http://t.co/wn738ggCqe",
+      "user_id": "nytimes"
+    },
+    "27": {
+      "created_at": "2014-06-01 17:17:24",
+      "text": "3 Kidnapped Missionaries Are Freed in Cameroon http://t.co/bTknOdzWpC",
+      "user_id": "nytimes"
+    },
+    "28": {
+      "created_at": "2014-06-01 17:10:33",
+      "text": "After 5 Months of Sales, Colorado Sees the Downside of a Legal High http://t.co/uvpxamBRly",
+      "user_id": "nytimes"
+    },
+    "29": {
+      "created_at": "2014-06-01 17:51:35",
+      "text": "Business School, Disrupted http://t.co/vhMLkWHyZ8",
+      "user_id": "nytimes"
+    },
+    "30": {
+      "created_at": "2014-06-01 17:14:05",
+      "text": "An extension of the NYC subway was supposed to be finished by now. Here's what's holding it up http://t.co/a3grBLXR9W http://t.co/g4GVEL7J3V",
+      "user_id": "nytimes"
+    },
+    "31": {
+      "created_at": "2014-06-01 17:31:08",
+      "text": "Jimmy Iovine, a Master of Beats, Lends Apple a Skilled Ear http://t.co/9xaY7l3Q7J",
+      "user_id": "nytimes"
+    },
+    "32": {
+      "created_at": "2014-06-01 17:27:30",
+      "text": "Bob Mankoff’s ‘How About Never — Is Never Good for You?’ http://t.co/jzP1MqUBju",
+      "user_id": "nytimes"
+    },
+    "33": {
+      "created_at": "2014-06-01 16:24:03",
+      "text": "The turbulent history of putting a price tag on carbon emissions http://t.co/6sLZlsCV94 http://t.co/XTDpsGEHmW",
+      "user_id": "nytimes"
+    },
+    "34": {
+      "created_at": "2014-06-01 16:15:38",
+      "text": "DealBook: Mexico Issues Arrest Warrants in Banamex Fraud Inquiry http://t.co/D4vYhz9GJs",
+      "user_id": "nytimes"
+    },
+    "35": {
+      "created_at": "2014-06-01 16:09:07",
+      "text": "Early Chemotherapy Extends Lives of Men With Prostate Cancer, Study Finds http://t.co/Lf4XALJf5e",
+      "user_id": "nytimes"
+    },
+    "36": {
+      "created_at": "2014-06-01 16:44:08",
+      "text": "The Smutty-Metaphor Queen of Lawrence, Kansas http://t.co/0QIK3IIXQS",
+      "user_id": "nytimes"
+    },
+    "37": {
+      "created_at": "2014-06-01 15:45:06",
+      "text": "Timeline: 15 years of warnings on V.A. wait times http://t.co/jHQj7oczYc",
+      "user_id": "nytimes"
+    },
+    "38": {
+      "created_at": "2014-06-01 15:01:05",
+      "text": "Life in the valley of death http://t.co/eRMBvfeGDK",
+      "user_id": "nytimes"
+    },
+    "39": {
+      "created_at": "2014-06-01 15:14:06",
+      "text": "Everything You Need to Know About Thomas Piketty vs. The Financial Times http://t.co/37jOfbQ50K",
+      "user_id": "nytimes"
+    },
+    "40": {
+      "created_at": "2014-06-01 15:57:28",
+      "text": "Jenny Slate in Gillian Robespierre’s ‘Obvious Child’ http://t.co/DJywSfKS6L",
+      "user_id": "nytimes"
+    },
+    "41": {
+      "created_at": "2014-06-01 15:27:06",
+      "text": "Senate Democrats hope that focusing on local issues will save them in midterm elections http://t.co/qBRs8e7M5H",
+      "user_id": "nytimes"
+    },
+    "42": {
+      "created_at": "2014-06-01 14:15:07",
+      "text": "How Old Is Too Old for President? Depends Who's Running http://t.co/sHzcFFTfDw",
+      "user_id": "nytimes"
+    },
+    "43": {
+      "created_at": "2014-06-01 14:30:07",
+      "text": "What's the Best 'Bad' Book You've Ever Read? http://t.co/58E64RDnGT",
+      "user_id": "nytimes"
+    },
+    "44": {
+      "created_at": "2014-06-01 14:04:06",
+      "text": "Jewish-American deli food is suddenly the rage http://t.co/IBnNQpXQzg (Photo: Sasha Maslov for NYT) http://t.co/GMa1JQO0xt",
+      "user_id": "nytimes"
+    },
+    "45": {
+      "created_at": "2014-06-01 14:26:04",
+      "text": "Technophoria: The Enduring Promise of a Thinner You http://t.co/mC7yruMb14",
+      "user_id": "nytimes"
+    },
+    "46": {
+      "created_at": "2014-06-01 14:42:25",
+      "text": "N.S.A. Collecting Millions of Faces From Web Images http://t.co/xJLChaHhuV",
+      "user_id": "nytimes"
+    },
+    "47": {
+      "created_at": "2014-06-01 14:31:30",
+      "text": "Using Executive Powers, Obama Begins His Last Big Push on Climate Policy http://t.co/LiDldGtve6",
+      "user_id": "nytimes"
+    },
+    "48": {
+      "created_at": "2014-06-01 14:43:06",
+      "text": "The V.A. scandal poses political peril for both Democrats and Republicans http://t.co/gFbMxtIsSU",
+      "user_id": "nytimes"
+    },
+    "49": {
+      "created_at": "2014-06-01 13:28:05",
+      "text": "How did brunch become so cutting edge? http://t.co/ou704UrbGs",
+      "user_id": "nytimes"
+    },
+    "50": {
+      "created_at": "2014-06-01 13:48:20",
+      "text": "Summer Reading http://t.co/1fzi1IOnxZ",
+      "user_id": "nytimes"
+    },
+    "51": {
+      "created_at": "2014-06-01 13:23:05",
+      "text": "Suspect Arrested in Jewish Museum Killings in Belgium http://t.co/ks1CtlSTkS",
+      "user_id": "nytimes"
+    },
+    "52": {
+      "created_at": "2014-06-01 13:00:13",
+      "text": "These are the French toast recipes someone should be making you for breakfast http://t.co/9Av54EgW6J",
+      "user_id": "nytimes"
+    },
+    "53": {
+      "created_at": "2014-06-01 13:16:05",
+      "text": "This summer's reads from The NYT Sunday Book Review http://t.co/R7nkYrs2eS http://t.co/tRnU0abvUo",
+      "user_id": "nytimes"
+    },
+    "54": {
+      "created_at": "2014-06-01 12:57:07",
+      "text": "Hagel Celebrates Bowe Bergdahl’s Release in Surprise Afghan Visit http://t.co/d1dNkAq543",
+      "user_id": "nytimes"
+    },
+    "55": {
+      "created_at": "2014-06-01 12:15:40",
+      "text": "Early Chemotherapy Extends Lives of Men With Prostate Cancer, Study Finds http://t.co/ScXaG0FOPK",
+      "user_id": "nytimes"
+    },
+    "56": {
+      "created_at": "2014-06-01 12:42:02",
+      "text": "A new Michael Jordan biography is in awe of his career. What makes the book worthwhile is everything else it tells http://t.co/SIQ6oSKm63",
+      "user_id": "nytimes"
+    },
+    "57": {
+      "created_at": "2014-06-01 12:18:06",
+      "text": "Who invented the French press coffee maker? http://t.co/apwnRBmkjC",
+      "user_id": "nytimes"
+    },
+    "58": {
+      "created_at": "2014-06-01 11:49:52",
+      "text": "Bowe Bergdahl, American Soldier, Freed by Taliban in Prisoner Trade http://t.co/F6pOHi5tt1",
+      "user_id": "nytimes"
+    },
+    "59": {
+      "created_at": "2014-06-01 11:16:02",
+      "text": "Tracing the evolution of our national anxiety that Shakespeare, our adopted national poet, never saw America http://t.co/wflq3mHOXz",
+      "user_id": "nytimes"
+    },
+    "60": {
+      "created_at": "2014-06-01 10:35:04",
+      "text": "The evolving world of gay travel http://t.co/actCIGrK9U",
+      "user_id": "nytimes"
+    },
+    "61": {
+      "created_at": "2014-06-01 10:01:03",
+      "text": "France: Suspect in Brussels Jewish Museum Arrested http://t.co/OGyGjNPW7S",
+      "user_id": "nytimes"
+    },
+    "62": {
+      "created_at": "2014-06-01 09:50:01",
+      "text": "Listening Post: In Obama’s Speeches, a Shifting Tone on Terror http://t.co/e1Cc4dEesz",
+      "user_id": "nytimes"
+    },
+    "63": {
+      "created_at": "2014-06-01 09:01:02",
+      "text": "36 hours on the beach in Barcelona http://t.co/dE7MCv1P3F",
+      "user_id": "nytimes"
+    },
+    "64": {
+      "created_at": "2014-06-01 09:23:21",
+      "text": "After Deadly Rampage, Sheriff’s Office Faces Concerns About Conduct http://t.co/vZQetNava5",
+      "user_id": "nytimes"
+    },
+    "65": {
+      "created_at": "2014-06-01 08:38:09",
+      "text": "They take pride in the way they dress in Goma in eastern Congo http://t.co/f8VOrkgEx8",
+      "user_id": "nytimes"
+    },
+    "66": {
+      "created_at": "2014-06-01 08:24:29",
+      "text": "Many Veterans Praise Care, but All Hate the Wait http://t.co/40JTWhMKJJ",
+      "user_id": "nytimes"
+    },
+    "67": {
+      "created_at": "2014-06-01 08:04:06",
+      "text": "Ukraine is looking to farming to help fix its economy and reduce its dependence on Russia http://t.co/aFTvhwMy9C",
+      "user_id": "nytimes"
+    },
+    "68": {
+      "created_at": "2014-06-01 07:25:01",
+      "text": "Pentagon’s Plan to Enlist Young Immigrants Is Delayed http://t.co/AOxn4q2cGY",
+      "user_id": "nytimes"
+    },
+    "69": {
+      "created_at": "2014-06-01 07:41:20",
+      "text": "Private Jet Crashes in Massachusetts, Killing 7 http://t.co/uARQyZsW7l",
+      "user_id": "nytimes"
+    },
+    "70": {
+      "created_at": "2014-06-01 07:04:52",
+      "text": "Style Q&amp;A: Style Q&amp;A: John Waters, CFDA Awards Host http://t.co/8gOVCtOcbX",
+      "user_id": "nytimes"
+    },
+    "71": {
+      "created_at": "2014-06-01 06:26:37",
+      "text": "Watson Holds Lead at Memorial, but Mickelson Garners More Attention http://t.co/K4dnTQt0tQ",
+      "user_id": "nytimes"
+    },
+    "72": {
+      "created_at": "2014-06-01 06:05:56",
+      "text": "American Businesses in China Feel Heat of a Cyberdispute http://t.co/cn0I6ExqCF",
+      "user_id": "nytimes"
+    },
+    "73": {
+      "created_at": "2014-06-01 06:47:47",
+      "text": "Harrah’s Tunica Casino to Close, Hinting at Gambling Glut http://t.co/GyrUBiTHkZ",
+      "user_id": "nytimes"
+    },
+    "74": {
+      "created_at": "2014-06-01 05:24:14",
+      "text": "Lesson for P.O.W.’s Father: Men Sometimes Do Come Back http://t.co/3OXf106DMG",
+      "user_id": "nytimes"
+    },
+    "75": {
+      "created_at": "2014-06-01 05:44:34",
+      "text": "French Crowds Love and Hate Their Own http://t.co/LRRtM0bTn2",
+      "user_id": "nytimes"
+    },
+    "76": {
+      "created_at": "2014-06-01 05:04:09",
+      "text": "Spurs 112, Thunder 107: Duncan Gives Spurs Another Shot at the Heat http://t.co/E0MJYYtVZa",
+      "user_id": "nytimes"
+    },
+    "77": {
+      "created_at": "2014-06-01 04:58:09",
+      "text": "Behind Rihanna's style is a guy named Mel http://t.co/Q7VRyfkmf3",
+      "user_id": "nytimes"
+    },
+    "78": {
+      "created_at": "2014-06-01 04:11:54",
+      "text": "Hilaria Baldwin Holds Her Center http://t.co/HSaanJVPE0",
+      "user_id": "nytimes"
+    },
+    "79": {
+      "created_at": "2014-06-01 04:37:57",
+      "text": "Cuomo Secures Support of Working Families Party http://t.co/npuBGyIZMi",
+      "user_id": "nytimes"
+    },
+    "80": {
+      "created_at": "2014-06-01 04:14:05",
+      "text": "China chafes at the growth of Christianity http://t.co/PMK573YnFA",
+      "user_id": "nytimes"
+    },
+    "81": {
+      "created_at": "2014-06-01 04:27:08",
+      "text": "Bob Newhart, Master of the One-Sided Conversation http://t.co/xmdtl25WyD",
+      "user_id": "nytimes"
+    },
+    "82": {
+      "created_at": "2014-06-01 00:44:04",
+      "text": "Let's not pretend to be who we aren't (in bed) http://t.co/9NkGQjOywE",
+      "user_id": "nytimes"
+    },
+    "83": {
+      "created_at": "2014-06-01 00:00:13",
+      "text": "How online dating explains the truth about the digital economy http://t.co/SjSKO2PnIs",
+      "user_id": "nytimes"
+    },
+    "84": {
+      "created_at": "2014-06-01 00:58:47",
+      "text": "Police Search for Upset Teenager Who Sank Into the Hudson http://t.co/vRXdc7jsSe",
+      "user_id": "nytimes"
+    },
+    "85": {
+      "created_at": "2014-06-01 00:59:04",
+      "text": "One night a week, a hidden lap dance party opens up in Manhattan (Photo: Richard Perry/NYT) http://t.co/JZaz0qZZIf http://t.co/n8FRryqL4n",
+      "user_id": "nytimes"
+    },
+    "86": {
+      "created_at": "2014-06-01 00:31:05",
+      "text": "Scientists report they were able to reliably teleport data http://t.co/f57DMLMUbl",
+      "user_id": "nytimes"
+    },
+    "87": {
+      "created_at": "2014-06-01 00:18:05",
+      "text": "The NYT obituary for Maya Angelou http://t.co/JCyBX49aJS",
+      "user_id": "nytimes"
+    },
+    "88": {
+      "created_at": "2014-06-01 03:59:06",
+      "text": "Violence spikes in Rio ahead of the World Cup http://t.co/j6f7utvqHK",
+      "user_id": "nytimes"
+    },
+    "89": {
+      "created_at": "2014-06-01 03:02:07",
+      "text": "Tournament of Ants http://t.co/03AHzXs4Xc",
+      "user_id": "nytimes"
+    },
+    "90": {
+      "created_at": "2014-06-01 03:44:07",
+      "text": "A cop has a question for San Francisco's bike thieves: Are you feeling lucky punk? http://t.co/rnqISHb4oV",
+      "user_id": "nytimes"
+    },
+    "91": {
+      "created_at": "2014-06-01 03:13:07",
+      "text": "Putting Soylent to the taste test http://t.co/7owjcj9t1G http://t.co/h2QCtnQabS",
+      "user_id": "nytimes"
+    },
+    "92": {
+      "created_at": "2014-06-01 03:31:08",
+      "text": "What happens when Hollywood descends on Brooklyn http://t.co/Cc3F1KU7t6",
+      "user_id": "nytimes"
+    },
+    "93": {
+      "created_at": "2014-06-01 02:12:04",
+      "text": "Five intimate performances from 2014 Tony Awards nominees http://t.co/pxdM8wk2pN http://t.co/OAI3dczBi2",
+      "user_id": "nytimes"
+    },
+    "94": {
+      "created_at": "2014-06-01 02:30:04",
+      "text": "Join us at the piano and hear how dissonant moments in classical music are made http://t.co/aJxGweEwrI",
+      "user_id": "nytimes"
+    },
+    "95": {
+      "created_at": "2014-06-01 02:27:13",
+      "text": "A Soldier Is Missing. What Comes Next? http://t.co/7ngT8THHsq",
+      "user_id": "nytimes"
+    },
+    "96": {
+      "created_at": "2014-06-01 02:46:08",
+      "text": "Don't panic: Our galaxy won't collide with one of its neighbors for about 2 billion years http://t.co/zkzqoZAP1y",
+      "user_id": "nytimes"
+    },
+    "97": {
+      "created_at": "2014-06-01 02:00:18",
+      "text": "A farewell to Maya Angelou http://t.co/XiB0MBYnJw",
+      "user_id": "nytimes"
+    },
+    "98": {
+      "created_at": "2014-06-01 01:43:04",
+      "text": "The Smutty-Metaphor Queen of Lawrence, Kansas http://t.co/SsEwLfbLyi",
+      "user_id": "nytimes"
+    },
+    "99": {
+      "created_at": "2014-06-01 01:35:09",
+      "text": "I’ll Have Another, Former Triple Crown Contender, Settles In at a Japanese Farm http://t.co/wTqwX1AGj5",
+      "user_id": "nytimes"
+    },
+    "100": {
+      "created_at": "2014-06-01 01:15:03",
+      "text": "A man deposited $100,000 into a bank. That night, he refereed a soccer match between South Africa and Guatemala http://t.co/7QtpLbDNhn",
+      "user_id": "nytimes"
+    },
+    "101": {
+      "created_at": "2014-06-01 01:29:08",
+      "text": "Life in the valley of death http://t.co/6WUAOS3fJi",
+      "user_id": "nytimes"
+    },
+    "102": {
+      "created_at": "2014-06-01 20:33:05",
+      "text": "Breaking News: E.P.A. to Seek 30 Percent Cut in Carbon Emissions by 2030 http://t.co/gu0AWcrkAR",
+      "user_id": "nytimes"
+    },
+    "103": {
+      "created_at": "2014-06-01 13:39:38",
+      "text": "Breaking News: Co-Owner of Philidelphia Inquirer Among Plane Crash Victims in Massachusetts http://t.co/J28ruc50W6",
+      "user_id": "nytimes"
+    },
+    "104": {
+      "created_at": "2014-06-02 23:43:11",
+      "text": "New Carbon Rules Unlikely to Start Energy Revolution http://t.co/eTVjw7wfV7",
+      "user_id": "nytimes"
+    },
+    "105": {
+      "created_at": "2014-06-02 23:00:13",
+      "text": "Elliot Rodger's killings in California followed years of withdrawal http://t.co/BXpq6H7eAJ",
+      "user_id": "nytimes"
+    },
+    "106": {
+      "created_at": "2014-06-02 23:30:12",
+      "text": "Why new carbon rules are unlikely to start an energy revolution http://t.co/5SKd8m7wvT",
+      "user_id": "nytimes"
+    },
+    "107": {
+      "created_at": "2014-06-02 22:38:57",
+      "text": "Why Democrats have little to lose in taking on the coal industry http://t.co/YBrwj3AQiE",
+      "user_id": "nytimes"
+    },
+    "108": {
+      "created_at": "2014-06-02 22:20:09",
+      "text": "Wine School: ‘Listening’ to Sancerre Tell Its Story http://t.co/88B94LiuGd",
+      "user_id": "nytimes"
+    },
+    "109": {
+      "created_at": "2014-06-02 21:35:19",
+      "text": "Your Evening Briefing is ready for you. http://t.co/1dHjr9wLD2 via @nytnow",
+      "user_id": "nytimes"
+    },
+    "110": {
+      "created_at": "2014-06-02 20:25:44",
+      "text": "Wine School: Your Next Lesson: Riesling http://t.co/fcbNUhYioZ",
+      "user_id": "nytimes"
+    },
+    "111": {
+      "created_at": "2014-06-02 20:55:27",
+      "text": "Travel with us to see how the U.S. is being changed by immigration http://t.co/NjNlURyQDp http://t.co/mbp1kkhTq6",
+      "user_id": "nytimes"
+    },
+    "112": {
+      "created_at": "2014-06-02 20:05:25",
+      "text": "\"Game of Thrones\" recap: Significant evolutions of major characters and their allegiances with one another http://t.co/ngCjsP8Iic",
+      "user_id": "nytimes"
+    },
+    "113": {
+      "created_at": "2014-06-02 19:21:33",
+      "text": "Neighbors don't love the 33-foot-tall statue of a naked woman ripped open to reveal a fetus http://t.co/xp51TPGvB0",
+      "user_id": "nytimes"
+    },
+    "114": {
+      "created_at": "2014-06-02 19:36:11",
+      "text": "A man deposited $100,000 into a bank. That night, he refereed a soccer match between South Africa and Guatemala http://t.co/7l1MG2wlmQ",
+      "user_id": "nytimes"
+    },
+    "115": {
+      "created_at": "2014-06-02 19:47:55",
+      "text": "Early chemotherapy extends lives of men with prostate cancer, study finds http://t.co/ywxpD8aVqa",
+      "user_id": "nytimes"
+    },
+    "116": {
+      "created_at": "2014-06-02 19:48:45",
+      "text": "ArtsBeat: Oliver Stone Plans a Film About Edward Snowden http://t.co/g6nIMEaprG",
+      "user_id": "nytimes"
+    },
+    "117": {
+      "created_at": "2014-06-02 19:22:39",
+      "text": "Russia Gives Ukraine More Time to Pay for Natural Gas http://t.co/VNUJy6VZlJ",
+      "user_id": "nytimes"
+    },
+    "118": {
+      "created_at": "2014-06-02 18:25:27",
+      "text": "Old Guard Returns for Hot 97 Summer Jam http://t.co/1lVMtjAOxT",
+      "user_id": "nytimes"
+    },
+    "119": {
+      "created_at": "2014-06-02 18:56:46",
+      "text": "The New Health Care: Calling an Ordinary Health Problem a Disease Leads to Bigger Problems http://t.co/r7K104iOYL",
+      "user_id": "nytimes"
+    },
+    "120": {
+      "created_at": "2014-06-02 18:10:11",
+      "text": "The words of a notorious match fixer reveal how pervasively illicit gambling has infected global soccer http://t.co/6zhbTrHzsD",
+      "user_id": "nytimes"
+    },
+    "121": {
+      "created_at": "2014-06-02 18:14:53",
+      "text": "The Public Editor's Journal: Nicholas Kristof Should Give Readers a Full Explanation About Somaly Mam http://t.co/FDf51h5gKg",
+      "user_id": "nytimes"
+    },
+    "122": {
+      "created_at": "2014-06-02 17:49:00",
+      "text": "Obama tries to reclaim leadership on climate change http://t.co/oE9jzDa1lI",
+      "user_id": "nytimes"
+    },
+    "123": {
+      "created_at": "2014-06-02 17:23:21",
+      "text": "At Ukraine's perilous border, law is dispensed by men in masks http://t.co/SaL9RV4DoT",
+      "user_id": "nytimes"
+    },
+    "124": {
+      "created_at": "2014-06-02 17:53:50",
+      "text": "Apple Presents Update of Its Mac Operating System http://t.co/M8umZFgy9a",
+      "user_id": "nytimes"
+    },
+    "125": {
+      "created_at": "2014-06-02 17:32:46",
+      "text": "Carbon Plan Puts Democrats in Coal States on the Defensive http://t.co/U0UC6h3VYa",
+      "user_id": "nytimes"
+    },
+    "126": {
+      "created_at": "2014-06-02 16:56:06",
+      "text": "At WWDC, Apple Is Set to Make Push Into Monitoring Health and Home http://t.co/gbm6g9iX4N",
+      "user_id": "nytimes"
+    },
+    "127": {
+      "created_at": "2014-06-02 16:14:24",
+      "text": "Chemical Weapons Treaty Does Not Apply to Domestic Dispute, Justices Rule http://t.co/dh5DxyKqXM",
+      "user_id": "nytimes"
+    },
+    "128": {
+      "created_at": "2014-06-02 16:50:58",
+      "text": "China’s Battle Against Google Heats Up http://t.co/rCntDnxem9",
+      "user_id": "nytimes"
+    },
+    "129": {
+      "created_at": "2014-06-02 15:37:38",
+      "text": "The Caucus: Reaction to Obama Administration Carbon Emissions Proposal http://t.co/c8NgHFhkCj",
+      "user_id": "nytimes"
+    },
+    "130": {
+      "created_at": "2014-06-02 15:53:30",
+      "text": "Battling Destructive Computer Viruses, Agents Seize Networks Used by Hackers http://t.co/LprJoyvevV",
+      "user_id": "nytimes"
+    },
+    "131": {
+      "created_at": "2014-06-02 15:23:22",
+      "text": "A new Palestinian government was sworn in today. Here's what you need to know about it: http://t.co/fMYy7m6T18",
+      "user_id": "nytimes"
+    },
+    "132": {
+      "created_at": "2014-06-02 14:35:27",
+      "text": "Police Search for Suspect in Fatal East New York Stabbing http://t.co/vfDu0mo9x3",
+      "user_id": "nytimes"
+    },
+    "133": {
+      "created_at": "2014-06-02 14:57:23",
+      "text": "Primavera Sound Sets the Stage for Music Festivals Worldwide http://t.co/EKYA8njU7z",
+      "user_id": "nytimes"
+    },
+    "134": {
+      "created_at": "2014-06-02 14:14:56",
+      "text": "Unveiling New Carbon Plan, E.P.A. Focuses on Flexibility http://t.co/vg3ng8K8y7",
+      "user_id": "nytimes"
+    },
+    "135": {
+      "created_at": "2014-06-02 14:00:16",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/61b3IATOTg via @nytnow",
+      "user_id": "nytimes"
+    },
+    "136": {
+      "created_at": "2014-06-02 13:54:06",
+      "text": "Supreme Court Rejects Appeal From Reporter Over Identity of Source http://t.co/QOyNOy9DZ4",
+      "user_id": "nytimes"
+    },
+    "137": {
+      "created_at": "2014-06-02 13:32:14",
+      "text": "The Media Equation: Amazon Absorbing Price Fight Punches http://t.co/nRuWk7uCNL",
+      "user_id": "nytimes"
+    },
+    "138": {
+      "created_at": "2014-06-02 13:33:16",
+      "text": "ArtsBeat: ‘Game of Thrones’ Recap: Mountain Meets Viper http://t.co/EZzUZGXQwU",
+      "user_id": "nytimes"
+    },
+    "139": {
+      "created_at": "2014-06-02 13:11:22",
+      "text": "Hachette Chief Leads Book Publishers in Amazon Fight http://t.co/3d4nRclfSu",
+      "user_id": "nytimes"
+    },
+    "140": {
+      "created_at": "2014-06-02 12:10:56",
+      "text": "A Cooling in Poland’s Love Affair With the U.S. http://t.co/ibSCoP62sV",
+      "user_id": "nytimes"
+    },
+    "141": {
+      "created_at": "2014-06-02 12:30:13",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/qpCD81Wt7Q via @nytnow",
+      "user_id": "nytimes"
+    },
+    "142": {
+      "created_at": "2014-06-02 12:40:59",
+      "text": "Cancer Researchers Report Longer Survival Rates With Immunotherapy http://t.co/vobu2vVRGS",
+      "user_id": "nytimes"
+    },
+    "143": {
+      "created_at": "2014-06-02 12:51:30",
+      "text": "Abbas Swears In a New Palestinian Government http://t.co/gicDGjBuNu",
+      "user_id": "nytimes"
+    },
+    "144": {
+      "created_at": "2014-06-02 12:46:19",
+      "text": "Day 16: Stops and Starts http://t.co/S2ml5fBImy",
+      "user_id": "nytimes"
+    },
+    "145": {
+      "created_at": "2014-06-02 11:22:37",
+      "text": "DealBook: Brazilian Bank Predicts World Cup Winner http://t.co/vsuoNlsb0B",
+      "user_id": "nytimes"
+    },
+    "146": {
+      "created_at": "2014-06-02 11:07:18",
+      "text": "Separatists Storm Border Post in Eastern Ukraine http://t.co/aTAWEmvY4l",
+      "user_id": "nytimes"
+    },
+    "147": {
+      "created_at": "2014-06-02 11:30:06",
+      "text": "New York Today: June Is for Hockey Heroes http://t.co/zE30aVSxdD",
+      "user_id": "nytimes"
+    },
+    "148": {
+      "created_at": "2014-06-02 11:50:11",
+      "text": "Pulse of the People: Is Global Warming Real? Most Americans Say Yes http://t.co/JLqI7g1bn5",
+      "user_id": "nytimes"
+    },
+    "149": {
+      "created_at": "2014-06-02 11:00:11",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/8XszSz2UOo via @nytnow",
+      "user_id": "nytimes"
+    },
+    "150": {
+      "created_at": "2014-06-02 10:30:40",
+      "text": "City Room: New York Today: June Is for Hockey Heroes http://t.co/Px3LmKUDwD",
+      "user_id": "nytimes"
+    },
+    "151": {
+      "created_at": "2014-06-02 09:17:28",
+      "text": "King Juan Carlos of Spain to Abdicate Throne http://t.co/0W0kRcnS2W",
+      "user_id": "nytimes"
+    },
+    "152": {
+      "created_at": "2014-06-02 09:01:16",
+      "text": "An Impressive Workout by California Chrome Electrifies Belmont Park http://t.co/RhwvgNXVpA",
+      "user_id": "nytimes"
+    },
+    "153": {
+      "created_at": "2014-06-02 09:37:55",
+      "text": "Rigged: Part 2 of a Two-Part Series: Inside the Fixing: How a Gang Battered Soccer’s Frail Integrity http://t.co/ZeYa3Z6cW5",
+      "user_id": "nytimes"
+    },
+    "154": {
+      "created_at": "2014-06-02 08:19:51",
+      "text": "Scots Are Divided Over Independence, and Its Economic Costs http://t.co/uQNXy2mx92",
+      "user_id": "nytimes"
+    },
+    "155": {
+      "created_at": "2014-06-02 08:40:52",
+      "text": "Environmental Groups Focus on Change by Strengthening Their Political Operations http://t.co/JLfFW2KUHX",
+      "user_id": "nytimes"
+    },
+    "156": {
+      "created_at": "2014-06-02 08:04:11",
+      "text": "ArtsBeat: ‘Halt and Catch Fire’ Recap: Can Geekiness Be Entertaining? http://t.co/FmldewcOVq",
+      "user_id": "nytimes"
+    },
+    "157": {
+      "created_at": "2014-06-02 07:43:13",
+      "text": "Study Examines Efficacy of Taxes on Sugary Drinks http://t.co/mMgopACAe8",
+      "user_id": "nytimes"
+    },
+    "158": {
+      "created_at": "2014-06-02 07:22:12",
+      "text": "25 Years Later, Details Emerge of Army’s Chaos Before Tiananmen Square http://t.co/JP8pHR03Fw",
+      "user_id": "nytimes"
+    },
+    "159": {
+      "created_at": "2014-06-02 07:10:58",
+      "text": "Israel Warns Against Embracing Newly Reconciled Palestinian Government http://t.co/5vJi40LDQb",
+      "user_id": "nytimes"
+    },
+    "160": {
+      "created_at": "2014-06-02 06:50:44",
+      "text": "With South Bronx Trail, a History and a Culture Will Be Clearly Marked http://t.co/PQ3br4YAsB",
+      "user_id": "nytimes"
+    },
+    "161": {
+      "created_at": "2014-06-02 06:19:20",
+      "text": "Google Glass Enters the Operating Room http://t.co/S8IiUv4ONv",
+      "user_id": "nytimes"
+    },
+    "162": {
+      "created_at": "2014-06-02 06:29:51",
+      "text": "Elliot O. Rodger’s Killings in California Followed Years of Withdrawal http://t.co/quDK3UqX2Z",
+      "user_id": "nytimes"
+    },
+    "163": {
+      "created_at": "2014-06-02 05:16:24",
+      "text": "Boy, 6, Dies After a Stabbing in Brooklyn http://t.co/pWs5h6mcBA",
+      "user_id": "nytimes"
+    },
+    "164": {
+      "created_at": "2014-06-02 05:37:38",
+      "text": "KWEM’s Return Has West Memphis Reliving Its Role in Radio History http://t.co/JImWWLBFmd",
+      "user_id": "nytimes"
+    },
+    "165": {
+      "created_at": "2014-06-02 05:58:19",
+      "text": "Prisoner Trade Yields Rare View Into the Taliban http://t.co/7Lwu1qKOv7",
+      "user_id": "nytimes"
+    },
+    "166": {
+      "created_at": "2014-06-02 04:39:27",
+      "text": "Prison Program Turns Inmates Into Intellectuals http://t.co/NbHrg2C0Qy",
+      "user_id": "nytimes"
+    },
+    "167": {
+      "created_at": "2014-06-02 04:59:49",
+      "text": "Killings in Iraq, at 799, Reach a Monthly High http://t.co/lme67Pvl05",
+      "user_id": "nytimes"
+    },
+    "168": {
+      "created_at": "2014-06-02 04:19:05",
+      "text": "Day 15: Cultural Crossroads http://t.co/W4Fo3EzvjY",
+      "user_id": "nytimes"
+    },
+    "169": {
+      "created_at": "2014-06-02 03:03:07",
+      "text": "Andromeda and the Milky Way: A Merger of Galactic Proportions http://t.co/LF8DbPPKiS",
+      "user_id": "nytimes"
+    },
+    "170": {
+      "created_at": "2014-06-02 03:43:04",
+      "text": "Why you hate work http://t.co/sYZWEFODp4",
+      "user_id": "nytimes"
+    },
+    "171": {
+      "created_at": "2014-06-02 03:16:07",
+      "text": "If you want to age well, walk more http://t.co/pC66VlY0cq",
+      "user_id": "nytimes"
+    },
+    "172": {
+      "created_at": "2014-06-02 03:58:08",
+      "text": "Times Haiku: On the other hand, everybody these days is a photographer. http://t.co/6kHSTc0vTh",
+      "user_id": "nytimes"
+    },
+    "173": {
+      "created_at": "2014-06-02 03:31:06",
+      "text": "Fast Food, Empty Piggy Banks http://t.co/3Shqhwgv9G via @nytopinion",
+      "user_id": "nytimes"
+    },
+    "174": {
+      "created_at": "2014-06-02 03:17:19",
+      "text": "Planned Celebration for Sgt. Bowe Bergdahl Just Got a Whole Lot Bigger http://t.co/CT8P0OJ0yq",
+      "user_id": "nytimes"
+    },
+    "175": {
+      "created_at": "2014-06-02 03:38:04",
+      "text": "Kings Beat Blackhawks to Set Up Stanley Cup Finals Against the Rangers http://t.co/WSh9QlFQuq",
+      "user_id": "nytimes"
+    },
+    "176": {
+      "created_at": "2014-06-02 02:14:01",
+      "text": "Share your predictions about who will win at the 2014 Tony Awards http://t.co/gVmZ4a20GJ",
+      "user_id": "nytimes"
+    },
+    "177": {
+      "created_at": "2014-06-02 02:10:31",
+      "text": "In GPS Battle, Russia Sets Restrictions of Its Own http://t.co/GmK9zlPgXz",
+      "user_id": "nytimes"
+    },
+    "178": {
+      "created_at": "2014-06-02 02:36:06",
+      "text": "Safety and comfort for the gay traveler http://t.co/rNv1Ps1Lig",
+      "user_id": "nytimes"
+    },
+    "179": {
+      "created_at": "2014-06-02 02:00:14",
+      "text": "A roundtable with the creators and stars of \"Orange Is the New Black\" http://t.co/kPoDG8lLAm",
+      "user_id": "nytimes"
+    },
+    "180": {
+      "created_at": "2014-06-02 02:41:11",
+      "text": "Census Records Shed a New Light on Some of the Mayor’s Forebears http://t.co/IErHmMvpPB",
+      "user_id": "nytimes"
+    },
+    "181": {
+      "created_at": "2014-06-02 02:28:03",
+      "text": "Damon Lindelof Promises You His New Show Won't End Like \"Lost\" http://t.co/QcrmvYtkEa",
+      "user_id": "nytimes"
+    },
+    "182": {
+      "created_at": "2014-06-02 01:05:04",
+      "text": "Five intimate performances from 2014 Tony Awards nominees http://t.co/5tGpMjIZp0 http://t.co/N20WMvt7LS",
+      "user_id": "nytimes"
+    },
+    "183": {
+      "created_at": "2014-06-02 01:16:04",
+      "text": "A journey north to explore how the U.S. has been changed by immigration http://t.co/8qetHiLjCv http://t.co/cW3f5geFI0",
+      "user_id": "nytimes"
+    },
+    "184": {
+      "created_at": "2014-06-02 01:29:05",
+      "text": "\"You know what they call $4 billion in the illegal betting markets in Asia? Thursday.\" http://t.co/wSNRUCNsys",
+      "user_id": "nytimes"
+    },
+    "185": {
+      "created_at": "2014-06-02 01:44:05",
+      "text": "Dissonance in music is usually seen as a clashing combination of notes. But it's not that simple http://t.co/WfVFQhSXPd",
+      "user_id": "nytimes"
+    },
+    "186": {
+      "created_at": "2014-06-02 00:43:07",
+      "text": "How to get girls into coding http://t.co/XQetnalfRl via @nytopinion http://t.co/kJbzgT1Rfe",
+      "user_id": "nytimes"
+    },
+    "187": {
+      "created_at": "2014-06-02 00:57:53",
+      "text": "Ann B. Davis, the Maid on ‘The Brady Bunch,’ Dies at 88 http://t.co/DhthHY0kXj",
+      "user_id": "nytimes"
+    },
+    "188": {
+      "created_at": "2014-06-02 00:20:08",
+      "text": "The words of a notorious match fixer reveal how pervasively illicit gambling has infected global soccer http://t.co/3uocQyCm0S",
+      "user_id": "nytimes"
+    },
+    "189": {
+      "created_at": "2014-06-02 23:52:43",
+      "text": "Breaking News: Inquiry Implicates Former Brooklyn D.A. in Misuse of Public Funds http://t.co/0xu6Cq0Bzh",
+      "user_id": "nytimes"
+    },
+    "190": {
+      "created_at": "2014-06-02 03:27:38",
+      "text": "Sports Alert: Kings Head to Stanley Cup Finals http://t.co/iwNbvs34u3",
+      "user_id": "nytimes"
+    },
+    "191": {
+      "created_at": "2014-06-05 23:53:01",
+      "text": "In terms of fans, the Miami Heat have already beaten the San Antonio Spurs http://t.co/5YuGWfttLk http://t.co/12Qqg5bqMN",
+      "user_id": "nytimes"
+    },
+    "192": {
+      "created_at": "2014-06-05 22:20:29",
+      "text": "Matter: Putting a Price Tag on Nature’s Defenses http://t.co/2BdHncwi5E",
+      "user_id": "nytimes"
+    },
+    "193": {
+      "created_at": "2014-06-05 22:11:49",
+      "text": "Your Evening Briefing is ready for you. http://t.co/EmeILLUT8r via @nytnow",
+      "user_id": "nytimes"
+    },
+    "194": {
+      "created_at": "2014-06-05 22:06:29",
+      "text": "Top Dutch Aerospace Firm Settles Sanctions Violations http://t.co/Y6rt09YKvf",
+      "user_id": "nytimes"
+    },
+    "195": {
+      "created_at": "2014-06-05 21:17:45",
+      "text": "The Public Editor's Journal: Titillation or Illumination on The Times’s New ‘Sin Beat’? http://t.co/1i6ySiAdrD",
+      "user_id": "nytimes"
+    },
+    "196": {
+      "created_at": "2014-06-05 21:44:34",
+      "text": "Asia Society Museum Director to Lead Hirshhorn http://t.co/qMTL1tKlx0",
+      "user_id": "nytimes"
+    },
+    "197": {
+      "created_at": "2014-06-05 21:18:50",
+      "text": "Bits Blog: New Bug Found in Widely Used OpenSSL Encryption http://t.co/VnftLFxQ5H",
+      "user_id": "nytimes"
+    },
+    "198": {
+      "created_at": "2014-06-05 20:26:16",
+      "text": "Woman in the News: Sylvia Mathews Burwell Builds Relationships From West Virginia to Washington http://t.co/nDFh0egXlQ",
+      "user_id": "nytimes"
+    },
+    "199": {
+      "created_at": "2014-06-05 20:43:56",
+      "text": "For the first time, the International Criminal Court's statute included forms of sexual violence as war crimes http://t.co/YLoZt034iZ",
+      "user_id": "nytimes"
+    },
+    "200": {
+      "created_at": "2014-06-05 20:56:59",
+      "text": "Harvard confirms a book in one of its libraries is bound in human skin http://t.co/beHxYMgcaO",
+      "user_id": "nytimes"
+    },
+    "201": {
+      "created_at": "2014-06-05 20:05:47",
+      "text": "U.S. Commander in Afghanistan Tapped to Lead Marine Corps http://t.co/sMH7wZq5Am",
+      "user_id": "nytimes"
+    },
+    "202": {
+      "created_at": "2014-06-05 19:44:30",
+      "text": "Hillary Clinton seeks to set pace with a breakneck schedule http://t.co/v3pj7Cnc9f",
+      "user_id": "nytimes"
+    },
+    "203": {
+      "created_at": "2014-06-05 19:35:26",
+      "text": "Bits Blog: Amazon Boycott Gets a Helping Hand From Stephen Colbert http://t.co/xF4rzTr9uF",
+      "user_id": "nytimes"
+    },
+    "204": {
+      "created_at": "2014-06-05 19:13:32",
+      "text": "Hungry City: Flinders Lane in the East Village http://t.co/3h838ceVOX",
+      "user_id": "nytimes"
+    },
+    "205": {
+      "created_at": "2014-06-05 18:00:31",
+      "text": "DealBook: BNP Executive Asked to Leave Amid Investigation http://t.co/VhjjreiD89",
+      "user_id": "nytimes"
+    },
+    "206": {
+      "created_at": "2014-06-05 18:31:41",
+      "text": "Senate Confirms Burwell to Lead Health and Human Services http://t.co/WQep4eKVm7",
+      "user_id": "nytimes"
+    },
+    "207": {
+      "created_at": "2014-06-05 18:57:38",
+      "text": "Senators Announce Accord on Improving Veterans’ Care http://t.co/maEOlPAMpe",
+      "user_id": "nytimes"
+    },
+    "208": {
+      "created_at": "2014-06-05 18:41:57",
+      "text": "In Pre-K Expansion, Fewer Than Half of City Students Get Top-Choice School http://t.co/NAd7sxFtO1",
+      "user_id": "nytimes"
+    },
+    "209": {
+      "created_at": "2014-06-05 18:10:31",
+      "text": "The NYT obituary for Don Zimmer http://t.co/LMj6u3oyyS",
+      "user_id": "nytimes"
+    },
+    "210": {
+      "created_at": "2014-06-05 17:42:09",
+      "text": "A journey north to explore how the U.S. has been changed by immigration http://t.co/t55XmF4C0a http://t.co/i2FdCmHzt1",
+      "user_id": "nytimes"
+    },
+    "211": {
+      "created_at": "2014-06-05 17:56:21",
+      "text": "Daniel St. Hubert Served Prison Time for Attacking His Mother http://t.co/TjQmSrYiCm",
+      "user_id": "nytimes"
+    },
+    "212": {
+      "created_at": "2014-06-05 17:44:27",
+      "text": "Bergdahl Walked Away Before, Military Report Says http://t.co/IWQjDcRWPF",
+      "user_id": "nytimes"
+    },
+    "213": {
+      "created_at": "2014-06-05 17:14:19",
+      "text": "Maria Sharapova Makes It Back to French Open Final http://t.co/cxfSz73RzV",
+      "user_id": "nytimes"
+    },
+    "214": {
+      "created_at": "2014-06-05 16:15:49",
+      "text": "Brooklyn Stabbing Suspect May Be Tied to Chelsea Subway Attack, Police Say http://t.co/E6nYN9GkKe",
+      "user_id": "nytimes"
+    },
+    "215": {
+      "created_at": "2014-06-05 16:37:12",
+      "text": "How the Recession Reshaped the Economy http://t.co/Hj1GqCPOBt",
+      "user_id": "nytimes"
+    },
+    "216": {
+      "created_at": "2014-06-05 16:52:32",
+      "text": "DealBook: S.E.C. Chief Calls for Sweeping Changes to Stock Market Rules http://t.co/H85d566Uef",
+      "user_id": "nytimes"
+    },
+    "217": {
+      "created_at": "2014-06-05 16:02:06",
+      "text": "With More Emotion, Obama Defends Soldier Swap http://t.co/mJYCAad8SQ",
+      "user_id": "nytimes"
+    },
+    "218": {
+      "created_at": "2014-06-05 15:04:06",
+      "text": "Washington Memo: Bergdahl Case Shakes Democrats’ Confidence in Administration http://t.co/NYwVEUOM53",
+      "user_id": "nytimes"
+    },
+    "219": {
+      "created_at": "2014-06-05 15:09:28",
+      "text": "Concern for Health of Bowe Bergdahl Drove Prisoner Exchange http://t.co/e4yLRiUEgT",
+      "user_id": "nytimes"
+    },
+    "220": {
+      "created_at": "2014-06-05 15:39:49",
+      "text": "Washington Memo: Bergdahl Case Shakes Democrats’ Confidence in Administration http://t.co/mFrAAD5emM",
+      "user_id": "nytimes"
+    },
+    "221": {
+      "created_at": "2014-06-05 15:30:16",
+      "text": "Democrats See a Break in a Gain for the Tea Party in Mississippi http://t.co/Wc9iagwlLm",
+      "user_id": "nytimes"
+    },
+    "222": {
+      "created_at": "2014-06-05 14:15:45",
+      "text": "When Mayor Bill de Blasio works out, he barely breaks a sweat http://t.co/RJ6TXrltZH (Illustration: Jason Lee) http://t.co/kqShDhNosm",
+      "user_id": "nytimes"
+    },
+    "223": {
+      "created_at": "2014-06-05 14:27:30",
+      "text": "Group of 7 Condemns Its Absent Partner, Russia http://t.co/ULs6p0rRnm",
+      "user_id": "nytimes"
+    },
+    "224": {
+      "created_at": "2014-06-05 14:00:17",
+      "text": "Busy morning? Here's what you need to know to begin your day. http://t.co/PAWUbjL1ru via @nytnow",
+      "user_id": "nytimes"
+    },
+    "225": {
+      "created_at": "2014-06-05 14:48:23",
+      "text": "Review: ‘Orange Is the New Black’ Season 2 http://t.co/TOQeJpjLj0",
+      "user_id": "nytimes"
+    },
+    "226": {
+      "created_at": "2014-06-05 13:19:18",
+      "text": "G.M. Says Inquiry Finds No Cover-Up on Switch Flaw http://t.co/NQdcHuPnP9",
+      "user_id": "nytimes"
+    },
+    "227": {
+      "created_at": "2014-06-05 13:06:10",
+      "text": "Live coverage of the GM internal recall investigation, including video: http://t.co/jLam8vZ2Ul",
+      "user_id": "nytimes"
+    },
+    "228": {
+      "created_at": "2014-06-05 13:40:28",
+      "text": "Donna Karan Exudes Calm in the Chaos http://t.co/bA5Dl9t7ry",
+      "user_id": "nytimes"
+    },
+    "229": {
+      "created_at": "2014-06-05 13:09:00",
+      "text": "News: Live Video and Updates on GM Internal Recall Investigation http://t.co/LFN6GGvr5A",
+      "user_id": "nytimes"
+    },
+    "230": {
+      "created_at": "2014-06-05 12:00:55",
+      "text": "European Central Bank Takes a Radical Step http://t.co/uue08wtEan",
+      "user_id": "nytimes"
+    },
+    "231": {
+      "created_at": "2014-06-05 12:53:19",
+      "text": "New Israeli Settlement Plans Draw Swift Condemnation http://t.co/ERg1XZJdZQ",
+      "user_id": "nytimes"
+    },
+    "232": {
+      "created_at": "2014-06-05 12:30:06",
+      "text": "Busy morning? Here's what you need to know to begin your day. http://t.co/4DLaCevWiM via @nytnow",
+      "user_id": "nytimes"
+    },
+    "233": {
+      "created_at": "2014-06-05 12:18:35",
+      "text": "The European Central Bank made an unprecedented move to stimulate the economy http://t.co/9WS1Weggqt",
+      "user_id": "nytimes"
+    },
+    "234": {
+      "created_at": "2014-06-05 12:52:39",
+      "text": "Puerto Rico Debates Who Put Out the Lights in a Bay http://t.co/6ySM1xfEMB",
+      "user_id": "nytimes"
+    },
+    "235": {
+      "created_at": "2014-06-05 12:32:28",
+      "text": "Movie Review: ‘The Fault in Our Stars’ Sets Out to Make You Cry http://t.co/iqDiQeoHts",
+      "user_id": "nytimes"
+    },
+    "236": {
+      "created_at": "2014-06-05 11:40:16",
+      "text": "A de Blasio Workout: Making Friends Without Breaking a Sweat http://t.co/spScmzjJwH",
+      "user_id": "nytimes"
+    },
+    "237": {
+      "created_at": "2014-06-05 11:19:14",
+      "text": "Lens Blog: Missing Japan, Balanced in Brazil http://t.co/rgG7zz3EfI",
+      "user_id": "nytimes"
+    },
+    "238": {
+      "created_at": "2014-06-05 11:13:58",
+      "text": "Day 19: The Faces Behind the Burgers http://t.co/hXCYSuK0RD",
+      "user_id": "nytimes"
+    },
+    "239": {
+      "created_at": "2014-06-05 10:11:06",
+      "text": "NYC Officials: 24 Injured in Staten Island Fire http://t.co/dakftLyLAw",
+      "user_id": "nytimes"
+    },
+    "240": {
+      "created_at": "2014-06-05 11:00:07",
+      "text": "Busy morning? Here's what you need to know to begin your day. http://t.co/yxpWVSOOJm via @nytnow",
+      "user_id": "nytimes"
+    },
+    "241": {
+      "created_at": "2014-06-05 10:00:40",
+      "text": "City Room: New York Today: No School, but Why? http://t.co/eBzuggMUwW",
+      "user_id": "nytimes"
+    },
+    "242": {
+      "created_at": "2014-06-05 10:33:06",
+      "text": "How Jurgen Klinsmann Plans to Make U.S. Soccer Better (and Less American) http://t.co/Tp2AxVCNsz",
+      "user_id": "nytimes"
+    },
+    "243": {
+      "created_at": "2014-06-05 09:52:30",
+      "text": "Behind P.O.W.’s Release: Urgency and Opportunity http://t.co/K4UCCt5JZy",
+      "user_id": "nytimes"
+    },
+    "244": {
+      "created_at": "2014-06-05 09:11:08",
+      "text": "The World Cup draw was unfair. What if there were a better way? http://t.co/TqBfESkzuT http://t.co/dpzoe7iB9Q",
+      "user_id": "nytimes"
+    },
+    "245": {
+      "created_at": "2014-06-05 09:02:53",
+      "text": "Senators Show Frustration After Briefing on Ex-P.O.W. http://t.co/otuFjzFCkg",
+      "user_id": "nytimes"
+    },
+    "246": {
+      "created_at": "2014-06-05 09:31:59",
+      "text": "Machine Learning: Mirrorless Camera Reviews: Fujifilm X-T1 and Sony Alpha NEX 5T http://t.co/TnuPoKtKjI",
+      "user_id": "nytimes"
+    },
+    "247": {
+      "created_at": "2014-06-05 09:08:14",
+      "text": "Critic’s Notebook: ‘Sacro GRA’ Highlights the Open Roads Film Festival http://t.co/aLm3vFqQZM",
+      "user_id": "nytimes"
+    },
+    "248": {
+      "created_at": "2014-06-05 08:12:05",
+      "text": "James Bond gets all the glory, but Pussy Galore wore it best http://t.co/whx9uRgkot",
+      "user_id": "nytimes"
+    },
+    "249": {
+      "created_at": "2014-06-05 08:44:06",
+      "text": "Europe Likely to Get Negative Interest Rates. What Does That Even Mean? http://t.co/dTfdQ7hRLb",
+      "user_id": "nytimes"
+    },
+    "250": {
+      "created_at": "2014-06-05 08:05:40",
+      "text": "3 Officers Killed, 2 Injured in Canada Shooting http://t.co/YaTF2NbBWn",
+      "user_id": "nytimes"
+    },
+    "251": {
+      "created_at": "2014-06-05 07:02:38",
+      "text": "Inquiry Urged on Site Called Mass Grave of Irish Babies http://t.co/0RjlSrT3BJ",
+      "user_id": "nytimes"
+    },
+    "252": {
+      "created_at": "2014-06-05 07:23:54",
+      "text": "Single Dose of Antibiotic Found Effective in Quelling MRSA http://t.co/ydEFvE4xyh",
+      "user_id": "nytimes"
+    },
+    "253": {
+      "created_at": "2014-06-05 06:03:15",
+      "text": "Boehner Calls for More Action on V.A. Scandal http://t.co/LQYDuhfnuq",
+      "user_id": "nytimes"
+    },
+    "254": {
+      "created_at": "2014-06-05 06:56:03",
+      "text": "You can't understand sexual violence in India without understanding the caste system http://t.co/APh3iqMOQK via @nytopinion",
+      "user_id": "nytimes"
+    },
+    "255": {
+      "created_at": "2014-06-05 05:23:00",
+      "text": "Critic’s Notebook: A Potential Solution for Developers at St. John the Divine http://t.co/qZfZMjcqn6",
+      "user_id": "nytimes"
+    },
+    "256": {
+      "created_at": "2014-06-05 05:18:14",
+      "text": "After Bribery Scandal, High-Level Departures at Walmart http://t.co/yCHQq1RQdb",
+      "user_id": "nytimes"
+    },
+    "257": {
+      "created_at": "2014-06-05 05:43:07",
+      "text": "Criticism Over Troop Withdrawal Emerges From Beyond G.O.P. http://t.co/90AAi13iII",
+      "user_id": "nytimes"
+    },
+    "258": {
+      "created_at": "2014-06-05 04:56:47",
+      "text": "Kings 3, Rangers 2: Kings Climb Out of Hole as Rangers Fall Into One http://t.co/eCvCpIYQQk",
+      "user_id": "nytimes"
+    },
+    "259": {
+      "created_at": "2014-06-05 04:19:12",
+      "text": "Suspect Is Arrested in Stabbing of 2 Brooklyn Children http://t.co/aRM500qQoY",
+      "user_id": "nytimes"
+    },
+    "260": {
+      "created_at": "2014-06-05 03:15:09",
+      "text": "People are streaming broadcast television on their smartphones in record numbers http://t.co/070kg4Q9F3",
+      "user_id": "nytimes"
+    },
+    "261": {
+      "created_at": "2014-06-05 03:00:11",
+      "text": "\"We cannot win this World Cup, because we are not at that level yet.\" - Jurgen Klinsmann http://t.co/YZF6Jx2wRd",
+      "user_id": "nytimes"
+    },
+    "262": {
+      "created_at": "2014-06-03 23:55:20",
+      "text": "The Public Editor's Journal: The Reporter, the Source, and the Supreme Court http://t.co/qOzFkOVStM",
+      "user_id": "nytimes"
+    },
+    "263": {
+      "created_at": "2014-06-03 23:02:58",
+      "text": "New York City Teachers Vote to Approve 9-Year Contract http://t.co/9dmVpVH2du",
+      "user_id": "nytimes"
+    },
+    "264": {
+      "created_at": "2014-06-03 23:24:28",
+      "text": "In Brooklyn, Scarcella’s Cases Continue to Face Review http://t.co/EID5Gb3UQb",
+      "user_id": "nytimes"
+    },
+    "265": {
+      "created_at": "2014-06-03 21:55:05",
+      "text": "These Chiles? Nothing to Fear http://t.co/zMPf7kifPz",
+      "user_id": "nytimes"
+    },
+    "266": {
+      "created_at": "2014-06-03 21:44:20",
+      "text": "De Blasio Criticizes Housing Authority as Search for Brooklyn Attacker Continues http://t.co/gt15i1zTqs",
+      "user_id": "nytimes"
+    },
+    "267": {
+      "created_at": "2014-06-03 20:20:32",
+      "text": "Friends of Moner Mohammad Abusalha Saw No Indications http://t.co/2vs223uX4I",
+      "user_id": "nytimes"
+    },
+    "268": {
+      "created_at": "2014-06-03 20:15:17",
+      "text": "T Magazine: The Woman on Top of the World http://t.co/G5ErgITCcQ",
+      "user_id": "nytimes"
+    },
+    "269": {
+      "created_at": "2014-06-03 19:12:45",
+      "text": "HistorySource: Marilyn Monroe’s World War II Drone Program http://t.co/u66SB3rxBH",
+      "user_id": "nytimes"
+    },
+    "270": {
+      "created_at": "2014-06-03 19:51:15",
+      "text": "What does Beyoncé mean? What doesn't she mean. http://t.co/H1zNyu3ayJ (Photo: Juergen Teller) http://t.co/wbETcTvRgn",
+      "user_id": "nytimes"
+    },
+    "271": {
+      "created_at": "2014-06-03 19:34:30",
+      "text": "For One Tiananmen-Era Student, a Very Different Path to Power http://t.co/cxACAJR8Cf",
+      "user_id": "nytimes"
+    },
+    "272": {
+      "created_at": "2014-06-03 18:11:03",
+      "text": "This Land: Not Official, but Still a Wisconsin Pardon http://t.co/dz1CJGDhoW",
+      "user_id": "nytimes"
+    },
+    "273": {
+      "created_at": "2014-06-03 18:00:33",
+      "text": "Listening Post: U.N. Cables Reveal Turning Point in Rwanda Crisis http://t.co/wgBcQoc4As",
+      "user_id": "nytimes"
+    },
+    "274": {
+      "created_at": "2014-06-03 17:14:03",
+      "text": "Sharapova and Bouchard Gain French Open Semifinals http://t.co/pOpPSPPtlP",
+      "user_id": "nytimes"
+    },
+    "275": {
+      "created_at": "2014-06-03 17:39:32",
+      "text": "Israel ‘Troubled’ by U.S. Plan to Work With Palestinian Unity Government http://t.co/ypwROMJ17Y",
+      "user_id": "nytimes"
+    },
+    "276": {
+      "created_at": "2014-06-03 17:35:27",
+      "text": "Bits Blog: WWDC Dissected: A New Era for Apple, but an End for Some Apps http://t.co/mtKTZK9MbB",
+      "user_id": "nytimes"
+    },
+    "277": {
+      "created_at": "2014-06-03 16:00:21",
+      "text": "Obama Defends Swap of Taliban for American P.O.W. http://t.co/K3bWZXIrRD",
+      "user_id": "nytimes"
+    },
+    "278": {
+      "created_at": "2014-06-03 16:26:15",
+      "text": "Guilty Plea in Ex-Charlotte Mayor Corruption Case http://t.co/GhmkRM3SEh",
+      "user_id": "nytimes"
+    },
+    "279": {
+      "created_at": "2014-06-03 16:52:13",
+      "text": "Ex-Mayor of Charlotte Pleads Guilty to Fraud http://t.co/voKKdmjxFr",
+      "user_id": "nytimes"
+    },
+    "280": {
+      "created_at": "2014-06-03 16:50:22",
+      "text": "One Party, Two Factions: South’s Republicans Look a Lot Like Its 1970s Democrats http://t.co/hiHhCNJnCp",
+      "user_id": "nytimes"
+    },
+    "281": {
+      "created_at": "2014-06-03 16:30:08",
+      "text": "Thanks to Facebook and Instagram, oversharing one's personal life feels as authentic as reality TV http://t.co/4yUauIJAJ4",
+      "user_id": "nytimes"
+    },
+    "282": {
+      "created_at": "2014-06-03 16:53:18",
+      "text": "They all share a horse named California Chrome, and they all fell hard for him in their own way http://t.co/uSUUTBjAmX",
+      "user_id": "nytimes"
+    },
+    "283": {
+      "created_at": "2014-06-03 15:42:25",
+      "text": "Does handwriting matter? More than you might think http://t.co/Wwjntvf2wR",
+      "user_id": "nytimes"
+    },
+    "284": {
+      "created_at": "2014-06-03 15:03:23",
+      "text": "Global Health: No Nation Has Lowered Obesity Rate in 33 Years http://t.co/WuqBZZF0Nr",
+      "user_id": "nytimes"
+    },
+    "285": {
+      "created_at": "2014-06-03 14:42:47",
+      "text": "Essay: Filing by Computer: A Pillow Helped http://t.co/qUqClMtjkn",
+      "user_id": "nytimes"
+    },
+    "286": {
+      "created_at": "2014-06-03 14:16:35",
+      "text": "Altaf Hussain Controls M.Q.M. Party From Exile http://t.co/stpC8h7ryv",
+      "user_id": "nytimes"
+    },
+    "287": {
+      "created_at": "2014-06-03 14:00:05",
+      "text": "Share your predictions about who will win at the 2014 Tony Awards http://t.co/Y5f1g20g1N",
+      "user_id": "nytimes"
+    },
+    "288": {
+      "created_at": "2014-06-03 14:00:11",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/Ifx3rqpmri via @nytnow",
+      "user_id": "nytimes"
+    },
+    "289": {
+      "created_at": "2014-06-03 14:37:36",
+      "text": "Out There: A Star-Gazing Palace’s Hazy Future http://t.co/jXyltk0uzG",
+      "user_id": "nytimes"
+    },
+    "290": {
+      "created_at": "2014-06-03 13:30:12",
+      "text": "Jurgen Klinsmann gambles on Michael Bradley's scoring prowess for U.S. soccer http://t.co/FODMWiTgvI",
+      "user_id": "nytimes"
+    },
+    "291": {
+      "created_at": "2014-06-03 13:03:06",
+      "text": "We're chatting w/NYT's Coral Davenport at 12 pm ET about Obama's climate change policy. Please send your questions to @thecaucus",
+      "user_id": "nytimes"
+    },
+    "292": {
+      "created_at": "2014-06-03 13:55:35",
+      "text": "Republicans Weigh Odds in Primaries in Iowa and Mississippi http://t.co/T4XRzVoXVv",
+      "user_id": "nytimes"
+    },
+    "293": {
+      "created_at": "2014-06-03 12:30:05",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/u5wcskuZmK via @nytnow",
+      "user_id": "nytimes"
+    },
+    "294": {
+      "created_at": "2014-06-03 12:47:35",
+      "text": "Obama Defends Swap of Taliban for American P.O.W. http://t.co/V9eIJbrf6V",
+      "user_id": "nytimes"
+    },
+    "295": {
+      "created_at": "2014-06-03 12:11:04",
+      "text": "After Deadline Blog: The Small Stuff, Again http://t.co/TT6g6zNujQ",
+      "user_id": "nytimes"
+    },
+    "296": {
+      "created_at": "2014-06-03 11:40:04",
+      "text": "New York Today: Summons Season http://t.co/4gg0ZKYjW2",
+      "user_id": "nytimes"
+    },
+    "297": {
+      "created_at": "2014-06-03 11:00:08",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/pC2tybYEIz via @nytnow",
+      "user_id": "nytimes"
+    },
+    "298": {
+      "created_at": "2014-06-03 11:29:03",
+      "text": "New Fighting Reported in Eastern Ukraine http://t.co/sYBBxseVqn",
+      "user_id": "nytimes"
+    },
+    "299": {
+      "created_at": "2014-06-03 11:55:16",
+      "text": "In Debate Over Coal, Lessons From ’90s Tobacco Fight http://t.co/sF4yLqZzbs",
+      "user_id": "nytimes"
+    },
+    "300": {
+      "created_at": "2014-06-03 11:08:06",
+      "text": "Automating Cybersecurity http://t.co/gpIW0fZk2n",
+      "user_id": "nytimes"
+    },
+    "301": {
+      "created_at": "2014-06-03 11:18:32",
+      "text": "Euro Zone Edges Closer to Dreaded Deflation http://t.co/C80zn37FG8",
+      "user_id": "nytimes"
+    },
+    "302": {
+      "created_at": "2014-06-03 10:31:27",
+      "text": "Strategy and Objectives for Gaining Soldier’s Release Shifted Over Time http://t.co/P1mVtv6GNh",
+      "user_id": "nytimes"
+    },
+    "303": {
+      "created_at": "2014-06-03 10:20:45",
+      "text": "Your Fellow Americans: How to Succeed in Washington Without Really Trying http://t.co/MAhtgSHDZ5",
+      "user_id": "nytimes"
+    },
+    "304": {
+      "created_at": "2014-06-03 10:21:00",
+      "text": "City Room: New York Today: Summons Season http://t.co/I8lwu7vXD1",
+      "user_id": "nytimes"
+    },
+    "305": {
+      "created_at": "2014-06-03 10:47:02",
+      "text": "Obama, in Warsaw, Pledges Solidarity With Eastern Europe http://t.co/7GSIXHPSqN",
+      "user_id": "nytimes"
+    },
+    "306": {
+      "created_at": "2014-06-03 09:38:22",
+      "text": "Fearing Converts to Terrorism, France Intercepts Citizens Bound for Syria http://t.co/8kLmehlWYV",
+      "user_id": "nytimes"
+    },
+    "307": {
+      "created_at": "2014-06-03 09:17:56",
+      "text": "Amid Fear and Pressure, Syrians Vote for President http://t.co/Bk289rXuOP",
+      "user_id": "nytimes"
+    },
+    "308": {
+      "created_at": "2014-06-03 09:59:57",
+      "text": "In California Chrome’s Barn, a Hopeful Network of Relative Strangers http://t.co/X6ecHhB5Bi",
+      "user_id": "nytimes"
+    },
+    "309": {
+      "created_at": "2014-06-03 08:15:38",
+      "text": "Report Calls for Huge Investment in Energy Development http://t.co/j3pgrxj0S5",
+      "user_id": "nytimes"
+    },
+    "310": {
+      "created_at": "2014-06-03 08:36:06",
+      "text": "Hospital Charges Surge for Common Ailments, Data Shows http://t.co/y6TYF9Z3im",
+      "user_id": "nytimes"
+    },
+    "311": {
+      "created_at": "2014-06-03 07:18:05",
+      "text": "Anger Among Indians After Killings of 2 Girls http://t.co/COJOIqbOod",
+      "user_id": "nytimes"
+    },
+    "312": {
+      "created_at": "2014-06-03 07:45:03",
+      "text": "Recorded noise might offer clues to missing plane http://t.co/7glRrluTP3",
+      "user_id": "nytimes"
+    },
+    "313": {
+      "created_at": "2014-06-03 07:54:08",
+      "text": "Citing Pressure and Threats, Egypt’s Answer to Jon Stewart Calls It Quits http://t.co/cWBlWUp3PW",
+      "user_id": "nytimes"
+    },
+    "314": {
+      "created_at": "2014-06-03 06:20:04",
+      "text": "Calling an ordinary health problem a disease leads to bigger problems http://t.co/XLyQXvJfdx",
+      "user_id": "nytimes"
+    },
+    "315": {
+      "created_at": "2014-06-03 06:41:01",
+      "text": "At Belmont Stakes, Tom Durkin Will Try a Final Time for a Triple Crown Call http://t.co/hA12C6VNsQ",
+      "user_id": "nytimes"
+    },
+    "316": {
+      "created_at": "2014-06-03 06:56:35",
+      "text": "A Long Island Institution Is Cooling Its Ovens http://t.co/kFJY6jjaNj",
+      "user_id": "nytimes"
+    },
+    "317": {
+      "created_at": "2014-06-03 05:12:17",
+      "text": "De Blasio Family Begins Move to Gracie Mansion http://t.co/rrrCe4HLQL",
+      "user_id": "nytimes"
+    },
+    "318": {
+      "created_at": "2014-06-03 05:59:33",
+      "text": "Bowe Bergdahl’s Vanishing Before Capture Angered His Unit http://t.co/gD6ayvekFR",
+      "user_id": "nytimes"
+    },
+    "319": {
+      "created_at": "2014-06-03 04:50:42",
+      "text": "Birds Leave Nest Involuntarily, and Oakland Fumes http://t.co/ngUwFsMOEE",
+      "user_id": "nytimes"
+    },
+    "320": {
+      "created_at": "2014-06-03 04:20:09",
+      "text": "How to get girls into coding http://t.co/7fI1roXMvL via @nytopinion http://t.co/XMa8OyHM4L",
+      "user_id": "nytimes"
+    },
+    "321": {
+      "created_at": "2014-06-03 04:30:08",
+      "text": "Seattle approves $15 minimum wage, setting a new standard for big cities http://t.co/c2PBZLKpQe",
+      "user_id": "nytimes"
+    },
+    "322": {
+      "created_at": "2014-06-03 04:10:05",
+      "text": "After 5 months of sales, Colorado sees the downside of a legal high http://t.co/oqIOK4JZwK",
+      "user_id": "nytimes"
+    },
+    "323": {
+      "created_at": "2014-06-03 03:00:09",
+      "text": "Why you hate work http://t.co/hkFs0mkbnJ http://t.co/OcRfYoM6CR",
+      "user_id": "nytimes"
+    },
+    "324": {
+      "created_at": "2014-06-03 03:30:09",
+      "text": "A journey north to explore how the U.S. has been changed by immigration http://t.co/YWiPOyJP0u http://t.co/TdarzlABSt",
+      "user_id": "nytimes"
+    },
+    "325": {
+      "created_at": "2014-06-03 03:59:10",
+      "text": "Yes, all men: Fighting sexism and misogyny isn't just women's work http://t.co/nrF7Z55huf",
+      "user_id": "nytimes"
+    },
+    "326": {
+      "created_at": "2014-06-03 03:10:10",
+      "text": "Neighbors don't love the 33-foot-tall statue of a naked woman ripped open to reveal a fetus http://t.co/OyekUtC6ej",
+      "user_id": "nytimes"
+    },
+    "327": {
+      "created_at": "2014-06-03 03:09:04",
+      "text": "After a 6-year-old and 7-year-old were stabbed, apparently at random, a community searches for a killer http://t.co/PI79sp8qQF",
+      "user_id": "nytimes"
+    },
+    "328": {
+      "created_at": "2014-06-03 03:40:05",
+      "text": "In Internet-connected home can make your life more convenient. But what happens when hackers knock? http://t.co/SzwFSMEjJx",
+      "user_id": "nytimes"
+    },
+    "329": {
+      "created_at": "2014-06-03 03:50:06",
+      "text": "One night a week, a hidden lap dance party opens up in Manhattan (Photo: Richard Perry/NYT) http://t.co/EJAUzWCfqB http://t.co/NdvkKJFc81",
+      "user_id": "nytimes"
+    },
+    "330": {
+      "created_at": "2014-06-03 03:04:20",
+      "text": "DealBook: French Officials Twist U.S. Arms in Bank Inquiry http://t.co/lBQsSjgGMe",
+      "user_id": "nytimes"
+    },
+    "331": {
+      "created_at": "2014-06-03 03:20:01",
+      "text": "A tattoo parlor in Maryland gives women with breast cancer a realistic nipple replacement http://t.co/j4WkoWNk4m",
+      "user_id": "nytimes"
+    },
+    "332": {
+      "created_at": "2014-06-03 02:40:04",
+      "text": "Is global warming real? Most Americans say yes http://t.co/LAsMy9cbjV",
+      "user_id": "nytimes"
+    },
+    "333": {
+      "created_at": "2014-06-03 02:50:08",
+      "text": "Does handwriting matter? More than you might think http://t.co/xA27YShBz7",
+      "user_id": "nytimes"
+    },
+    "334": {
+      "created_at": "2014-06-03 01:00:09",
+      "text": "Challenger, Columbia, and the nature of calamity http://t.co/XLivOohKQs",
+      "user_id": "nytimes"
+    },
+    "335": {
+      "created_at": "2014-06-03 01:01:41",
+      "text": "New U.S. Effort to Aid Unaccompanied Child Migrants http://t.co/6sExaMwlhw",
+      "user_id": "nytimes"
+    },
+    "336": {
+      "created_at": "2014-06-05 03:46:05",
+      "text": "You're locked in a room and you've only got 60 minutes to escape http://t.co/J7ldGTcYzV",
+      "user_id": "nytimes"
+    },
+    "337": {
+      "created_at": "2014-06-05 03:30:12",
+      "text": "Next time you work out, try to have fun http://t.co/eIqwpQVmbC",
+      "user_id": "nytimes"
+    },
+    "338": {
+      "created_at": "2014-06-05 03:58:06",
+      "text": "\"This is not your boyfriend's shirt. This is your shirt.\" http://t.co/NjmGAiSIF9",
+      "user_id": "nytimes"
+    },
+    "339": {
+      "created_at": "2014-06-05 02:15:09",
+      "text": "For weeks a boy's brain was swelling with fluid. An experimental DNA test saved him http://t.co/z14wJ9zCEs",
+      "user_id": "nytimes"
+    },
+    "340": {
+      "created_at": "2014-06-05 02:31:08",
+      "text": "Don Zimmer Dies at 83; Spent 60 Years in Baseball http://t.co/P759viMojO",
+      "user_id": "nytimes"
+    },
+    "341": {
+      "created_at": "2014-06-05 02:03:05",
+      "text": "The NYT obituary for Don Zimmer http://t.co/ezpXMq1u70",
+      "user_id": "nytimes"
+    },
+    "342": {
+      "created_at": "2014-06-05 02:47:04",
+      "text": "A journey north to explore how the U.S. has been changed by immigration http://t.co/SFfWCDgItb http://t.co/bPZMTZVKUn",
+      "user_id": "nytimes"
+    },
+    "343": {
+      "created_at": "2014-06-05 02:32:10",
+      "text": "The World Cup draw was unfair. What if there were a better way? http://t.co/63Zrh8FwBg http://t.co/qleUvxQ5Rf",
+      "user_id": "nytimes"
+    },
+    "344": {
+      "created_at": "2014-06-05 01:00:11",
+      "text": "Walmart executives who held upper management jobs during a corruption scandal have quietly departed http://t.co/M12pdxkQ4O",
+      "user_id": "nytimes"
+    },
+    "345": {
+      "created_at": "2014-06-05 01:59:07",
+      "text": "Rebel fighters in Ukraine's troubled east scored a major victory http://t.co/XZV0OrZ76y",
+      "user_id": "nytimes"
+    },
+    "346": {
+      "created_at": "2014-06-05 01:47:09",
+      "text": "In a video released by the Taliban, Bowe Bergdahl is told \"Don't come back\" as he is released http://t.co/rOOcdEllwi",
+      "user_id": "nytimes"
+    },
+    "347": {
+      "created_at": "2014-06-05 01:16:02",
+      "text": "\"Military attack is not a priority for Americans now,\" Iran's supreme leader said http://t.co/IzzCp6ZGNN",
+      "user_id": "nytimes"
+    },
+    "348": {
+      "created_at": "2014-06-05 01:28:23",
+      "text": "Spurs and Heat Starting Where What-Ifs Left Off http://t.co/x59nxCbpn0",
+      "user_id": "nytimes"
+    },
+    "349": {
+      "created_at": "2014-06-05 00:43:06",
+      "text": "A NYT reporter went biking around Tiananmen Square with a video camera. He got caught: http://t.co/8Yri3LcqCz",
+      "user_id": "nytimes"
+    },
+    "350": {
+      "created_at": "2014-06-05 00:15:06",
+      "text": "Mississippi primary is headed to a runoff between a six-term senator and his Tea Party challenger http://t.co/grVNKr0TfH",
+      "user_id": "nytimes"
+    },
+    "351": {
+      "created_at": "2014-06-05 00:28:08",
+      "text": "The fight over sugary drinks could determine whether NYC remains a pioneer in public health http://t.co/NSrqqaLsGu",
+      "user_id": "nytimes"
+    },
+    "352": {
+      "created_at": "2014-06-05 00:41:02",
+      "text": "Open Source: Assad’s Soft-Focus Vision for Syria, as Seen on YouTube http://t.co/kTQ3pDX7dC",
+      "user_id": "nytimes"
+    },
+    "353": {
+      "created_at": "2014-06-03 00:14:34",
+      "text": "Inquiry Finds Violations by Ex-Brooklyn Prosecutor and Judge in Campaign http://t.co/lpW2Fl5K2K",
+      "user_id": "nytimes"
+    },
+    "354": {
+      "created_at": "2014-06-03 00:47:05",
+      "text": "Recalling Maya Angelou’s Love of Cooking http://t.co/8zfahhoyWW",
+      "user_id": "nytimes"
+    },
+    "355": {
+      "created_at": "2014-06-03 00:00:05",
+      "text": "25 years later, new details emerge of army's chaos before Tiananmen Square http://t.co/cyX463xX1O",
+      "user_id": "nytimes"
+    },
+    "356": {
+      "created_at": "2014-06-03 00:30:05",
+      "text": "Drink these wines, then talk about them with @EricAsimov in Wine School http://t.co/clKbmSlvLi",
+      "user_id": "nytimes"
+    },
+    "357": {
+      "created_at": "2014-06-04 23:43:39",
+      "text": "In Ukraine, Separatist Militia With Russian Fighters Holds a Key http://t.co/G7u41QJYtu",
+      "user_id": "nytimes"
+    },
+    "358": {
+      "created_at": "2014-06-04 23:21:24",
+      "text": "Police Link Knife Recovered in Children’s Stabbing to Offender in DNA Registry http://t.co/60Ehegbq9N",
+      "user_id": "nytimes"
+    },
+    "359": {
+      "created_at": "2014-06-04 23:59:02",
+      "text": "A 16-year-old staggered toward a police station after he was shot. No one could save him http://t.co/Dbh2zovPOT",
+      "user_id": "nytimes"
+    },
+    "360": {
+      "created_at": "2014-06-04 22:30:04",
+      "text": "For fans of Zara, there's nothing wrong with zimitation http://t.co/zqc22LaTkt",
+      "user_id": "nytimes"
+    },
+    "361": {
+      "created_at": "2014-06-04 22:30:28",
+      "text": "DealBook: Sprint and T-Mobile Agree on Terms of $32 Billion Deal http://t.co/9xbFbJCV5r",
+      "user_id": "nytimes"
+    },
+    "362": {
+      "created_at": "2014-06-04 22:15:18",
+      "text": "Your Evening Briefing is ready for you. http://t.co/9VXMRpRXmA via @nytnow",
+      "user_id": "nytimes"
+    },
+    "363": {
+      "created_at": "2014-06-04 21:30:02",
+      "text": "\"This is not your boyfriend's shirt. This is your shirt.\" http://t.co/dxlWOXOx3X",
+      "user_id": "nytimes"
+    },
+    "364": {
+      "created_at": "2014-06-04 21:04:59",
+      "text": "DealBook: Appeals Court Overturns Decision to Reject S.E.C.-Citigroup Settlement http://t.co/vrkPpqPXV0",
+      "user_id": "nytimes"
+    },
+    "365": {
+      "created_at": "2014-06-04 21:17:33",
+      "text": "In First, Quick DNA Test Diagnoses a Boy’s Illness http://t.co/3F1oVJNJ2d",
+      "user_id": "nytimes"
+    },
+    "366": {
+      "created_at": "2014-06-04 21:53:55",
+      "text": "N.R.A. Backs Away From Criticism of Open-Carry Advocates http://t.co/ixqsVfBfCt",
+      "user_id": "nytimes"
+    },
+    "367": {
+      "created_at": "2014-06-04 21:59:06",
+      "text": "James Bond gets all the glory, but Pussy Galore wore it best http://t.co/WdZbxlSpwg",
+      "user_id": "nytimes"
+    },
+    "368": {
+      "created_at": "2014-06-04 21:46:05",
+      "text": "How the NYT reported on 11 Triple Crown winners http://t.co/0nF49qI50I",
+      "user_id": "nytimes"
+    },
+    "369": {
+      "created_at": "2014-06-04 21:38:09",
+      "text": "Supreme Court Rebuffs Call to End Same-Sex Marriages in Oregon http://t.co/5yhVu4Hbp5",
+      "user_id": "nytimes"
+    },
+    "370": {
+      "created_at": "2014-06-04 21:16:04",
+      "text": "In a Broadway theater that last put on \"Annie,\" Tupac Shakur's songs have been woven into a musical http://t.co/ElgkdwizMb",
+      "user_id": "nytimes"
+    },
+    "371": {
+      "created_at": "2014-06-04 20:03:05",
+      "text": "Photo from 1983: Peekaboo http://t.co/aaVMKbigoY",
+      "user_id": "nytimes"
+    },
+    "372": {
+      "created_at": "2014-06-04 20:24:18",
+      "text": "Venice Mayor Is Arrested on Corruption Charges http://t.co/Tqb52AsVyp",
+      "user_id": "nytimes"
+    },
+    "373": {
+      "created_at": "2014-06-04 19:15:07",
+      "text": "The great zebra migration http://t.co/lPaSNsi6eX",
+      "user_id": "nytimes"
+    },
+    "374": {
+      "created_at": "2014-06-04 19:23:23",
+      "text": "New York and L.A.: Together Again, in a Sports Final http://t.co/Y8woFNArPE",
+      "user_id": "nytimes"
+    },
+    "375": {
+      "created_at": "2014-06-04 19:43:41",
+      "text": "How Jurgen Klinsmann Plans to Make U.S. Soccer Better (and Less American) http://t.co/UBGmZttCAR",
+      "user_id": "nytimes"
+    },
+    "376": {
+      "created_at": "2014-06-04 19:02:24",
+      "text": "The Getaway: How Not to Pay the Price for Free Wi-Fi http://t.co/ViMmYCTlsm",
+      "user_id": "nytimes"
+    },
+    "377": {
+      "created_at": "2014-06-04 18:28:07",
+      "text": "You're locked in a room and you've only got 60 minutes to escape http://t.co/8KbARgiKkY",
+      "user_id": "nytimes"
+    },
+    "378": {
+      "created_at": "2014-06-04 18:15:26",
+      "text": "TV Apps Are Soaring in Popularity, Report Says http://t.co/83Fiu7DbRY",
+      "user_id": "nytimes"
+    },
+    "379": {
+      "created_at": "2014-06-04 18:59:08",
+      "text": "If Henrik Lundqvist has to use his head to stop the puck, he will http://t.co/0WfOhYsky5 http://t.co/2tpzNMQjrf",
+      "user_id": "nytimes"
+    },
+    "380": {
+      "created_at": "2014-06-04 18:03:09",
+      "text": "Hillary Clinton says she has \"moved on\" from the Monica Lewinsky scandal http://t.co/jUOdrWlhuh",
+      "user_id": "nytimes"
+    },
+    "381": {
+      "created_at": "2014-06-04 18:16:13",
+      "text": "A Fight to Limit Sugary Drinks Enters Its Final Round http://t.co/xfsZ2uuarf",
+      "user_id": "nytimes"
+    },
+    "382": {
+      "created_at": "2014-06-04 17:44:12",
+      "text": "A journey north to explore how the U.S. has been changed by immigration http://t.co/HjfrgpyK6P http://t.co/AmvQeiBpi6",
+      "user_id": "nytimes"
+    },
+    "383": {
+      "created_at": "2014-06-04 17:33:24",
+      "text": "Losing Weight May Require Some Serious Fun http://t.co/VFztQr1jgA",
+      "user_id": "nytimes"
+    },
+    "384": {
+      "created_at": "2014-06-04 17:06:07",
+      "text": "A few years ago, Beyoncé was like any other record-breaking pop star. Then something changed. http://t.co/q1V3IuDdBL http://t.co/E1TREWoPVH",
+      "user_id": "nytimes"
+    },
+    "385": {
+      "created_at": "2014-06-04 17:17:04",
+      "text": "The NYPD and Manhattan D.A. have begun an unusually close partnership to drive down crimes other than murder http://t.co/zCBXX9JTKl",
+      "user_id": "nytimes"
+    },
+    "386": {
+      "created_at": "2014-06-04 16:46:04",
+      "text": "If you're not having fun when you work out, you may have trouble losing weight http://t.co/PcvYyu6qEQ",
+      "user_id": "nytimes"
+    },
+    "387": {
+      "created_at": "2014-06-04 16:47:48",
+      "text": "ArtsBeat: Musée Picasso in Paris Names New President http://t.co/2i9URGZsKT",
+      "user_id": "nytimes"
+    },
+    "388": {
+      "created_at": "2014-06-04 16:05:24",
+      "text": "‘Holler if Ya Hear Me’ Uses Songs by Tupac Shakur http://t.co/S1rUkhPYQW",
+      "user_id": "nytimes"
+    },
+    "389": {
+      "created_at": "2014-06-04 16:19:49",
+      "text": "Obama is on the defensive for claiming he had the authority to swap 5 detainees for Bowe Bergdahl http://t.co/vdouDOCRIi",
+      "user_id": "nytimes"
+    },
+    "390": {
+      "created_at": "2014-06-04 16:29:07",
+      "text": "The World Cup draw was unfair. What if there was a better way? http://t.co/YS1mjM8Voe http://t.co/YbteZTb4CF",
+      "user_id": "nytimes"
+    },
+    "391": {
+      "created_at": "2014-06-04 15:08:11",
+      "text": "Midterm Calculus: Democrats Shouldn’t Dream in Mississippi, Where a Runoff Looms http://t.co/oVqBIMCBp9",
+      "user_id": "nytimes"
+    },
+    "392": {
+      "created_at": "2014-06-04 15:45:13",
+      "text": "California Chrome Draws No. 2 Post for Belmont Stakes http://t.co/x6oyFyEMQS",
+      "user_id": "nytimes"
+    },
+    "393": {
+      "created_at": "2014-06-04 15:44:09",
+      "text": "Did the search for Sgt. Bowe Bergdahl cost the lives of American soldiers? http://t.co/sa0WL0yFGc",
+      "user_id": "nytimes"
+    },
+    "394": {
+      "created_at": "2014-06-04 15:20:10",
+      "text": "A NYT reporter went biking around Tiananmen Square today with a video camera. He got caught: http://t.co/nnWwa2ooJx",
+      "user_id": "nytimes"
+    },
+    "395": {
+      "created_at": "2014-06-04 15:29:22",
+      "text": "Dozens of Suspected Gang Members Arrested in Raid of 2 Harlem Housing Projects http://t.co/9QuuyfTqPw",
+      "user_id": "nytimes"
+    },
+    "396": {
+      "created_at": "2014-06-04 14:32:22",
+      "text": "Appeals Court Says Judge Wrongly Rejected S.E.C.-Citigroup Accord http://t.co/uPE49qHR7G",
+      "user_id": "nytimes"
+    },
+    "397": {
+      "created_at": "2014-06-04 14:11:44",
+      "text": "Rebels in Eastern Ukraine Capture Government Posts http://t.co/ilyoYKfzzM",
+      "user_id": "nytimes"
+    },
+    "398": {
+      "created_at": "2014-06-04 14:37:28",
+      "text": "Thad Cochran and Chris McDaniel Tied in Primary http://t.co/mlxgempJN0",
+      "user_id": "nytimes"
+    },
+    "399": {
+      "created_at": "2014-06-04 14:59:08",
+      "text": "Results from last night's primary elections in Mississippi, Iowa, California and other states http://t.co/CkqeyM3a56",
+      "user_id": "nytimes"
+    },
+    "400": {
+      "created_at": "2014-06-04 14:19:04",
+      "text": "How the NYT covered the Tiananmen Square crackdown in China 25 years ago http://t.co/lAYKo6gQNp",
+      "user_id": "nytimes"
+    },
+    "401": {
+      "created_at": "2014-06-04 14:00:13",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/jdMxzQkypx via @nytnow",
+      "user_id": "nytimes"
+    },
+    "402": {
+      "created_at": "2014-06-04 14:10:05",
+      "text": "What happened to one student leader who didn't go to Tiananmen Square in 1989? He got very rich http://t.co/k0XFaZ9hfE",
+      "user_id": "nytimes"
+    },
+    "403": {
+      "created_at": "2014-06-04 14:29:04",
+      "text": "On Taliban video, Sgt. Bowe Bergdahl is told \"Don't come back\" as he is released http://t.co/Y415GS5jW6",
+      "user_id": "nytimes"
+    },
+    "404": {
+      "created_at": "2014-06-04 13:44:01",
+      "text": "Wave of Minors on Their Own Rush to Cross Southwest Border http://t.co/7ArXi6DfLL",
+      "user_id": "nytimes"
+    },
+    "405": {
+      "created_at": "2014-06-04 13:24:38",
+      "text": "Sec of State Kerry in Lebanon to Show US Support http://t.co/Z3mSmA69E0",
+      "user_id": "nytimes"
+    },
+    "406": {
+      "created_at": "2014-06-04 13:55:06",
+      "text": "With 99% of the vote counted in the Mississippi GOP Senate primary, there was no clear winner http://t.co/JESX3z4g7z",
+      "user_id": "nytimes"
+    },
+    "407": {
+      "created_at": "2014-06-04 12:30:09",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/YqjT8Qx5wa via @nytnow",
+      "user_id": "nytimes"
+    },
+    "408": {
+      "created_at": "2014-06-04 12:51:19",
+      "text": "Day 18: Celebrations of Life http://t.co/qBlRVWCpy7",
+      "user_id": "nytimes"
+    },
+    "409": {
+      "created_at": "2014-06-04 12:16:35",
+      "text": "Hillary Clinton Says She Has ‘Moved On’ From Lewinsky Scandal http://t.co/KXXFF7tbtj",
+      "user_id": "nytimes"
+    },
+    "410": {
+      "created_at": "2014-06-04 11:56:17",
+      "text": "Lithuania Moves Closer to Joining Euro Zone http://t.co/IPaHATnG7B",
+      "user_id": "nytimes"
+    },
+    "411": {
+      "created_at": "2014-06-04 11:30:07",
+      "text": "New York Today: Honoring our Civil Servants http://t.co/Lhz9fgt2FW",
+      "user_id": "nytimes"
+    },
+    "412": {
+      "created_at": "2014-06-04 11:09:08",
+      "text": "Crowds Gather in Hong Kong to Mark 25th Anniversary of Tiananmen Killings http://t.co/e7O3rAxWU7",
+      "user_id": "nytimes"
+    },
+    "413": {
+      "created_at": "2014-06-04 11:00:07",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/BTsVajyRtD via @nytnow",
+      "user_id": "nytimes"
+    },
+    "414": {
+      "created_at": "2014-06-04 10:17:08",
+      "text": "City Room: New York Today: Honoring our Civil Servants http://t.co/ukYQ55n565",
+      "user_id": "nytimes"
+    },
+    "415": {
+      "created_at": "2014-06-04 10:38:18",
+      "text": "Taliban Video Shows Handover of US Soldier http://t.co/CBdS1DKMU9",
+      "user_id": "nytimes"
+    },
+    "416": {
+      "created_at": "2014-06-04 10:58:33",
+      "text": "Taliban Video Shows Handover of U.S. Soldier http://t.co/NAEuOqQkTv",
+      "user_id": "nytimes"
+    },
+    "417": {
+      "created_at": "2014-06-04 09:57:00",
+      "text": "Sather Is Used to Stanley Cup Finals, if Not With the Rangers http://t.co/CbYSdkgPVA",
+      "user_id": "nytimes"
+    },
+    "418": {
+      "created_at": "2014-06-04 09:35:35",
+      "text": "Can Bowe Bergdahl Be Tied to 6 Lost Lives? Facts Are Murky http://t.co/AktJcZvmPq",
+      "user_id": "nytimes"
+    },
+    "419": {
+      "created_at": "2014-06-04 09:14:29",
+      "text": "In Show of Support, Obama Meets With Ukraine Leader http://t.co/YIodKFIPgE",
+      "user_id": "nytimes"
+    },
+    "420": {
+      "created_at": "2014-06-04 09:10:30",
+      "text": "Open Source: American Jailed in Egypt Appeals to Obama for Help http://t.co/p9CnDE0V7z",
+      "user_id": "nytimes"
+    },
+    "421": {
+      "created_at": "2014-06-04 09:35:39",
+      "text": "Schopfheim Journal: A Growing Challenge for Germans Who Live by Bread Alone http://t.co/xeDq1o4hU5",
+      "user_id": "nytimes"
+    },
+    "422": {
+      "created_at": "2014-06-04 08:26:55",
+      "text": "Upscale Dairies Grow in India, Promising Safer Milk http://t.co/g4Qr1AvQQ0",
+      "user_id": "nytimes"
+    },
+    "423": {
+      "created_at": "2014-06-04 08:28:25",
+      "text": "Kashkari Beats Tea Party Foe in California Governor Race http://t.co/3XhL3fGkrP",
+      "user_id": "nytimes"
+    },
+    "424": {
+      "created_at": "2014-06-04 08:06:14",
+      "text": "Restaurant Review: The Simone on the Upper East Side http://t.co/nPELoGNzCA",
+      "user_id": "nytimes"
+    },
+    "425": {
+      "created_at": "2014-06-04 08:49:12",
+      "text": "Former Prosecutor in Brooklyn Was Consumed by Campaign, Emails Show http://t.co/qT0EVxks1G",
+      "user_id": "nytimes"
+    },
+    "426": {
+      "created_at": "2014-06-04 07:20:05",
+      "text": "Times Coverage of Tiananmen Square 25 Years Ago http://t.co/PjwhGsIPtv",
+      "user_id": "nytimes"
+    },
+    "427": {
+      "created_at": "2014-06-04 07:46:06",
+      "text": "Ultralow inflation in the euro zone could do more harm than good to economic recovery http://t.co/gjxxuxXe95",
+      "user_id": "nytimes"
+    },
+    "428": {
+      "created_at": "2014-06-04 07:31:11",
+      "text": "Europe Struggles to Avoid Deflation’s Grip http://t.co/7Xt2qS1JwO",
+      "user_id": "nytimes"
+    },
+    "429": {
+      "created_at": "2014-06-04 06:39:00",
+      "text": "In New Jersey, a Republican Nominee Will Try to Hold On to a Congressional Seat http://t.co/omXHMC5a4K",
+      "user_id": "nytimes"
+    },
+    "430": {
+      "created_at": "2014-06-04 06:15:04",
+      "text": "Narendra Modi's personal style could reflect his vision for India's future http://t.co/Dre0bwX2W4 via @NYTFashion",
+      "user_id": "nytimes"
+    },
+    "431": {
+      "created_at": "2014-06-04 06:59:40",
+      "text": "Shot Yards Away From Police Station, a Teenager Collapses and Dies http://t.co/TMjgOs0aVy",
+      "user_id": "nytimes"
+    },
+    "432": {
+      "created_at": "2014-06-04 04:28:22",
+      "text": "Theater Review: A War on Boredom in ‘The Sonic Life of a Giant Tortoise’ http://t.co/ISd1NTsrL1",
+      "user_id": "nytimes"
+    },
+    "433": {
+      "created_at": "2014-06-04 04:30:02",
+      "text": "As attentions turn to newer telescopes, a California observatory is fighting to stay relevant http://t.co/kImtvWlkUx",
+      "user_id": "nytimes"
+    },
+    "434": {
+      "created_at": "2014-06-04 03:50:55",
+      "text": "Michigan Senate Passes Plan to Ease Detroit Pension Cuts http://t.co/AwB0FMY62B",
+      "user_id": "nytimes"
+    },
+    "435": {
+      "created_at": "2014-06-04 03:15:06",
+      "text": "A few years ago, Beyoncé was like any other record-breaking pop star. Then something changed. http://t.co/83fnHCxIEZ http://t.co/vKG98Zw6GR",
+      "user_id": "nytimes"
+    },
+    "436": {
+      "created_at": "2014-06-04 03:30:07",
+      "text": "Instagram is rolling out a set of new tools that will let you easily enhance your photos http://t.co/yFarw5XL0X",
+      "user_id": "nytimes"
+    },
+    "437": {
+      "created_at": "2014-06-04 02:00:12",
+      "text": "We picked 52 places to go in 2014. Readers picked a 53rd http://t.co/0WTCfIAkvr",
+      "user_id": "nytimes"
+    },
+    "438": {
+      "created_at": "2014-06-04 02:48:31",
+      "text": "JPMorgan Corporate Challenges See Growth in Popularity and Gamesmanship http://t.co/u8BaNYE1y1",
+      "user_id": "nytimes"
+    },
+    "439": {
+      "created_at": "2014-06-04 02:30:08",
+      "text": "A journey north to explore how the U.S. has been changed by immigration http://t.co/MwsbkjkfHV http://t.co/KeJmoF8OgO",
+      "user_id": "nytimes"
+    },
+    "440": {
+      "created_at": "2014-06-04 03:00:04",
+      "text": "Follow California primary election results as the votes are counted http://t.co/3VnADj8xOm",
+      "user_id": "nytimes"
+    },
+    "441": {
+      "created_at": "2014-06-04 02:59:12",
+      "text": "Relatives of Victims of Drone Strikes Drop Appeal http://t.co/k1r5VewEAP",
+      "user_id": "nytimes"
+    },
+    "442": {
+      "created_at": "2014-06-04 02:01:28",
+      "text": "Prisoner Deal Puts President on Defensive http://t.co/vjAGDVjo9t",
+      "user_id": "nytimes"
+    },
+    "443": {
+      "created_at": "2014-06-04 01:45:09",
+      "text": "If you can learn to love chiles -- and tame them -- you can use them in your daily cooking, says @bittman http://t.co/5uHSBQ8l6X",
+      "user_id": "nytimes"
+    },
+    "444": {
+      "created_at": "2014-06-04 01:15:05",
+      "text": "Photo from 1958: New York's skyline, greatly reduced by fog http://t.co/uT0POE9cBb",
+      "user_id": "nytimes"
+    },
+    "445": {
+      "created_at": "2014-06-04 01:19:34",
+      "text": "G.M. Officials Say They Expect Mary Barra Will Be Cleared of Wrongdoing http://t.co/khweFDt5NP",
+      "user_id": "nytimes"
+    },
+    "446": {
+      "created_at": "2014-06-04 00:48:03",
+      "text": "In Escape Rooms, Video Games Meet Real Life http://t.co/DexuISj43D",
+      "user_id": "nytimes"
+    },
+    "447": {
+      "created_at": "2014-06-04 00:46:52",
+      "text": "Analysis by NYT reporters of the votes as they're counted in Mississippi, Iowa and other states http://t.co/11nBJ4a6w6",
+      "user_id": "nytimes"
+    },
+    "448": {
+      "created_at": "2014-06-04 00:00:09",
+      "text": "Follow Mississippi primary election results as they come in http://t.co/sZzbV5DWU8",
+      "user_id": "nytimes"
+    },
+    "449": {
+      "created_at": "2014-06-04 13:27:59",
+      "text": "Introducing NYT Opinion, a standalone subscription to our opinion section, and a new iPhone app. Give it a try: http://t.co/rptGpEGz4P",
+      "user_id": "nytimes"
+    },
+    "450": {
+      "created_at": "2014-06-05 18:48:27",
+      "text": "Breaking News: Senators Announce Accord on Improving Veterans’ Care http://t.co/NgJi6c5GJW",
+      "user_id": "nytimes"
+    },
+    "451": {
+      "created_at": "2014-06-05 17:05:42",
+      "text": "Breaking News: Bergdahl Walked Away Before, Military Report Says http://t.co/pq6VRUb4Ka",
+      "user_id": "nytimes"
+    },
+    "452": {
+      "created_at": "2014-06-05 13:11:04",
+      "text": "Breaking News: G.M. Says Its Inquiry Found No Cover-Up on Switch Flaw http://t.co/j1552W5dpa",
+      "user_id": "nytimes"
+    },
+    "453": {
+      "created_at": "2014-06-05 11:53:59",
+      "text": "Breaking News: European Central Bank Cuts Deposit Rate to Negative http://t.co/KAfzJfqj6x",
+      "user_id": "nytimes"
+    },
+    "454": {
+      "created_at": "2014-06-05 00:41:54",
+      "text": "Breaking News: New York Police Arrest Suspect in Child Stabbing Case http://t.co/pEe8R39m4O",
+      "user_id": "nytimes"
+    },
+    "455": {
+      "created_at": "2014-06-06 23:24:55",
+      "text": "Federal Judge Strikes Down Wisconsin's Ban on Gay Marriage http://t.co/Xs1EPiri4p",
+      "user_id": "nytimes"
+    },
+    "456": {
+      "created_at": "2014-06-06 23:20:40",
+      "text": "U.S. to Provide Lawyers for Children Facing Deportation http://t.co/XhxPdcBR1m",
+      "user_id": "nytimes"
+    },
+    "457": {
+      "created_at": "2014-06-06 22:21:55",
+      "text": "T Magazine: Tavi Forever http://t.co/ufFhZpVT5v",
+      "user_id": "nytimes"
+    },
+    "458": {
+      "created_at": "2014-06-06 22:45:05",
+      "text": "The names of the colors of soccer cleats these days sound like smoothie flavors http://t.co/rjy5okqA1a",
+      "user_id": "nytimes"
+    },
+    "459": {
+      "created_at": "2014-06-06 22:59:15",
+      "text": "Australia is the World Cup's unluckiest country http://t.co/e5NxyX2mje http://t.co/75AVgym6W8",
+      "user_id": "nytimes"
+    },
+    "460": {
+      "created_at": "2014-06-06 22:15:06",
+      "text": "How Commencement Speeches Go Viral http://t.co/S16AhJMkcT",
+      "user_id": "nytimes"
+    },
+    "461": {
+      "created_at": "2014-06-06 21:15:13",
+      "text": "Maybe you need a good cry. We're here to help http://t.co/tXDdm6sD6M",
+      "user_id": "nytimes"
+    },
+    "462": {
+      "created_at": "2014-06-06 21:08:34",
+      "text": "Hundreds Gather to Remember 6-Year-Old Victim of Brooklyn Stabbing http://t.co/qc5FGh3QeM",
+      "user_id": "nytimes"
+    },
+    "463": {
+      "created_at": "2014-06-06 21:59:06",
+      "text": "I was promised flying cars http://t.co/vZK3OdUhjl",
+      "user_id": "nytimes"
+    },
+    "464": {
+      "created_at": "2014-06-06 21:55:51",
+      "text": "Group of Catholic and Orthodox Officials Endorses Marriage for Some Priests http://t.co/bFLWHyPksH",
+      "user_id": "nytimes"
+    },
+    "465": {
+      "created_at": "2014-06-06 21:43:21",
+      "text": "A ‘Modern-Day Knight’ Who Helped Fleeing Tiananmen Activists http://t.co/e6qM3QMJa3",
+      "user_id": "nytimes"
+    },
+    "466": {
+      "created_at": "2014-06-06 20:46:05",
+      "text": "There are 2 types of people in the world: those who despised summer camp and those who loved it http://t.co/CJ5dL6kL04",
+      "user_id": "nytimes"
+    },
+    "467": {
+      "created_at": "2014-06-06 20:27:01",
+      "text": "Photos: The World Cup hairdo hall of fame http://t.co/b2hE9c7VxL",
+      "user_id": "nytimes"
+    },
+    "468": {
+      "created_at": "2014-06-06 20:21:31",
+      "text": "Susan Rice Affirms View That P.O.W. Served With ‘Honor’ http://t.co/fOq0TEhpOL",
+      "user_id": "nytimes"
+    },
+    "469": {
+      "created_at": "2014-06-06 20:27:02",
+      "text": "One of the more fun scenes from \"The Fault in Our Stars\" http://t.co/tApjnyQryB",
+      "user_id": "nytimes"
+    },
+    "470": {
+      "created_at": "2014-06-06 20:13:04",
+      "text": "A journey north to explore how the U.S. has been changed by immigration http://t.co/niOCyRrWFA http://t.co/jWypMEbEUX",
+      "user_id": "nytimes"
+    },
+    "471": {
+      "created_at": "2014-06-06 19:59:03",
+      "text": "The NYT review of \"Orange Is the New Black\" Season 2 http://t.co/zdQXXOrLtm",
+      "user_id": "nytimes"
+    },
+    "472": {
+      "created_at": "2014-06-06 19:14:23",
+      "text": "G.M. Response to a Fatal Flaw Was to Shrug http://t.co/AOjXiMDXK1",
+      "user_id": "nytimes"
+    },
+    "473": {
+      "created_at": "2014-06-06 19:26:09",
+      "text": "The NYT review of \"The Fault in Our Stars\" http://t.co/0r0NvrBCI6",
+      "user_id": "nytimes"
+    },
+    "474": {
+      "created_at": "2014-06-06 19:34:54",
+      "text": "Tavi Gevinson Grows Up http://t.co/Nd79fI6Nkn",
+      "user_id": "nytimes"
+    },
+    "475": {
+      "created_at": "2014-06-06 18:16:27",
+      "text": "Brooklyn Will Vie to Host 2016 Democratic National Convention, de Blasio Says http://t.co/QiaYgUdZPu",
+      "user_id": "nytimes"
+    },
+    "476": {
+      "created_at": "2014-06-06 18:43:02",
+      "text": "Photo from 1970: The moment the World Trade Center became the world's tallest building http://t.co/SgAS9tsyZc",
+      "user_id": "nytimes"
+    },
+    "477": {
+      "created_at": "2014-06-06 18:43:04",
+      "text": "The NYT review of \"Edge of Tomorrow\" http://t.co/hgWKF4ajYi",
+      "user_id": "nytimes"
+    },
+    "478": {
+      "created_at": "2014-06-06 18:52:43",
+      "text": "State Department Ramps Up Efforts Against Boko Haram http://t.co/roV3BYEOXo",
+      "user_id": "nytimes"
+    },
+    "479": {
+      "created_at": "2014-06-06 17:35:07",
+      "text": "Eight hours a day, he rescues items that people dropped on the subway tracks http://t.co/wuCnaA3ezG",
+      "user_id": "nytimes"
+    },
+    "480": {
+      "created_at": "2014-06-06 17:55:28",
+      "text": "DealBook: Uber Raises New Funds at $17 Billion Valuation http://t.co/mJ7Na9M34Z",
+      "user_id": "nytimes"
+    },
+    "481": {
+      "created_at": "2014-06-06 17:41:08",
+      "text": "How the recession reshaped the economy http://t.co/cySeZsJBJE http://t.co/QxS7hW79in",
+      "user_id": "nytimes"
+    },
+    "482": {
+      "created_at": "2014-06-06 17:15:12",
+      "text": "The jobs don't pay enough and the rents are insane. Now NYC's young add student loans to their misery http://t.co/7I1tdL6Ygp",
+      "user_id": "nytimes"
+    },
+    "483": {
+      "created_at": "2014-06-06 17:59:06",
+      "text": "Photos: The 11 horses that won the Triple Crown http://t.co/CX88tbR4kd",
+      "user_id": "nytimes"
+    },
+    "484": {
+      "created_at": "2014-06-06 16:43:06",
+      "text": "On Wednesday, police searched for traces of the man charged with stabbing 2 children in Brooklyn http://t.co/rxajDSzJeB",
+      "user_id": "nytimes"
+    },
+    "485": {
+      "created_at": "2014-06-06 16:14:10",
+      "text": "There is a ghost haunting soccer in Brazil http://t.co/eXSQgwAg31 http://t.co/pm2NNAKIvk",
+      "user_id": "nytimes"
+    },
+    "486": {
+      "created_at": "2014-06-06 16:27:08",
+      "text": "Autocorrect has come a long wa http://t.co/64Tt1RvUVt",
+      "user_id": "nytimes"
+    },
+    "487": {
+      "created_at": "2014-06-06 15:29:08",
+      "text": "Pakistan Suspends License of Leading TV News Channel http://t.co/kFwDC0cEaV",
+      "user_id": "nytimes"
+    },
+    "488": {
+      "created_at": "2014-06-06 15:07:55",
+      "text": "Leaders Gather to Honor D-Day Normandy Landing http://t.co/AnuZLzrzul",
+      "user_id": "nytimes"
+    },
+    "489": {
+      "created_at": "2014-06-06 15:35:05",
+      "text": "Bowe Bergdahl's hometown in Idaho is waiting for all the facts to come out http://t.co/mIU4L7bFE3",
+      "user_id": "nytimes"
+    },
+    "490": {
+      "created_at": "2014-06-06 15:59:09",
+      "text": "Tavi Gevinson is embarking on her next project: being a grown-up (Photo: Hendrik Kerstens) http://t.co/ePC5Ct3co3 http://t.co/QwKItf0JdC",
+      "user_id": "nytimes"
+    },
+    "491": {
+      "created_at": "2014-06-06 15:49:50",
+      "text": "Bits Blog: Vodafone Reveals Direct Access by Governments to Customer Data http://t.co/4hB4xqveTI",
+      "user_id": "nytimes"
+    },
+    "492": {
+      "created_at": "2014-06-06 14:10:48",
+      "text": "5th Batch of Clinton-Era Papers to Be Released http://t.co/WSxb1yFcnU",
+      "user_id": "nytimes"
+    },
+    "493": {
+      "created_at": "2014-06-06 14:36:37",
+      "text": "The Public Editor's Journal: The Politics of the P.O.W. Coverage http://t.co/8UKIIVortN",
+      "user_id": "nytimes"
+    },
+    "494": {
+      "created_at": "2014-06-06 14:36:36",
+      "text": "Recovery in Need of a Recovery: Good News on Jobs. Why Aren’t We Happier? http://t.co/EoTkWr3npr",
+      "user_id": "nytimes"
+    },
+    "495": {
+      "created_at": "2014-06-06 14:59:52",
+      "text": "The NYT obituary for Chester Nez, the last of the original Navajo code talkers http://t.co/yV3C3moXSV",
+      "user_id": "nytimes"
+    },
+    "496": {
+      "created_at": "2014-06-06 14:00:17",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/bDL8UGzH2u via @nytnow",
+      "user_id": "nytimes"
+    },
+    "497": {
+      "created_at": "2014-06-06 14:15:52",
+      "text": "Leaders Gather to Honor D-Day Normandy Landing http://t.co/goGILanhRz",
+      "user_id": "nytimes"
+    },
+    "498": {
+      "created_at": "2014-06-06 13:09:18",
+      "text": "War’s Elite Tough Guys, Hesitant to Seek Healing http://t.co/S5U8DSEFTe",
+      "user_id": "nytimes"
+    },
+    "499": {
+      "created_at": "2014-06-06 13:44:50",
+      "text": "Hot Arena Plays Role for Heat and Spurs in Game 1 of N.B.A. Finals http://t.co/QUvJhN0QYc",
+      "user_id": "nytimes"
+    },
+    "500": {
+      "created_at": "2014-06-06 13:41:10",
+      "text": "70 years later, four veterans of the largest amphibious invasion in history recall their experiences http://t.co/eGANpdSGJW via @nytopinion",
+      "user_id": "nytimes"
+    },
+    "501": {
+      "created_at": "2014-06-06 13:24:20",
+      "text": "Seattle Pacific University Students Stopped Gunman http://t.co/sEmnqHTFyG",
+      "user_id": "nytimes"
+    },
+    "502": {
+      "created_at": "2014-06-06 12:10:08",
+      "text": "How The NYT covered the D-Day landing 70 years ago http://t.co/dLRAXFlVjH",
+      "user_id": "nytimes"
+    },
+    "503": {
+      "created_at": "2014-06-06 12:48:35",
+      "text": "U.S. Added 217,000 Jobs in May; Unemployment Rate Remains 6.3% http://t.co/tGzcW5q58b",
+      "user_id": "nytimes"
+    },
+    "504": {
+      "created_at": "2014-06-06 12:30:08",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/CoVfGZu1K4 via @nytnow",
+      "user_id": "nytimes"
+    },
+    "505": {
+      "created_at": "2014-06-06 12:12:35",
+      "text": "Retiring: For Some Retirees, a Second Act Is Easier Than Expected http://t.co/RDWRDHzr3U",
+      "user_id": "nytimes"
+    },
+    "506": {
+      "created_at": "2014-06-06 12:17:46",
+      "text": "Singing Nun Wins Italian TV Talent Show http://t.co/orq3Cod1di",
+      "user_id": "nytimes"
+    },
+    "507": {
+      "created_at": "2014-06-06 11:56:46",
+      "text": "Bomb Hits Convoy With Afghan Presidential Candidate http://t.co/F0l9S8PO0g",
+      "user_id": "nytimes"
+    },
+    "508": {
+      "created_at": "2014-06-06 11:22:02",
+      "text": "Obama Honors Moment of Liberation in Normandy http://t.co/JmW6f42GXo",
+      "user_id": "nytimes"
+    },
+    "509": {
+      "created_at": "2014-06-06 11:36:01",
+      "text": "Day 20: The Politics of Crime and Immigration http://t.co/qRkv8HllL9",
+      "user_id": "nytimes"
+    },
+    "510": {
+      "created_at": "2014-06-06 11:00:05",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/Z1a5EbiVzP via @nytnow",
+      "user_id": "nytimes"
+    },
+    "511": {
+      "created_at": "2014-06-06 10:40:05",
+      "text": "Openness on Israeli Issues Seen in Survey of Iranians http://t.co/DUmXezCOs2",
+      "user_id": "nytimes"
+    },
+    "512": {
+      "created_at": "2014-06-06 10:43:56",
+      "text": "City Room: New York Today: Don’t Fear the Mosquitoes http://t.co/C6ZBxZ4kj2",
+      "user_id": "nytimes"
+    },
+    "513": {
+      "created_at": "2014-06-06 10:18:58",
+      "text": "About New York: Tense Search, Chilling Note and an Arrest in Brooklyn Stabbings http://t.co/NCXW3ezCD4",
+      "user_id": "nytimes"
+    },
+    "514": {
+      "created_at": "2014-06-06 09:20:37",
+      "text": "World Leaders and Veterans to Gather at D-Day Beaches http://t.co/hvH3iESTcq",
+      "user_id": "nytimes"
+    },
+    "515": {
+      "created_at": "2014-06-06 09:47:05",
+      "text": "How the recession reshaped the economy in 255 charts http://t.co/M9gT6rDJl9 http://t.co/m7OVpLiCwT",
+      "user_id": "nytimes"
+    },
+    "516": {
+      "created_at": "2014-06-06 09:05:00",
+      "text": "Bombs Close to Presidential Rally in Kabul Injure Bodyguards http://t.co/2p6T9G8TnQ",
+      "user_id": "nytimes"
+    },
+    "517": {
+      "created_at": "2014-06-06 09:57:15",
+      "text": "Memories of D-Day, Replayed on the Normandy Coast http://t.co/hv1W5eHjAN",
+      "user_id": "nytimes"
+    },
+    "518": {
+      "created_at": "2014-06-06 09:13:05",
+      "text": "Harvard confirms a book in one of its libraries is bound in human skin http://t.co/0nA4ClwBvU",
+      "user_id": "nytimes"
+    },
+    "519": {
+      "created_at": "2014-06-06 08:12:07",
+      "text": "Suspect Arrested in Rampage That Left 3 Canadian Officers Dead http://t.co/ZeWnTVLA1i",
+      "user_id": "nytimes"
+    },
+    "520": {
+      "created_at": "2014-06-06 08:12:33",
+      "text": "Shoo-Ins Are Few in Heated Tony Race http://t.co/0Q61Hu3koP",
+      "user_id": "nytimes"
+    },
+    "521": {
+      "created_at": "2014-06-06 08:32:04",
+      "text": "36 hours in Canberra, Australia http://t.co/cCTB1cY9ga",
+      "user_id": "nytimes"
+    },
+    "522": {
+      "created_at": "2014-06-06 08:52:50",
+      "text": "Yekaterinburg Journal: Where Some May Say No Thanks for the Memories http://t.co/5dwFjQ6Ij3",
+      "user_id": "nytimes"
+    },
+    "523": {
+      "created_at": "2014-06-06 07:51:40",
+      "text": "DealBook: Fund Manager Sets Goats Grazing in Blighted Detroit http://t.co/4tsYIXV93n",
+      "user_id": "nytimes"
+    },
+    "524": {
+      "created_at": "2014-06-06 07:17:02",
+      "text": "Europe gets negative interest rates. What does that even mean? http://t.co/VUYm66jtiu",
+      "user_id": "nytimes"
+    },
+    "525": {
+      "created_at": "2014-06-06 07:41:04",
+      "text": "70 years later, four veterans of the largest amphibious invasion in history recall their experiences http://t.co/0qFuyNxTpb via @nytopinion",
+      "user_id": "nytimes"
+    },
+    "526": {
+      "created_at": "2014-06-06 06:33:20",
+      "text": "North Korea Detains Another American http://t.co/0LVbprr9r3",
+      "user_id": "nytimes"
+    },
+    "527": {
+      "created_at": "2014-06-06 06:56:05",
+      "text": "Narendra Modi has succeeded in associating his personal style with his political platform http://t.co/qfjU5bYtKy",
+      "user_id": "nytimes"
+    },
+    "528": {
+      "created_at": "2014-06-06 06:22:07",
+      "text": "The World Cup draw was unfair. What if there were a better way? http://t.co/TG2UDm2Jbw http://t.co/hFFIGJQq2C",
+      "user_id": "nytimes"
+    },
+    "529": {
+      "created_at": "2014-06-06 05:25:08",
+      "text": "Chester Nez Dies at 93; Navajo Words Once Washed From His Mouth Helped Win War http://t.co/tYgLlqDrHc",
+      "user_id": "nytimes"
+    },
+    "530": {
+      "created_at": "2014-06-06 05:46:27",
+      "text": "The Triple Crown Eleven http://t.co/eVli5PK6nh",
+      "user_id": "nytimes"
+    },
+    "531": {
+      "created_at": "2014-06-06 04:08:15",
+      "text": "Nigerian Sect Kills Villagers Along Border http://t.co/IYMDSOXQuR",
+      "user_id": "nytimes"
+    },
+    "532": {
+      "created_at": "2014-06-06 04:42:07",
+      "text": "Books of The Times: ‘Carsick,’ a Hitchhiking Memoir by John Waters http://t.co/ze3DYXzLrm",
+      "user_id": "nytimes"
+    },
+    "533": {
+      "created_at": "2014-06-06 04:21:06",
+      "text": "What does Lionel Messi have to do to make Argentina love him? http://t.co/VA4ByFrrxR http://t.co/lRtAqpNhx2",
+      "user_id": "nytimes"
+    },
+    "534": {
+      "created_at": "2014-06-06 03:15:25",
+      "text": "Shaken, G.I.’s Hometown Waits for All the Facts http://t.co/F0k4O6plBg",
+      "user_id": "nytimes"
+    },
+    "535": {
+      "created_at": "2014-06-06 18:10:45",
+      "text": "Breaking News: Brooklyn Will Seek to Host 2016 Democratic National Convention http://t.co/p6HYTYYZ4E",
+      "user_id": "nytimes"
+    },
+    "536": {
+      "created_at": "2014-06-06 12:34:10",
+      "text": "Breaking News: U.S. Added 217,000 Jobs in May; Unemployment Rate Remains 6.3% http://t.co/4CWWUs6VFe",
+      "user_id": "nytimes"
+    },
+    "537": {
+      "created_at": "2014-06-08 23:00:18",
+      "text": "Should the Tony Awards nomination process be changed? http://t.co/2ABOIKiM03",
+      "user_id": "nytimes"
+    },
+    "538": {
+      "created_at": "2014-06-08 23:16:06",
+      "text": "Tony Awards updates and analysis from NYT journalists on our blog http://t.co/U42mZMkKpl",
+      "user_id": "nytimes"
+    },
+    "539": {
+      "created_at": "2014-06-08 23:32:06",
+      "text": "Follow us on @nytimestheater for live updates on the Tony Awards",
+      "user_id": "nytimes"
+    },
+    "540": {
+      "created_at": "2014-06-08 23:45:09",
+      "text": "In terms of fans, the Miami Heat have already beaten the San Antonio Spurs http://t.co/2l2TJsuESf http://t.co/q9UB2VoTnW",
+      "user_id": "nytimes"
+    },
+    "541": {
+      "created_at": "2014-06-08 23:59:04",
+      "text": "Tony Awards updates and analysis from NYT journalists on our blog http://t.co/iaohBPbl0i",
+      "user_id": "nytimes"
+    },
+    "542": {
+      "created_at": "2014-06-08 22:00:15",
+      "text": "5 Dead in Las Vegas Shootings http://t.co/PTSgFz6VuD",
+      "user_id": "nytimes"
+    },
+    "543": {
+      "created_at": "2014-06-08 22:25:06",
+      "text": "Last chance to fill out your NYT Tony Awards ballot http://t.co/GeTVrHysO2",
+      "user_id": "nytimes"
+    },
+    "544": {
+      "created_at": "2014-06-08 22:43:07",
+      "text": "The fastest-growing group of stay-at-home dads stay home by choice, not because they can't find jobs http://t.co/fnqVPYo1Ie",
+      "user_id": "nytimes"
+    },
+    "545": {
+      "created_at": "2014-06-08 22:36:44",
+      "text": "Three Dead and Two Injured in Las Vegas Shootings http://t.co/DAUMH72rPW",
+      "user_id": "nytimes"
+    },
+    "546": {
+      "created_at": "2014-06-08 22:14:05",
+      "text": "People are streaming broadcast television on their smartphones in record numbers http://t.co/xi41NwvNHB",
+      "user_id": "nytimes"
+    },
+    "547": {
+      "created_at": "2014-06-08 21:46:04",
+      "text": "It's not too late to fill out your NYT Tony Awards ballot http://t.co/SviQ7HFefL",
+      "user_id": "nytimes"
+    },
+    "548": {
+      "created_at": "2014-06-08 21:33:58",
+      "text": "ArtsBeat: 2014 Tony Awards: Live Coverage http://t.co/eki5nrit17",
+      "user_id": "nytimes"
+    },
+    "549": {
+      "created_at": "2014-06-08 21:11:06",
+      "text": "We're gearing up to cover the Tony Awards live on @NYTimesTheater",
+      "user_id": "nytimes"
+    },
+    "550": {
+      "created_at": "2014-06-08 21:18:26",
+      "text": "Pope Holds Vatican Prayer Summit With Israeli and Palestinian Leaders http://t.co/MfrW0HpN2h",
+      "user_id": "nytimes"
+    },
+    "551": {
+      "created_at": "2014-06-08 20:10:23",
+      "text": "You Don't Have to Hate Your Job http://t.co/WjvWOLAO39",
+      "user_id": "nytimes"
+    },
+    "552": {
+      "created_at": "2014-06-08 20:43:07",
+      "text": "Instagram is rolling out a set of new tools that will let you easily enhance your photos http://t.co/7jrjkWbTUW",
+      "user_id": "nytimes"
+    },
+    "553": {
+      "created_at": "2014-06-08 20:30:25",
+      "text": "Not a Happy Camper http://t.co/2fwgkP3C4j",
+      "user_id": "nytimes"
+    },
+    "554": {
+      "created_at": "2014-06-08 20:31:55",
+      "text": "Fatal Encounter Near Drunken Monkey Is Under Investigation http://t.co/BZlOc59Q3Y",
+      "user_id": "nytimes"
+    },
+    "555": {
+      "created_at": "2014-06-08 20:59:08",
+      "text": "Making Tony Awards predictions is unusually difficult this year http://t.co/EmrMAgXczt",
+      "user_id": "nytimes"
+    },
+    "556": {
+      "created_at": "2014-06-08 19:29:13",
+      "text": "Gunmen Attack Karachi Airport, Killing at Least 4 Guards http://t.co/fSDqodpF7D",
+      "user_id": "nytimes"
+    },
+    "557": {
+      "created_at": "2014-06-08 19:58:04",
+      "text": "Making computers smart enough to fight off hackers http://t.co/qSDB1njkMB",
+      "user_id": "nytimes"
+    },
+    "558": {
+      "created_at": "2014-06-08 19:03:07",
+      "text": "Slow-roasted Moroccan lamb, without the barbecue spit. http://t.co/bUqHnV2T2z (Photo: Fred R. Conrad for NYT) http://t.co/1noh9ivFwF",
+      "user_id": "nytimes"
+    },
+    "559": {
+      "created_at": "2014-06-08 19:23:02",
+      "text": "Wisconsin won't pardon him for breaking a man's nose. But the victim forgave him http://t.co/VO1WIQQAKj",
+      "user_id": "nytimes"
+    },
+    "560": {
+      "created_at": "2014-06-08 18:42:37",
+      "text": "Tibetan Exiles a Source of Tension in China-India Ties http://t.co/1LLqlSskij",
+      "user_id": "nytimes"
+    },
+    "561": {
+      "created_at": "2014-06-08 18:19:18",
+      "text": "‘Redeemer: The Life of Jimmy Carter’ and ‘A Call to Action’ http://t.co/uX4scAo2Fv",
+      "user_id": "nytimes"
+    },
+    "562": {
+      "created_at": "2014-06-08 18:45:04",
+      "text": "How to watch the World Cup like a true fanatic, or at least sound like one http://t.co/pkkofvWZcG http://t.co/V5FbLlJz8v",
+      "user_id": "nytimes"
+    },
+    "563": {
+      "created_at": "2014-06-08 18:27:05",
+      "text": "Day 22: A Changing Ethnic Landscape http://t.co/14hYi73uG1",
+      "user_id": "nytimes"
+    },
+    "564": {
+      "created_at": "2014-06-08 18:32:23",
+      "text": "Motherlode Blog: A Plea to the Daughters of Title IX: Why Don’t More Women Coach? http://t.co/lTFVZ82Qqs",
+      "user_id": "nytimes"
+    },
+    "565": {
+      "created_at": "2014-06-08 17:59:08",
+      "text": "How a New York City high school is tackling cyberbullying http://t.co/uRtqdC4oHf",
+      "user_id": "nytimes"
+    },
+    "566": {
+      "created_at": "2014-06-08 17:00:14",
+      "text": "A few years ago, Beyoncé was like any other record-breaking pop star. Then something changed. http://t.co/s9ZRV3bTp3 http://t.co/Osn3GE618L",
+      "user_id": "nytimes"
+    },
+    "567": {
+      "created_at": "2014-06-08 17:12:02",
+      "text": "An unusual public disagreement inside the N.R.A. about the tactics of protesters was exposed last week http://t.co/jIbQPRo3GM",
+      "user_id": "nytimes"
+    },
+    "568": {
+      "created_at": "2014-06-08 17:30:13",
+      "text": "Follow @NYTimesTheater for live coverage of the Tony Awards tonight",
+      "user_id": "nytimes"
+    },
+    "569": {
+      "created_at": "2014-06-08 17:35:01",
+      "text": "With Tough Tone, Kerry Defends Swap for Bergdahl http://t.co/mJAM43raNb",
+      "user_id": "nytimes"
+    },
+    "570": {
+      "created_at": "2014-06-08 16:24:02",
+      "text": "Economic growth has been stronger in 9 states where carbon emissions have fallen more quickly http://t.co/CrUC0wVLaG http://t.co/V8y91RmtCc",
+      "user_id": "nytimes"
+    },
+    "571": {
+      "created_at": "2014-06-08 16:44:29",
+      "text": "Urged to Multiply, Iranian Couples Are Dubious http://t.co/VRlDtalGic",
+      "user_id": "nytimes"
+    },
+    "572": {
+      "created_at": "2014-06-08 16:52:49",
+      "text": "Rafael Nadal Wins French Open http://t.co/E1YUeFFuv5",
+      "user_id": "nytimes"
+    },
+    "573": {
+      "created_at": "2014-06-08 15:59:04",
+      "text": "There is a ghost haunting soccer in Brazil http://t.co/FidQDijVrh http://t.co/qvnsAy5n6w",
+      "user_id": "nytimes"
+    },
+    "574": {
+      "created_at": "2014-06-08 15:17:03",
+      "text": "Sylvia Mathews Burwell, the new Health and Human Services chief, is never far from her roots http://t.co/snQ0FPbScV",
+      "user_id": "nytimes"
+    },
+    "575": {
+      "created_at": "2014-06-08 15:50:02",
+      "text": "Sisi Sworn In as Egypt’s President http://t.co/FlHAC0MDJD",
+      "user_id": "nytimes"
+    },
+    "576": {
+      "created_at": "2014-06-08 15:43:09",
+      "text": "Hillary Clinton's new book is a finely calibrated portrait of the ex-secretary of state as a policy wonk http://t.co/HxXvWKjggM",
+      "user_id": "nytimes"
+    },
+    "577": {
+      "created_at": "2014-06-08 15:13:22",
+      "text": "Outside Money Floods Alaska in Senate Race http://t.co/35x9O43dqp",
+      "user_id": "nytimes"
+    },
+    "578": {
+      "created_at": "2014-06-08 14:59:04",
+      "text": "How the recession reshaped the economy in 255 charts http://t.co/zM8HGjSwrd http://t.co/aN8jSg1NED",
+      "user_id": "nytimes"
+    },
+    "579": {
+      "created_at": "2014-06-08 14:13:06",
+      "text": "It's not too late to fill out your NYT Tony Awards ballot http://t.co/XMlDOMrBHi",
+      "user_id": "nytimes"
+    },
+    "580": {
+      "created_at": "2014-06-08 14:44:48",
+      "text": "World Cup Crib Sheet: Picking a Winner http://t.co/PxmtC58cWS",
+      "user_id": "nytimes"
+    },
+    "581": {
+      "created_at": "2014-06-08 14:32:07",
+      "text": "How to Succeed in Washington Without Really Trying http://t.co/EU9OT1huc2",
+      "user_id": "nytimes"
+    },
+    "582": {
+      "created_at": "2014-06-08 13:12:07",
+      "text": "Stephen King rejects and replaces the creakiest devices of the hard-boiled detective novel http://t.co/9YD9XTqfnf",
+      "user_id": "nytimes"
+    },
+    "583": {
+      "created_at": "2014-06-08 13:34:39",
+      "text": "United States 2, Nigeria 1: U.S. Displays Improvement Across the Field and a Breakthrough at the Front http://t.co/mTPrEcnUi0",
+      "user_id": "nytimes"
+    },
+    "584": {
+      "created_at": "2014-06-08 13:33:05",
+      "text": "The so-called War on Coal is reminiscent of the War on Tobacco fought during the 1990s http://t.co/xfjcujSKmi",
+      "user_id": "nytimes"
+    },
+    "585": {
+      "created_at": "2014-06-08 13:57:07",
+      "text": "\"We cannot win this World Cup, because we are not at that level yet.\" - Jurgen Klinsmann http://t.co/GzVE0JNZuk",
+      "user_id": "nytimes"
+    },
+    "586": {
+      "created_at": "2014-06-08 12:32:33",
+      "text": "ArtsBeat: 2014 Tony Awards: Hugh Jackman on His Hosting Plans and Why He Prefers Musicals to Movies http://t.co/TL7xeW19aH",
+      "user_id": "nytimes"
+    },
+    "587": {
+      "created_at": "2014-06-08 12:48:09",
+      "text": "A little-known side effect of menopause appears to be writing books, but one ranks among the most amusing http://t.co/1bpn8zCU20",
+      "user_id": "nytimes"
+    },
+    "588": {
+      "created_at": "2014-06-08 12:00:10",
+      "text": "Follow @NYTimesTheater for live coverage of the Tony Awards this evening",
+      "user_id": "nytimes"
+    },
+    "589": {
+      "created_at": "2014-06-08 11:40:52",
+      "text": "Sunday Routine: Bernard Telsey: The Shows Must Go on http://t.co/SPNDoRChgx",
+      "user_id": "nytimes"
+    },
+    "590": {
+      "created_at": "2014-06-08 11:20:15",
+      "text": "In South Sudan, a Ghost of Wars Past: Child Soldiers http://t.co/Ooxy7AgpTF",
+      "user_id": "nytimes"
+    },
+    "591": {
+      "created_at": "2014-06-08 10:45:15",
+      "text": "Seeing Squalor and Unconcern in Southern Jail http://t.co/onXUOz3Cru",
+      "user_id": "nytimes"
+    },
+    "592": {
+      "created_at": "2014-06-08 10:59:12",
+      "text": "Pope Kicks Off Mideast Peace Summit of Prayer http://t.co/YLhSILIaeO",
+      "user_id": "nytimes"
+    },
+    "593": {
+      "created_at": "2014-06-08 10:02:19",
+      "text": "Bergdahl Was in Unit Known for Its Troubles http://t.co/NgkDq6fDLu",
+      "user_id": "nytimes"
+    },
+    "594": {
+      "created_at": "2014-06-08 10:14:07",
+      "text": "What does Lionel Messi have to do to make Argentina love him? http://t.co/5QyFIVNWJK http://t.co/lRtAqpNhx2",
+      "user_id": "nytimes"
+    },
+    "595": {
+      "created_at": "2014-06-08 09:17:06",
+      "text": "Cruz Fires Up G.O.P. Delegates in Texas http://t.co/JzrPST2dvw",
+      "user_id": "nytimes"
+    },
+    "596": {
+      "created_at": "2014-06-08 09:52:05",
+      "text": "Photos: The World Cup hairdo hall of fame http://t.co/yiEed2ELN9",
+      "user_id": "nytimes"
+    },
+    "597": {
+      "created_at": "2014-06-08 08:29:49",
+      "text": "Sharpton Warns Against Race-Baiting in New York Contest http://t.co/xcN9qJzMyI",
+      "user_id": "nytimes"
+    },
+    "598": {
+      "created_at": "2014-06-08 08:20:42",
+      "text": "G.M. Lawyers Hid Fatal Flaw, From Critics and One Another http://t.co/89GNpJDc3U",
+      "user_id": "nytimes"
+    },
+    "599": {
+      "created_at": "2014-06-08 08:56:22",
+      "text": "Riches Come to Women as C.E.O.s, but Few Get There http://t.co/mpeFVjR3jX",
+      "user_id": "nytimes"
+    },
+    "600": {
+      "created_at": "2014-06-08 08:35:00",
+      "text": "Egypt’s Sisi Sworn In as President http://t.co/4eR5dwu2Q2",
+      "user_id": "nytimes"
+    },
+    "601": {
+      "created_at": "2014-06-08 07:38:43",
+      "text": "In Some States, Emissions Cuts Defy Skeptics http://t.co/wrXlnmEuWJ",
+      "user_id": "nytimes"
+    },
+    "602": {
+      "created_at": "2014-06-08 07:16:58",
+      "text": "Prototype: Planting for Profit, and Greater Good http://t.co/ljlwXYVaqL",
+      "user_id": "nytimes"
+    },
+    "603": {
+      "created_at": "2014-06-08 07:13:38",
+      "text": "Haiti Elections in Doubt as Ex-Presidents Stir Pot http://t.co/OfaNZf4Gg5",
+      "user_id": "nytimes"
+    },
+    "604": {
+      "created_at": "2014-06-08 07:59:34",
+      "text": "Big City: For de Blasio, Deals, Drama and (Maybe) Progress http://t.co/xU3jzHhFv8",
+      "user_id": "nytimes"
+    },
+    "605": {
+      "created_at": "2014-06-08 06:53:22",
+      "text": "Sunni Insurgency Shows Muscle Across Iraq http://t.co/tRqeceWWDg",
+      "user_id": "nytimes"
+    },
+    "606": {
+      "created_at": "2014-06-08 06:14:01",
+      "text": "Performing Without Net: Stars of YouTube Take to the Stage http://t.co/l74Vyvr1ux",
+      "user_id": "nytimes"
+    },
+    "607": {
+      "created_at": "2014-06-08 06:33:06",
+      "text": "Fill out your NYT Tony Awards ballot http://t.co/l0FdKGMd64",
+      "user_id": "nytimes"
+    },
+    "608": {
+      "created_at": "2014-06-08 05:52:44",
+      "text": "Kings Work on Ice, but Most Live on the Beach http://t.co/svNhDGqKzj",
+      "user_id": "nytimes"
+    },
+    "609": {
+      "created_at": "2014-06-08 05:06:26",
+      "text": "Kings 5, Rangers 4, 2OT: Kings Again Take the Lead Only When Necessary: At the End http://t.co/1rzz67PkEo",
+      "user_id": "nytimes"
+    },
+    "610": {
+      "created_at": "2014-06-08 05:18:05",
+      "text": "While suicides for the rest of the active-duty military decline, they have risen for America's elite troops http://t.co/xNnJpV65jU",
+      "user_id": "nytimes"
+    },
+    "611": {
+      "created_at": "2014-06-08 05:32:38",
+      "text": "Novak Djokovic’s First French Open Title Would Deny Rafael Nadal His Ninth http://t.co/AN2ad7o2I7",
+      "user_id": "nytimes"
+    },
+    "612": {
+      "created_at": "2014-06-06 03:02:03",
+      "text": "Director Josh Boone narrates a scene from \"The Fault in Our Stars\" http://t.co/zXgDqgEoAT",
+      "user_id": "nytimes"
+    },
+    "613": {
+      "created_at": "2014-06-06 03:48:06",
+      "text": "How Jurgen Klinsmann plans to make U.S. soccer better (and less American) http://t.co/l3eyXAEaWp",
+      "user_id": "nytimes"
+    },
+    "614": {
+      "created_at": "2014-06-06 03:32:35",
+      "text": "Faces of an Immigration System Overwhelmed by Women and Children http://t.co/1Loz89PHUh",
+      "user_id": "nytimes"
+    },
+    "615": {
+      "created_at": "2014-06-06 02:52:04",
+      "text": "The NYT review of \"Edge of Tomorrow\" http://t.co/D940aPEMGM",
+      "user_id": "nytimes"
+    },
+    "616": {
+      "created_at": "2014-06-06 02:24:13",
+      "text": "The Burden of Being Messi http://t.co/bTr1HbGQy3",
+      "user_id": "nytimes"
+    },
+    "617": {
+      "created_at": "2014-06-06 02:33:05",
+      "text": "A journey north to explore how the U.S. has been changed by immigration http://t.co/1MCVRWqcCr http://t.co/BHZcd42SkJ",
+      "user_id": "nytimes"
+    },
+    "618": {
+      "created_at": "2014-06-06 02:13:06",
+      "text": "The NYT review of \"Orange Is the New Black\" season 2 http://t.co/vLCtGoaedh",
+      "user_id": "nytimes"
+    },
+    "619": {
+      "created_at": "2014-06-06 01:52:44",
+      "text": "Girl, 7, Recovering From Elevator Stabbing http://t.co/gg5e2SHhBl",
+      "user_id": "nytimes"
+    },
+    "620": {
+      "created_at": "2014-06-06 01:37:24",
+      "text": "Shooting Leaves One Dead at Seattle Pacific University http://t.co/ZF9vwoK9Wo",
+      "user_id": "nytimes"
+    },
+    "621": {
+      "created_at": "2014-06-06 01:16:07",
+      "text": "How the recession reshaped the economy in 255 charts http://t.co/uFv7Xtmatr http://t.co/4y2IipnSDR",
+      "user_id": "nytimes"
+    },
+    "622": {
+      "created_at": "2014-06-06 01:49:04",
+      "text": "The NYT review of \"The Fault in Our Stars\" http://t.co/VoTQH0h7gM",
+      "user_id": "nytimes"
+    },
+    "623": {
+      "created_at": "2014-06-06 00:04:28",
+      "text": "In Memoir, Hillary Clinton Discusses Russia, Syria and Iraq http://t.co/MY3MxBOCiX",
+      "user_id": "nytimes"
+    },
+    "624": {
+      "created_at": "2014-06-06 00:45:26",
+      "text": "One Killed in Seattle Campus Shooting http://t.co/S6WZenWFpe",
+      "user_id": "nytimes"
+    },
+    "625": {
+      "created_at": "2014-06-06 00:48:07",
+      "text": "Times Haiku: \"It may not be what you want to hear all the time, but what's right is right.\" http://t.co/DrJYNS9hkv",
+      "user_id": "nytimes"
+    },
+    "626": {
+      "created_at": "2014-06-06 00:27:10",
+      "text": "How to watch the World Cup like a true fanatic, or at least sound like one http://t.co/WzMTqymAcy http://t.co/zNJwXw3sfI",
+      "user_id": "nytimes"
+    },
+    "627": {
+      "created_at": "2014-06-06 00:18:04",
+      "text": "How a New York City high school is tackling cyberbullying http://t.co/2Y9VS2Y4JM",
+      "user_id": "nytimes"
+    },
+    "628": {
+      "created_at": "2014-06-07 23:00:54",
+      "text": "Breaking News: Tonalist Wins Belmont Stakes, Denying Triple Crown for California Chrome http://t.co/XF5nJgtN64",
+      "user_id": "nytimes"
+    },
+    "629": {
+      "created_at": "2014-06-07 21:21:40",
+      "text": "Breaking News: Driver Charged in Crash That Killed 1 and Critically Injured the Comedian Tracy Morgan http://t.co/clLQPlBkCa",
+      "user_id": "nytimes"
+    },
+    "630": {
+      "created_at": "2014-06-07 16:19:06",
+      "text": "Breaking News: Maria Sharapova Wins French Open http://t.co/GoWYX53Afl",
+      "user_id": "nytimes"
+    },
+    "631": {
+      "created_at": "2014-06-08 04:15:05",
+      "text": "Maybe you need a good cry. We're here to help http://t.co/9ifafdJL0m",
+      "user_id": "nytimes"
+    },
+    "632": {
+      "created_at": "2014-06-08 04:30:05",
+      "text": "The World Cup draw was unfair. What if there were a better way? http://t.co/HujlGSveNQ http://t.co/JooegqAkwb",
+      "user_id": "nytimes"
+    },
+    "633": {
+      "created_at": "2014-06-08 04:43:09",
+      "text": "A Tupac for everyone http://t.co/yu4TCqm6pK",
+      "user_id": "nytimes"
+    },
+    "634": {
+      "created_at": "2014-06-08 04:59:09",
+      "text": "The NYT review of Hillary Clinton's \"Hard Choices\" http://t.co/X04mWFn2aR",
+      "user_id": "nytimes"
+    },
+    "635": {
+      "created_at": "2014-06-08 03:30:15",
+      "text": "How the recession reshaped the economy in 255 charts http://t.co/YbvTKmsgja http://t.co/4rnnWebiv8",
+      "user_id": "nytimes"
+    },
+    "636": {
+      "created_at": "2014-06-08 03:16:04",
+      "text": "80 miles from New Orleans, an island is vanshing http://t.co/LxaIxTlJo4",
+      "user_id": "nytimes"
+    },
+    "637": {
+      "created_at": "2014-06-08 03:59:05",
+      "text": "The NYT review of \"Orange Is the New Black\" Season 2 http://t.co/iwsdyx4n3W",
+      "user_id": "nytimes"
+    },
+    "638": {
+      "created_at": "2014-06-08 03:46:03",
+      "text": "Tavi Gevinson grows up http://t.co/Z6Kye3Mw7j",
+      "user_id": "nytimes"
+    },
+    "639": {
+      "created_at": "2014-06-08 02:14:06",
+      "text": "What's black and white and makes a 310-mile round trip? http://t.co/0emM8Efz9R",
+      "user_id": "nytimes"
+    },
+    "640": {
+      "created_at": "2014-06-08 02:59:07",
+      "text": "A tattoo parlor in Maryland gives women with breast cancer a realistic nipple replacement http://t.co/sX1Tu0I8jW",
+      "user_id": "nytimes"
+    },
+    "641": {
+      "created_at": "2014-06-08 02:44:04",
+      "text": "Revisting the heartache of the day in 1986 when Challenger's 7 astronauts slipped the surly bonds of Earth http://t.co/MsvqNF9FvX",
+      "user_id": "nytimes"
+    },
+    "642": {
+      "created_at": "2014-06-08 02:30:10",
+      "text": "There is a ghost haunting soccer in Brazil http://t.co/mx9epPfExW http://t.co/MkAM2P32kM",
+      "user_id": "nytimes"
+    },
+    "643": {
+      "created_at": "2014-06-08 01:30:07",
+      "text": "A journey north to explore how the U.S. has been changed by immigration http://t.co/INZnG6YLWY http://t.co/qScktlU8L1",
+      "user_id": "nytimes"
+    },
+    "644": {
+      "created_at": "2014-06-08 01:22:46",
+      "text": "Stephen King’s ‘Mr. Mercedes’ http://t.co/xuKbFqd20F",
+      "user_id": "nytimes"
+    },
+    "645": {
+      "created_at": "2014-06-08 01:59:02",
+      "text": "One of the more fun scenes from \"The Fault in Our Stars\" http://t.co/YZxdtJ9TRH",
+      "user_id": "nytimes"
+    },
+    "646": {
+      "created_at": "2014-06-08 01:46:02",
+      "text": "Different ecosystems provide $142.7 trillion of services to humanity each year http://t.co/LWICXhDeFy",
+      "user_id": "nytimes"
+    },
+    "647": {
+      "created_at": "2014-06-08 01:16:05",
+      "text": "What does Lionel Messi have to do to make Argentina love him? http://t.co/C2xNT9WRVX http://t.co/lRtAqpNhx2",
+      "user_id": "nytimes"
+    },
+    "648": {
+      "created_at": "2014-06-08 01:50:08",
+      "text": "Follow @NYTimesTheater for live coverage of the Tony Awards on Sunday",
+      "user_id": "nytimes"
+    },
+    "649": {
+      "created_at": "2014-06-08 01:48:16",
+      "text": "Though Not Quietly, Kentucky Moves to Cut Reliance on Coal http://t.co/HUTYezZRmo",
+      "user_id": "nytimes"
+    },
+    "650": {
+      "created_at": "2014-06-08 01:38:12",
+      "text": "As Bowe Bergdahl Heals, Details Emerge of His Captivity http://t.co/aForFZUQY8",
+      "user_id": "nytimes"
+    },
+    "651": {
+      "created_at": "2014-06-08 00:59:14",
+      "text": "A few years ago, Beyoncé was like any other record-breaking pop star. Then something changed. http://t.co/yCVli7BADH http://t.co/1rBqRSRgAM",
+      "user_id": "nytimes"
+    },
+    "652": {
+      "created_at": "2014-06-08 00:17:06",
+      "text": "They were having sex. He had a heart attack. She packed his bag and it showed him what love really means http://t.co/G9dpK2bEN0",
+      "user_id": "nytimes"
+    },
+    "653": {
+      "created_at": "2014-06-08 00:25:44",
+      "text": "Cleveland Clinic Chief Out of Running for V.A. http://t.co/CMVAfcMDBO",
+      "user_id": "nytimes"
+    },
+    "654": {
+      "created_at": "2014-06-08 00:56:50",
+      "text": "Books of The Times: Hillary Clinton’s Book ‘Hard Choices’ Portrays a Tested Policy Wonk http://t.co/SlzMqZqzrc",
+      "user_id": "nytimes"
+    },
+    "655": {
+      "created_at": "2014-06-08 00:43:09",
+      "text": "If you want to play Rocky Balboa on Broadway, this is what you'll have to do http://t.co/WqvtBjhlBG",
+      "user_id": "nytimes"
+    },
+    "656": {
+      "created_at": "2014-06-08 00:30:11",
+      "text": "\"We cannot win this World Cup, because we are not at that level yet.\" - Jurgen Klinsmann http://t.co/ZFpjqSYPni",
+      "user_id": "nytimes"
+    },
+    "657": {
+      "created_at": "2014-06-09 23:50:34",
+      "text": "The Public Editor's Journal: More on Kristof, Bergdahl and Risen http://t.co/IcbHjWhzpT",
+      "user_id": "nytimes"
+    },
+    "658": {
+      "created_at": "2014-06-09 23:03:26",
+      "text": "Knicks Hire Derek Fisher as Coach http://t.co/teErOxEEI7",
+      "user_id": "nytimes"
+    },
+    "659": {
+      "created_at": "2014-06-09 23:30:15",
+      "text": "Where to watch the World Cup in New York, based on which team you're rooting for http://t.co/bbEGwu1KnW",
+      "user_id": "nytimes"
+    },
+    "660": {
+      "created_at": "2014-06-09 23:00:06",
+      "text": "Look anew at historical sports photographs from The New York Times http://t.co/PrJauwbERP",
+      "user_id": "nytimes"
+    },
+    "661": {
+      "created_at": "2014-06-09 22:30:04",
+      "text": "Noncompete clauses are increasingly popping up in an array of jobs http://t.co/nVJAdCCQVu",
+      "user_id": "nytimes"
+    },
+    "662": {
+      "created_at": "2014-06-09 22:01:13",
+      "text": "The Best Iced Latte in America? http://t.co/iCDj5iKxUf",
+      "user_id": "nytimes"
+    },
+    "663": {
+      "created_at": "2014-06-09 21:29:42",
+      "text": "Prime Real Estate at the Cemetery Is a Plot Next to an Idol http://t.co/LYRI9yVQd7",
+      "user_id": "nytimes"
+    },
+    "664": {
+      "created_at": "2014-06-09 20:24:26",
+      "text": "Equipment made for war is ending up in local police departments http://t.co/669H8tS8M0 http://t.co/xyApDR4WLN",
+      "user_id": "nytimes"
+    },
+    "665": {
+      "created_at": "2014-06-09 20:42:20",
+      "text": "Second Chinese Army Unit Implicated in Cyberattacks http://t.co/lchFzT0z1z",
+      "user_id": "nytimes"
+    },
+    "666": {
+      "created_at": "2014-06-09 20:00:32",
+      "text": "A Chilling Medical Trial http://t.co/Yz9LUI5mSo",
+      "user_id": "nytimes"
+    },
+    "667": {
+      "created_at": "2014-06-09 19:02:47",
+      "text": "Syrian leader declares \"general amnesty\" for prisoners http://t.co/kXs1ou7rp1",
+      "user_id": "nytimes"
+    },
+    "668": {
+      "created_at": "2014-06-09 19:45:10",
+      "text": "Russia and Ukraine Meet on Natural Gas Pricing Dispute http://t.co/42nU1mlxjg",
+      "user_id": "nytimes"
+    },
+    "669": {
+      "created_at": "2014-06-09 19:36:37",
+      "text": "What a merged Sprint and T-Mobile would look like for customers http://t.co/cEAGHEIFyA",
+      "user_id": "nytimes"
+    },
+    "670": {
+      "created_at": "2014-06-09 18:05:31",
+      "text": "V.A. Audit Finds Long Waits for Care Are Widespread http://t.co/QS1WVT8i93",
+      "user_id": "nytimes"
+    },
+    "671": {
+      "created_at": "2014-06-09 18:24:59",
+      "text": "Russians Yearning to Join Ukraine Battle Find Lots of Helping Hands http://t.co/XaqYU4JIOD",
+      "user_id": "nytimes"
+    },
+    "672": {
+      "created_at": "2014-06-09 18:42:02",
+      "text": "Driver Charged in Tracy Morgan Crash Had Not Slept in 24 Hours, Prosecutors Say http://t.co/RXQmYTbfLD",
+      "user_id": "nytimes"
+    },
+    "673": {
+      "created_at": "2014-06-09 18:31:15",
+      "text": "Couple in Las Vegas Killings Embraced Anti-Government Ideology http://t.co/lvmYhflkpM",
+      "user_id": "nytimes"
+    },
+    "674": {
+      "created_at": "2014-06-09 17:29:46",
+      "text": "Apprehension and Apathy Compete With Excitement in Brazil http://t.co/0qd918LsMq",
+      "user_id": "nytimes"
+    },
+    "675": {
+      "created_at": "2014-06-09 17:11:20",
+      "text": "\"Game of Thrones\" recap: A coming-out party for Jon Snow, who knows nothing http://t.co/3q7DewR4EX",
+      "user_id": "nytimes"
+    },
+    "676": {
+      "created_at": "2014-06-09 17:18:10",
+      "text": "Video of Mass Sexual Assault Taints Egypt Inauguration http://t.co/E4CtxEjiji",
+      "user_id": "nytimes"
+    },
+    "677": {
+      "created_at": "2014-06-09 17:49:39",
+      "text": "Detroit Automakers Pledge $26 Million to Help Save City’s Art http://t.co/EpQV0LnE14",
+      "user_id": "nytimes"
+    },
+    "678": {
+      "created_at": "2014-06-09 16:55:59",
+      "text": "World's oldest man, born in 1903, dies at 111 http://t.co/JjEpWgFme2 (Photo: Damon Winter/NYT) http://t.co/xw3Qnrzjet",
+      "user_id": "nytimes"
+    },
+    "679": {
+      "created_at": "2014-06-09 16:40:21",
+      "text": "Photo from 1973: When the Brooklyn Bridge needs a makeover, its stylists have to conquer their fear of heights http://t.co/UjhtPIPwLH",
+      "user_id": "nytimes"
+    },
+    "680": {
+      "created_at": "2014-06-09 15:17:50",
+      "text": "Understanding Ed O’Bannon’s Suit Against the N.C.A.A. http://t.co/Ci4UD7LP9I",
+      "user_id": "nytimes"
+    },
+    "681": {
+      "created_at": "2014-06-09 15:39:08",
+      "text": "End of Altidore’s Slump Lifts U.S. Hopes http://t.co/NPATmXTMHN",
+      "user_id": "nytimes"
+    },
+    "682": {
+      "created_at": "2014-06-09 15:01:53",
+      "text": "On the Runway Blog: From DigiFest to the Tonys, Fashion’s Major Missed Opportunities http://t.co/If82p2eTnl",
+      "user_id": "nytimes"
+    },
+    "683": {
+      "created_at": "2014-06-09 15:54:23",
+      "text": "Well: Outsmarting Breast Cancer With Evolving Therapies http://t.co/CMUwhpQ7nn",
+      "user_id": "nytimes"
+    },
+    "684": {
+      "created_at": "2014-06-09 14:56:31",
+      "text": "Japan Seeks to Squelch Its Tiny Cars http://t.co/wqa7adkGm6",
+      "user_id": "nytimes"
+    },
+    "685": {
+      "created_at": "2014-06-09 14:14:44",
+      "text": "Stars of Vine and Instagram Get Advertising Deals http://t.co/EdN3FllcTM",
+      "user_id": "nytimes"
+    },
+    "686": {
+      "created_at": "2014-06-09 14:36:16",
+      "text": "Lens Blog: Photographing a ‘Difficult Love’ in South Africa http://t.co/RRoQcZAwgD",
+      "user_id": "nytimes"
+    },
+    "687": {
+      "created_at": "2014-06-09 14:00:14",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/lsvUmvLApc via @nytnow",
+      "user_id": "nytimes"
+    },
+    "688": {
+      "created_at": "2014-06-09 13:25:38",
+      "text": "Port Authority Land Purchase Is Boon to Bayonne, and Christie http://t.co/vtvC8nKAUd",
+      "user_id": "nytimes"
+    },
+    "689": {
+      "created_at": "2014-06-09 13:48:33",
+      "text": "DealBook: Netflix Investors to Vote on C.E.O.-Chairman Split http://t.co/cw9fJ3cfIc",
+      "user_id": "nytimes"
+    },
+    "690": {
+      "created_at": "2014-06-09 13:04:14",
+      "text": "Critic’s Notebook: Putting On a Show at the Tonys http://t.co/83qFfA4RBB",
+      "user_id": "nytimes"
+    },
+    "691": {
+      "created_at": "2014-06-09 12:30:04",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/bfVrLw1Pyh via @nytnow",
+      "user_id": "nytimes"
+    },
+    "692": {
+      "created_at": "2014-06-09 12:44:05",
+      "text": "Photos: Looks from the Tony Awards red carpet http://t.co/3SM5IL1DFT",
+      "user_id": "nytimes"
+    },
+    "693": {
+      "created_at": "2014-06-09 12:29:58",
+      "text": "An American Life, Lived in Shadows http://t.co/wlpelCmPU6",
+      "user_id": "nytimes"
+    },
+    "694": {
+      "created_at": "2014-06-09 12:29:09",
+      "text": "The full list of 2014 Tony Awards winners http://t.co/0S9eL3vlCG",
+      "user_id": "nytimes"
+    },
+    "695": {
+      "created_at": "2014-06-09 12:40:18",
+      "text": "As World Cup Arrives, Some Brazilians Play an Acrobatic Variation of the Game http://t.co/z7HwRGfaZ5",
+      "user_id": "nytimes"
+    },
+    "696": {
+      "created_at": "2014-06-09 12:15:07",
+      "text": "The best entertainment to be had at the Tony Awards was in the unfamiliar segments http://t.co/uwweVAWMyV",
+      "user_id": "nytimes"
+    },
+    "697": {
+      "created_at": "2014-06-09 11:59:05",
+      "text": "War Gear Flows to Police Departments http://t.co/g9BabahUVc",
+      "user_id": "nytimes"
+    },
+    "698": {
+      "created_at": "2014-06-09 11:37:34",
+      "text": "In Texarkana, Uninsured and on the Wrong Side of a State Line http://t.co/H1ggwJoWEw",
+      "user_id": "nytimes"
+    },
+    "699": {
+      "created_at": "2014-06-09 11:11:29",
+      "text": "Moscow Court Sentences 5 to Prison for Contract Killing of Journalist http://t.co/MrqifxYGSd",
+      "user_id": "nytimes"
+    },
+    "700": {
+      "created_at": "2014-06-09 11:32:04",
+      "text": "Face of the N.C.A.A., Battered Early and Often http://t.co/lYAa7xxilA",
+      "user_id": "nytimes"
+    },
+    "701": {
+      "created_at": "2014-06-09 10:40:28",
+      "text": "Time Inc. to Set a Lonely Course After a Spinoff http://t.co/xAtfDpdUnm",
+      "user_id": "nytimes"
+    },
+    "702": {
+      "created_at": "2014-06-09 10:19:08",
+      "text": "City Room: New York Today: Ain’t No Sunshine http://t.co/9HiEY2yjvE",
+      "user_id": "nytimes"
+    },
+    "703": {
+      "created_at": "2014-06-09 10:45:11",
+      "text": "Taliban Claim Responsibility for Pakistan Airport Attack http://t.co/19uYno4DUZ",
+      "user_id": "nytimes"
+    },
+    "704": {
+      "created_at": "2014-06-09 09:00:24",
+      "text": "London Journal: As a British Pastime Is Revived, Some Critters Get Second Lives http://t.co/zc6jvvQxBG",
+      "user_id": "nytimes"
+    },
+    "705": {
+      "created_at": "2014-06-09 07:17:08",
+      "text": "The full list of 2014 Tony Awards winners http://t.co/g7Oomj0gEf",
+      "user_id": "nytimes"
+    },
+    "706": {
+      "created_at": "2014-06-09 07:31:08",
+      "text": "The Media Equation: Free Music, at Least While It Lasts http://t.co/55pYjqfY82",
+      "user_id": "nytimes"
+    },
+    "707": {
+      "created_at": "2014-06-09 07:26:04",
+      "text": "Photos: Looks from the Tony Awards red carpet http://t.co/QxHYkKRUN1",
+      "user_id": "nytimes"
+    },
+    "708": {
+      "created_at": "2014-06-09 06:54:20",
+      "text": "In Crown Heights, Once Torn by Race Riots, a Friendly Game of Soccer http://t.co/8TVU65rNUD",
+      "user_id": "nytimes"
+    },
+    "709": {
+      "created_at": "2014-06-09 05:25:24",
+      "text": "In Argentina, Wine, Art and Altitude http://t.co/Bhbp4WoDyp",
+      "user_id": "nytimes"
+    },
+    "710": {
+      "created_at": "2014-06-09 05:45:49",
+      "text": "Rift Deepens Over Claims of Infiltration by Islamic Extremists in British Schools http://t.co/Dyht4jD5Fy",
+      "user_id": "nytimes"
+    },
+    "711": {
+      "created_at": "2014-06-09 05:04:41",
+      "text": "Noncompete Clauses Increasingly Pop Up in Array of Jobs http://t.co/qMqg9Dg6Np",
+      "user_id": "nytimes"
+    },
+    "712": {
+      "created_at": "2014-06-09 04:28:02",
+      "text": "The full list of 2014 Tony Awards winners http://t.co/dTFzcdKD6e",
+      "user_id": "nytimes"
+    },
+    "713": {
+      "created_at": "2014-06-09 04:44:00",
+      "text": "World’s Oldest Man, Though Only Briefly, Dies at 111 in New York http://t.co/eL18qr3HMm",
+      "user_id": "nytimes"
+    },
+    "714": {
+      "created_at": "2014-06-09 04:13:09",
+      "text": "Audra McDonald and Neil Patrick Harris Win Acting Honors http://t.co/Fs6D8dzWVh",
+      "user_id": "nytimes"
+    },
+    "715": {
+      "created_at": "2014-06-09 03:52:42",
+      "text": "Steve Coburn Lashes Out at Racing Industry, Capping an Emotional Five Weeks http://t.co/Gswjwg53xl",
+      "user_id": "nytimes"
+    },
+    "716": {
+      "created_at": "2014-06-09 03:17:07",
+      "text": "Photos: Looks from the Tony Awards red carpet http://t.co/Fznaq1hyvx",
+      "user_id": "nytimes"
+    },
+    "717": {
+      "created_at": "2014-06-09 03:31:04",
+      "text": "You don't have to hate your job http://t.co/MSxUdKGJJH",
+      "user_id": "nytimes"
+    },
+    "718": {
+      "created_at": "2014-06-09 03:31:53",
+      "text": "Heat 98, Spurs 96: James and the Heat Coolly Even the N.B.A. Finals http://t.co/ruFu1WUUOV",
+      "user_id": "nytimes"
+    },
+    "719": {
+      "created_at": "2014-06-09 03:06:43",
+      "text": "Milwaukee Suburb Tries to Cope With Girl’s Stabbing http://t.co/CdPSlHpRqg",
+      "user_id": "nytimes"
+    },
+    "720": {
+      "created_at": "2014-06-09 02:52:35",
+      "text": "Gretchen Morgenson on the Problems at G.M. http://t.co/AQYCobaDAl",
+      "user_id": "nytimes"
+    },
+    "721": {
+      "created_at": "2014-06-09 02:59:09",
+      "text": "A few years ago, Beyoncé was like any other record-breaking pop star. Then something changed. http://t.co/HYcrPqfUAm http://t.co/TLcW1iaXKz",
+      "user_id": "nytimes"
+    },
+    "722": {
+      "created_at": "2014-06-09 02:28:07",
+      "text": "There is a ghost haunting soccer in Brazil http://t.co/cP7r4H9n0e http://t.co/WZkibf5Xzz",
+      "user_id": "nytimes"
+    },
+    "723": {
+      "created_at": "2014-06-09 02:13:52",
+      "text": "Pinehurst Course, Back to Its Original Shaggy Self, Is Set for Close-Up http://t.co/5FYVTsgoYI",
+      "user_id": "nytimes"
+    },
+    "724": {
+      "created_at": "2014-06-09 02:48:45",
+      "text": "Watching the World’s Game, in the World’s City http://t.co/rRgeOTLJp7",
+      "user_id": "nytimes"
+    },
+    "725": {
+      "created_at": "2014-06-09 02:16:02",
+      "text": "The NYT review of Hillary Clinton's \"Hard Choices\" http://t.co/kUUSTpMfjc",
+      "user_id": "nytimes"
+    },
+    "726": {
+      "created_at": "2014-06-09 01:12:23",
+      "text": "Cyberattack Insurance a Challenge for Business http://t.co/05RmFhYPhq",
+      "user_id": "nytimes"
+    },
+    "727": {
+      "created_at": "2014-06-09 01:31:05",
+      "text": "Mexico is the World Cup's luckiest country http://t.co/8tqe9aftrf http://t.co/0vBmyY8U9x",
+      "user_id": "nytimes"
+    },
+    "728": {
+      "created_at": "2014-06-09 01:58:37",
+      "text": "Five Dead in Shooting Rampage in Las Vegas http://t.co/Vhqa7LTy48",
+      "user_id": "nytimes"
+    },
+    "729": {
+      "created_at": "2014-06-09 01:41:02",
+      "text": "Have you ever been afraid your child may become violent? We'd like to hear from you http://t.co/7wbpP8OQIx",
+      "user_id": "nytimes"
+    },
+    "730": {
+      "created_at": "2014-06-09 01:59:03",
+      "text": "How Commencement Speeches Go Viral http://t.co/tb7g0j7k0Z",
+      "user_id": "nytimes"
+    },
+    "731": {
+      "created_at": "2014-06-09 00:59:07",
+      "text": "Australia is the World Cup's unluckiest country http://t.co/hlkgWNgOWE http://t.co/uvsmzYwWDB",
+      "user_id": "nytimes"
+    },
+    "732": {
+      "created_at": "2014-06-09 00:37:16",
+      "text": "All Eyes Are on Neymar at the World Cup in Brazil http://t.co/9PMaWfWikM",
+      "user_id": "nytimes"
+    },
+    "733": {
+      "created_at": "2014-06-09 00:03:08",
+      "text": "Follow us on @nytimestheater where we're covering the Tony Awards until the curtain drops",
+      "user_id": "nytimes"
+    },
+    "734": {
+      "created_at": "2014-06-09 00:51:15",
+      "text": "Riverside Church Elects New Senior Minister http://t.co/8ZYj15USMh",
+      "user_id": "nytimes"
+    },
+    "735": {
+      "created_at": "2014-06-09 00:17:05",
+      "text": "The jobs don't pay enough and the rents are insane. Now NYC's young add student loans to their misery http://t.co/yld2ZNpSQ7",
+      "user_id": "nytimes"
+    },
+    "736": {
+      "created_at": "2014-06-08 19:22:17",
+      "text": "Breaking News: Gunmen Attack Karachi Airport, Killing at Least 4 Guards http://t.co/Ot8DxH4LmN",
+      "user_id": "nytimes"
+    },
+    "737": {
+      "created_at": "2014-06-08 16:47:17",
+      "text": "Sports Alert: Rafael Nadal Wins French Open http://t.co/wguJNnlDa6",
+      "user_id": "nytimes"
+    },
+    "738": {
+      "created_at": "2014-06-07 23:59:06",
+      "text": "For weeks a boy's brain was swelling with fluid. An experimental DNA test saved him http://t.co/KGGPgYTxLF",
+      "user_id": "nytimes"
+    },
+    "739": {
+      "created_at": "2014-06-07 23:29:06",
+      "text": "70 years later, four veterans of D-Day recall their experiences http://t.co/7pQq1azLrB via @nytopinion",
+      "user_id": "nytimes"
+    },
+    "740": {
+      "created_at": "2014-06-07 23:24:51",
+      "text": "One of California Chrome's owners said horses that skipped legs of the Triple Crown took \"the coward's way out\" http://t.co/0aX5zksUHF",
+      "user_id": "nytimes"
+    },
+    "741": {
+      "created_at": "2014-06-07 23:16:05",
+      "text": "Tavi Gevinson is embarking on her next project: being a grown-up (Photo: Hendrik Kerstens) http://t.co/iIsVMfHYhs http://t.co/OhZ6ZqXvu9",
+      "user_id": "nytimes"
+    },
+    "742": {
+      "created_at": "2014-06-07 23:34:08",
+      "text": "Photo: Tonalist edged Commissioner at the wire to win the Belmont Stakes http://t.co/avdwGJHm0U",
+      "user_id": "nytimes"
+    },
+    "743": {
+      "created_at": "2014-06-07 23:10:05",
+      "text": "Fill out your NYT Tony Awards ballot http://t.co/RIxXLs29va",
+      "user_id": "nytimes"
+    },
+    "744": {
+      "created_at": "2014-06-07 23:42:08",
+      "text": "A hazy future for California's star-gazing palace http://t.co/a75ASVBkkJ",
+      "user_id": "nytimes"
+    },
+    "745": {
+      "created_at": "2014-06-07 23:07:55",
+      "text": "Tonalist Wins Belmont Stakes, Denying Triple Crown for California Chrome http://t.co/qn0fKmIMhX",
+      "user_id": "nytimes"
+    },
+    "746": {
+      "created_at": "2014-06-07 22:46:48",
+      "text": "California Chrome's odds have risen just before the Belmont Stakes http://t.co/mgHQkv9DQM",
+      "user_id": "nytimes"
+    },
+    "747": {
+      "created_at": "2014-06-07 22:51:08",
+      "text": "Follow @NYTimesTheater for live coverage of the Tony Awards on Sunday",
+      "user_id": "nytimes"
+    },
+    "748": {
+      "created_at": "2014-06-07 22:38:08",
+      "text": "Belmont Stakes Fans Hope for Overdue Triple Crown http://t.co/KXz1fRjiH1",
+      "user_id": "nytimes"
+    },
+    "749": {
+      "created_at": "2014-06-07 22:32:03",
+      "text": "Breaking Down a Bid for History at the Belmont Stakes http://t.co/AQ2qsTZHyb",
+      "user_id": "nytimes"
+    },
+    "750": {
+      "created_at": "2014-06-07 22:59:02",
+      "text": "\"This is not your boyfriend's shirt. This is your shirt.\" http://t.co/6IFwm9UKLJ",
+      "user_id": "nytimes"
+    },
+    "751": {
+      "created_at": "2014-06-07 22:26:04",
+      "text": "Photos: The 11 horses that won the Triple Crown http://t.co/fw5A3vYAAV",
+      "user_id": "nytimes"
+    },
+    "752": {
+      "created_at": "2014-06-07 22:00:17",
+      "text": "California Chrome takes a run at the Triple Crown in the Belmont Stakes http://t.co/IuA4Xcy0R2",
+      "user_id": "nytimes"
+    },
+    "753": {
+      "created_at": "2014-06-07 22:21:05",
+      "text": "The Belmont Stakes: Live analysis from NYT journalists ahead of California Chrome's Triple Crown bid http://t.co/gpYt3scrL3",
+      "user_id": "nytimes"
+    },
+    "754": {
+      "created_at": "2014-06-07 22:31:37",
+      "text": "Sports: Belmont Stakes: Live Highlights and Analysis http://t.co/2IFOCCMuTU",
+      "user_id": "nytimes"
+    },
+    "755": {
+      "created_at": "2014-06-07 22:15:07",
+      "text": "One last shot at a Triple Crown for the voice of the Belmont race track http://t.co/oZvfe0H8oq",
+      "user_id": "nytimes"
+    },
+    "756": {
+      "created_at": "2014-06-07 21:14:02",
+      "text": "They all share a horse named California Chrome, and they all fell hard for him in their own way http://t.co/XWXByObt6l",
+      "user_id": "nytimes"
+    },
+    "757": {
+      "created_at": "2014-06-07 21:43:05",
+      "text": "How the NYT reported on 11 Triple Crown winners http://t.co/9MKi28k9vT",
+      "user_id": "nytimes"
+    },
+    "758": {
+      "created_at": "2014-06-07 21:12:51",
+      "text": "12 Contenders Who Just Missed Out on a Triple Crown http://t.co/PTc1iJmuWe",
+      "user_id": "nytimes"
+    },
+    "759": {
+      "created_at": "2014-06-07 21:03:47",
+      "text": "Night Out : A Night Out With Jessica Seinfeld http://t.co/IzAmFss3Wu",
+      "user_id": "nytimes"
+    },
+    "760": {
+      "created_at": "2014-06-07 20:15:06",
+      "text": "You're locked in a room and you've only got 60 minutes to escape http://t.co/T0cNlcUEQr",
+      "user_id": "nytimes"
+    },
+    "761": {
+      "created_at": "2014-06-07 20:42:07",
+      "text": "From 2012: An investigation found a pervasive culture of drugs and lax regulation in horse racing http://t.co/UIVxce8NtS",
+      "user_id": "nytimes"
+    },
+    "762": {
+      "created_at": "2014-06-07 20:10:23",
+      "text": "Child Migrants Strain Makeshift Arizona Shelter http://t.co/a7W0qMbTPR",
+      "user_id": "nytimes"
+    },
+    "763": {
+      "created_at": "2014-06-07 19:22:04",
+      "text": "A journey north to explore how the U.S. has been changed by immigration http://t.co/6aJk6Wcp7U http://t.co/3TuZZIGiFm",
+      "user_id": "nytimes"
+    },
+    "764": {
+      "created_at": "2014-06-07 19:59:05",
+      "text": "36 hours in Canberra, Australia http://t.co/VffQxVzHzr",
+      "user_id": "nytimes"
+    },
+    "765": {
+      "created_at": "2014-06-07 19:15:05",
+      "text": "Learning to love chiles -- and taming them -- so you can cook with them every day http://t.co/6fa1NM8LjG",
+      "user_id": "nytimes"
+    },
+    "766": {
+      "created_at": "2014-06-07 19:40:07",
+      "text": "Does handwriting matter? More than you might think http://t.co/NUwQN7RFp0",
+      "user_id": "nytimes"
+    },
+    "767": {
+      "created_at": "2014-06-07 19:07:50",
+      "text": "U.S. Crew in Honduras on River Project Is Jailed http://t.co/Yu255OeMs6",
+      "user_id": "nytimes"
+    },
+    "768": {
+      "created_at": "2014-06-07 18:37:15",
+      "text": "For Afghan Lovers, Joy Is Brief, Ending in Arrest http://t.co/aGkuQ51qtw",
+      "user_id": "nytimes"
+    },
+    "769": {
+      "created_at": "2014-06-07 18:47:10",
+      "text": "What happened to one student leader who didn't go to Tiananmen Square in 1989? He got very rich http://t.co/7S5wkTvXn7",
+      "user_id": "nytimes"
+    },
+    "770": {
+      "created_at": "2014-06-07 18:34:10",
+      "text": "Obama Plans Steps to Ease Student Debt http://t.co/O3CzA2CyWl",
+      "user_id": "nytimes"
+    },
+    "771": {
+      "created_at": "2014-06-07 18:13:00",
+      "text": "Have you ever been afraid your child may become violent? We'd like to hear from you http://t.co/Qjab3BJzeE",
+      "user_id": "nytimes"
+    },
+    "772": {
+      "created_at": "2014-06-07 17:03:35",
+      "text": "Britain Frees Pakistani in Inquiry http://t.co/qDnU5AZS5B",
+      "user_id": "nytimes"
+    },
+    "773": {
+      "created_at": "2014-06-07 17:24:28",
+      "text": "LeBron James Shows a Growing Willingness to Take the Lead on Social Issues http://t.co/i7E9cHO5cv",
+      "user_id": "nytimes"
+    },
+    "774": {
+      "created_at": "2014-06-07 17:30:14",
+      "text": "25 years later, new details emerge of chaos in China's army before Tiananmen Square http://t.co/A2S25levp4",
+      "user_id": "nytimes"
+    },
+    "775": {
+      "created_at": "2014-06-07 17:44:58",
+      "text": "On Horse Racing: With Triple Crown at Stake, Horse Racing Balances Ambition and Compassion http://t.co/yj24lum9Ii",
+      "user_id": "nytimes"
+    },
+    "776": {
+      "created_at": "2014-06-07 17:00:12",
+      "text": "Clams are easier to enjoy all summer long than you might think http://t.co/9ypV6TVeSW",
+      "user_id": "nytimes"
+    },
+    "777": {
+      "created_at": "2014-06-07 17:59:04",
+      "text": "Neighbors don't love the 33-foot-tall statue of a naked woman ripped open to reveal a fetus http://t.co/mCqYJADqlv",
+      "user_id": "nytimes"
+    },
+    "778": {
+      "created_at": "2014-06-07 16:19:05",
+      "text": "Wine School is back in session. It's time to drink riesling http://t.co/mcfg9OjoaQ",
+      "user_id": "nytimes"
+    },
+    "779": {
+      "created_at": "2014-06-07 16:45:13",
+      "text": "Fill out your NYT Tony Awards ballot http://t.co/0xAUqMtzTH",
+      "user_id": "nytimes"
+    },
+    "780": {
+      "created_at": "2014-06-07 16:22:05",
+      "text": "Maria Sharapova Wins French Open http://t.co/395LXDjcnI",
+      "user_id": "nytimes"
+    },
+    "781": {
+      "created_at": "2014-06-07 16:53:15",
+      "text": "With Nuclear Talks Sputtering, U.S. and Iran Plan Meeting http://t.co/dJpubP4yrb",
+      "user_id": "nytimes"
+    },
+    "782": {
+      "created_at": "2014-06-07 15:15:08",
+      "text": "There is a ghost haunting soccer in Brazil http://t.co/ezQBtkfAOG http://t.co/5CeCZbkUS3",
+      "user_id": "nytimes"
+    },
+    "783": {
+      "created_at": "2014-06-07 15:00:17",
+      "text": "The jobs don't pay enough and the rents are insane. Now NYC's young add student loans to their misery http://t.co/v64DaMFoC4",
+      "user_id": "nytimes"
+    },
+    "784": {
+      "created_at": "2014-06-07 15:30:06",
+      "text": "A Good Appetite: A Strawberry Cheesecake That Is Red and White and Pink All Over http://t.co/GG7GtPY2Ol",
+      "user_id": "nytimes"
+    },
+    "785": {
+      "created_at": "2014-06-07 15:51:15",
+      "text": "City Kitchen: Lamb, Slow-Roasted the Moroccan Way, Without the Barbecue Spit http://t.co/XlmKuGjnob",
+      "user_id": "nytimes"
+    },
+    "786": {
+      "created_at": "2014-06-07 14:30:08",
+      "text": "How to watch the World Cup like a true fanatic, or at least sound like one http://t.co/RucEeM2MiD http://t.co/pF5ekOhIRd",
+      "user_id": "nytimes"
+    },
+    "787": {
+      "created_at": "2014-06-07 14:44:03",
+      "text": "Times Haiku:But from the moment it began, brunch has been a resounding success. http://t.co/Qhw04ma1oi",
+      "user_id": "nytimes"
+    },
+    "788": {
+      "created_at": "2014-06-07 14:23:05",
+      "text": "Secular Group, on Eve of Big Meeting, Fires Top Official Who Elevated Its Profile http://t.co/JbZZtX5BQw",
+      "user_id": "nytimes"
+    },
+    "789": {
+      "created_at": "2014-06-07 14:58:56",
+      "text": "US Officials to Hold Direct Talks on Iran Nukes http://t.co/egYALtyjMo",
+      "user_id": "nytimes"
+    },
+    "790": {
+      "created_at": "2014-06-07 14:03:53",
+      "text": "Report Finds Higher Risks if Oil Line Is Not Built http://t.co/Cyc21eWAuD",
+      "user_id": "nytimes"
+    },
+    "791": {
+      "created_at": "2014-06-07 13:43:05",
+      "text": "When Mayor Bill de Blasio works out, he barely breaks a sweat http://t.co/UYVeicXMMj (Illustration: Jason Lee) http://t.co/eLHCDwtxrd",
+      "user_id": "nytimes"
+    },
+    "792": {
+      "created_at": "2014-06-07 13:13:08",
+      "text": "How not to pay a high price for free wi-fi http://t.co/TyA7uVHlW3",
+      "user_id": "nytimes"
+    },
+    "793": {
+      "created_at": "2014-06-07 13:06:02",
+      "text": "Student Loans Make it Hard to Rent or Buy a Home http://t.co/YCQUyOA5q8",
+      "user_id": "nytimes"
+    },
+    "794": {
+      "created_at": "2014-06-07 12:33:05",
+      "text": "Next time you work out, try to have fun http://t.co/o1VpjsR8B4",
+      "user_id": "nytimes"
+    },
+    "795": {
+      "created_at": "2014-06-07 12:40:14",
+      "text": "Tracy Morgan in Intensive Care After 6-Vehicle Crash http://t.co/q3xizF8V2R",
+      "user_id": "nytimes"
+    },
+    "796": {
+      "created_at": "2014-06-07 12:59:06",
+      "text": "We picked 52 places to go in 2014. Readers picked a 53rd http://t.co/lxy3lDPyRh",
+      "user_id": "nytimes"
+    },
+    "797": {
+      "created_at": "2014-06-07 12:05:07",
+      "text": "A simple exercise that might prevent as many as 2/3 of hamstring injuries http://t.co/aN8Sf0aFYu",
+      "user_id": "nytimes"
+    },
+    "798": {
+      "created_at": "2014-06-07 12:44:06",
+      "text": "New York City has formally submitted a bid to host the 2016 Democratic National Convention in Brooklyn http://t.co/JP9CRoxsaw",
+      "user_id": "nytimes"
+    },
+    "799": {
+      "created_at": "2014-06-07 11:39:05",
+      "text": "Many patients do not finish complicated treatments for MRSA. A new single-dose therapy may be as effective http://t.co/XuUdOmfz1k",
+      "user_id": "nytimes"
+    },
+    "800": {
+      "created_at": "2014-06-07 11:07:23",
+      "text": "Prayer Meeting Shows Pope’s Larger Vision http://t.co/CFA8MikpCO",
+      "user_id": "nytimes"
+    },
+    "801": {
+      "created_at": "2014-06-07 11:28:05",
+      "text": "Follow @NYTimesTheater for live coverage of the Tony Awards on Sunday",
+      "user_id": "nytimes"
+    },
+    "802": {
+      "created_at": "2014-06-07 11:58:17",
+      "text": "Giving a Satirist of the Third Reich the Last Laugh http://t.co/e1oBEXvRh5",
+      "user_id": "nytimes"
+    },
+    "803": {
+      "created_at": "2014-06-07 11:32:00",
+      "text": "Tracy Morgan in Intensive Care After 6-Car Crash http://t.co/fCfZMMolpF",
+      "user_id": "nytimes"
+    },
+    "804": {
+      "created_at": "2014-06-07 10:13:12",
+      "text": "P.O.W. Deal Gives Qatar a Victory, and a New Test http://t.co/d6huLAent0",
+      "user_id": "nytimes"
+    },
+    "805": {
+      "created_at": "2014-06-07 10:47:06",
+      "text": "Who Will Be the Next David Beckham? http://t.co/MuRmxmhuUZ",
+      "user_id": "nytimes"
+    },
+    "806": {
+      "created_at": "2014-06-07 10:29:32",
+      "text": "Day 21: On Woody’s Land http://t.co/SeUsbcJcdT",
+      "user_id": "nytimes"
+    },
+    "807": {
+      "created_at": "2014-06-07 09:20:03",
+      "text": "In Barcelona's El Raval, a rich cultural history encourages diverse styles http://t.co/yGGHFbLZH9",
+      "user_id": "nytimes"
+    },
+    "808": {
+      "created_at": "2014-06-07 09:52:41",
+      "text": "Iraq Militants Storm University and Seize Students http://t.co/SfARVxXep9",
+      "user_id": "nytimes"
+    },
+    "809": {
+      "created_at": "2014-06-07 09:35:03",
+      "text": "The World Cup draw was unfair. What if there were a better way? http://t.co/BsSoSFGiD2 http://t.co/RBRkYVGDk7",
+      "user_id": "nytimes"
+    },
+    "810": {
+      "created_at": "2014-06-07 08:39:48",
+      "text": "Buying Upstate New York Land, V.A. Closes Chapter in Building Cemeteries http://t.co/eezyZkOg9h",
+      "user_id": "nytimes"
+    },
+    "811": {
+      "created_at": "2014-06-07 08:18:56",
+      "text": "Poroshenko Sworn In as President of Strife-Torn Ukraine http://t.co/2HIoRC20yZ",
+      "user_id": "nytimes"
+    },
+    "812": {
+      "created_at": "2014-06-07 08:50:15",
+      "text": "HistorySource: Jackie Robinson and Nixon: Life and Death of a Political Friendship http://t.co/DswDmlx8QI",
+      "user_id": "nytimes"
+    },
+    "813": {
+      "created_at": "2014-06-07 08:55:05",
+      "text": "Financial implications weigh heavily on the debate over whether Scotland should be independent http://t.co/Z3IOOWLLIs",
+      "user_id": "nytimes"
+    },
+    "814": {
+      "created_at": "2014-06-07 08:05:06",
+      "text": "A Nigerian TV channel is the new front for the U.S. fight against Boko Haram http://t.co/wxcf9EStQD",
+      "user_id": "nytimes"
+    },
+    "815": {
+      "created_at": "2014-06-09 03:10:31",
+      "text": "Breaking News: 2014 Tony Awards: ‘Gentleman’s Guide,’ ‘All the Way’ Named Top Plays http://t.co/bDS2e9dZlw",
+      "user_id": "nytimes"
+    },
+    "816": {
+      "created_at": "2014-06-07 07:46:06",
+      "text": "Narendra Modi's personal style could reflect his vision for India's future http://t.co/n2StqeWdwv",
+      "user_id": "nytimes"
+    },
+    "817": {
+      "created_at": "2014-06-07 07:10:07",
+      "text": "You can't understand sexual violence in India without understanding the caste system http://t.co/bjA6rU0Mcv via @nytopinion",
+      "user_id": "nytimes"
+    },
+    "818": {
+      "created_at": "2014-06-07 07:31:24",
+      "text": "Pinched by Ride-Sharing Services, Cabbies Seek a National Union http://t.co/q0gRUZTykF",
+      "user_id": "nytimes"
+    },
+    "819": {
+      "created_at": "2014-06-07 06:28:12",
+      "text": "Novak Djokovic and Rafael Nadal in French Open Final http://t.co/dHAdfhYCcg",
+      "user_id": "nytimes"
+    },
+    "820": {
+      "created_at": "2014-06-07 06:08:06",
+      "text": "In Thailand, Growing Intolerance for Dissent Drives Many to More Authoritarian Nations http://t.co/Id2uzoI1UT",
+      "user_id": "nytimes"
+    },
+    "821": {
+      "created_at": "2014-06-07 06:49:39",
+      "text": "A Risk-Taker's Game: Insider Trading http://t.co/3W1eojP82n",
+      "user_id": "nytimes"
+    },
+    "822": {
+      "created_at": "2014-06-07 06:03:55",
+      "text": "New Fire Commissioner Returns to a Challenged Department http://t.co/52QkyMaIx1",
+      "user_id": "nytimes"
+    },
+    "823": {
+      "created_at": "2014-06-07 05:41:44",
+      "text": "Maria Sharapova Is Finding Her Stride on Clay at Roland Garros http://t.co/XFgfU8GaJ0",
+      "user_id": "nytimes"
+    },
+    "824": {
+      "created_at": "2014-06-07 05:17:07",
+      "text": "Mexico is the World Cup's luckiest country http://t.co/TEYR8POJzb http://t.co/IdtzUOg2hk",
+      "user_id": "nytimes"
+    },
+    "825": {
+      "created_at": "2014-06-07 05:20:52",
+      "text": "Exhibition Review: A World War II Exhibition at the Grolier Club http://t.co/m7PpBwnmis",
+      "user_id": "nytimes"
+    },
+    "826": {
+      "created_at": "2014-06-07 04:15:02",
+      "text": "The NYT review of 50 Cent's \"Power\" on Starz http://t.co/z4ztgJnHUx",
+      "user_id": "nytimes"
+    },
+    "827": {
+      "created_at": "2014-06-07 04:32:07",
+      "text": "Fill out your NYT Tony Awards ballot http://t.co/MzcwCFqSGM",
+      "user_id": "nytimes"
+    },
+    "828": {
+      "created_at": "2014-06-07 04:59:56",
+      "text": "Uber's True Valuation Will Be About Timing http://t.co/sjkMRPx6Mr",
+      "user_id": "nytimes"
+    },
+    "829": {
+      "created_at": "2014-06-07 04:39:06",
+      "text": "Gunman Attacks Georgia Courthouse and Dies in Firefight, Authorities Say http://t.co/2ze5CG8i2I",
+      "user_id": "nytimes"
+    },
+    "830": {
+      "created_at": "2014-06-07 03:14:04",
+      "text": "Tavi Gevinson is embarking on her next project: being a grown-up (Photo: Hendrik Kerstens) http://t.co/Q1Un3oqDsd http://t.co/n3g18FGCv9",
+      "user_id": "nytimes"
+    },
+    "831": {
+      "created_at": "2014-06-07 03:59:06",
+      "text": "There are 2 types of people in the world: those who despised summer camp and those who loved it http://t.co/Hi2u5mdZKy",
+      "user_id": "nytimes"
+    },
+    "832": {
+      "created_at": "2014-06-07 03:31:01",
+      "text": "You don't have to hate your job http://t.co/ElfwJ05Dz5",
+      "user_id": "nytimes"
+    },
+    "833": {
+      "created_at": "2014-06-07 03:47:05",
+      "text": "I was promised flying cars http://t.co/UHjlyqQIAF",
+      "user_id": "nytimes"
+    },
+    "834": {
+      "created_at": "2014-06-07 03:00:15",
+      "text": "Autocorrect has come a long wa http://t.co/8L8X8cCrTC",
+      "user_id": "nytimes"
+    },
+    "835": {
+      "created_at": "2014-06-07 02:23:03",
+      "text": "U.N. Chief Picks Jordanian Prince for Rights Post http://t.co/fTh1p5V2ed",
+      "user_id": "nytimes"
+    },
+    "836": {
+      "created_at": "2014-06-07 02:41:09",
+      "text": "A journey north to explore how the U.S. has been changed by immigration http://t.co/epZek8uAxr http://t.co/tp5Jh8tvNa",
+      "user_id": "nytimes"
+    },
+    "837": {
+      "created_at": "2014-06-07 02:12:31",
+      "text": "In Memoir, Clinton Emphasizes Her Softer Side http://t.co/ELbh25YqZL",
+      "user_id": "nytimes"
+    },
+    "838": {
+      "created_at": "2014-06-07 02:59:30",
+      "text": "Obama Nominates Ambassadors to France and Ireland http://t.co/yEGlFPOCtT",
+      "user_id": "nytimes"
+    },
+    "839": {
+      "created_at": "2014-06-07 02:31:08",
+      "text": "There is a ghost haunting soccer in Brazil http://t.co/jPKxhgjfJn http://t.co/1dbaSg6Dx5",
+      "user_id": "nytimes"
+    },
+    "840": {
+      "created_at": "2014-06-07 02:16:08",
+      "text": "A number of governments can tap directly into the network run by Britain's Vodafone http://t.co/ZO0nlOXFg2",
+      "user_id": "nytimes"
+    },
+    "841": {
+      "created_at": "2014-06-07 01:56:44",
+      "text": "Stabbing Case Highlights Flawed System to Screen Inmates Before Release http://t.co/zvDg1PNOSg",
+      "user_id": "nytimes"
+    },
+    "842": {
+      "created_at": "2014-06-07 01:14:03",
+      "text": "An unscheduled meeting between Obama and Putin suggested a new opening on Ukraine http://t.co/RasicjxxS2",
+      "user_id": "nytimes"
+    },
+    "843": {
+      "created_at": "2014-06-07 01:41:02",
+      "text": "Internet Giants Erect Barriers to Spy Agencies http://t.co/BpIN5NBqlI",
+      "user_id": "nytimes"
+    },
+    "844": {
+      "created_at": "2014-06-07 01:00:09",
+      "text": "New York City has formally submitted a bid to host the 2016 Democratic National Convention in Brooklyn http://t.co/yzBblu9MrA",
+      "user_id": "nytimes"
+    },
+    "845": {
+      "created_at": "2014-06-07 01:29:04",
+      "text": "The jobs news today was good, so why aren't we happier? http://t.co/XG3rZWV9In",
+      "user_id": "nytimes"
+    },
+    "846": {
+      "created_at": "2014-06-07 01:59:03",
+      "text": "How The NYT covered the D-Day landing 70 years ago http://t.co/bfsFmZU3P3",
+      "user_id": "nytimes"
+    },
+    "847": {
+      "created_at": "2014-06-07 01:43:02",
+      "text": "A Nigerian TV channel is the new front for the U.S. in the fight against Boko Haram http://t.co/vH2xQFWTVK",
+      "user_id": "nytimes"
+    },
+    "848": {
+      "created_at": "2014-06-07 00:33:08",
+      "text": "Facebook Under Fire for Temporarily Blocking Pages in Pakistan http://t.co/pjDTNUjno1",
+      "user_id": "nytimes"
+    },
+    "849": {
+      "created_at": "2014-06-07 00:16:05",
+      "text": "The singing nun won the Italian TV competition, but she's ready to return to her church's choir http://t.co/0rdQ2nd64F",
+      "user_id": "nytimes"
+    },
+    "850": {
+      "created_at": "2014-06-07 00:42:03",
+      "text": "Eight hours a day, he rescues items that people dropped on the subway tracks http://t.co/nW9Btv8FDX",
+      "user_id": "nytimes"
+    },
+    "851": {
+      "created_at": "2014-06-07 00:00:05",
+      "text": "The NYT review of \"Orange Is the New Black\" Season 2 http://t.co/5cpR3fD09L",
+      "user_id": "nytimes"
+    },
+    "852": {
+      "created_at": "2014-06-10 17:51:47",
+      "text": "Breaking News: Judge Rules California Teacher Tenure Laws Unconstitutional http://t.co/PntzF0QBmC",
+      "user_id": "nytimes"
+    },
+    "853": {
+      "created_at": "2014-06-11 17:05:43",
+      "text": "Breaking News: Cantor to Step Down as Majority Leader http://t.co/xuW4GcOcCj",
+      "user_id": "nytimes"
+    },
+    "854": {
+      "created_at": "2014-06-11 00:18:57",
+      "text": "Breaking News: Eric Cantor Loses G.O.P. Primary, According to The A.P. http://t.co/IvddL3VIjP",
+      "user_id": "nytimes"
+    },
+    "855": {
+      "created_at": "2014-06-11 23:25:24",
+      "text": "Iraq Asked U.S. for Airstrikes on Militants, Officials Say http://t.co/OSjuzKYYap",
+      "user_id": "nytimes"
+    },
+    "856": {
+      "created_at": "2014-06-11 23:24:03",
+      "text": "Why are Australians so optimistic about their World Cup prospects? http://t.co/azwvTKeA4x http://t.co/O0X6ZH46uQ",
+      "user_id": "nytimes"
+    },
+    "857": {
+      "created_at": "2014-06-11 22:06:36",
+      "text": "Kristen Wiig &amp; Annie Mumolo have agreed to team up for their first big movie since \"Bridesmaids\" http://t.co/a3oUb5Smn2",
+      "user_id": "nytimes"
+    },
+    "858": {
+      "created_at": "2014-06-11 22:54:21",
+      "text": "‘Bridesmaids’ Writers Team Up for New Comedy http://t.co/kK9GeZTMGz",
+      "user_id": "nytimes"
+    },
+    "859": {
+      "created_at": "2014-06-11 22:12:44",
+      "text": "Truck Driver Pleads Not Guilty in Tracy Morgan Car Crash http://t.co/GkBK4NmbIj",
+      "user_id": "nytimes"
+    },
+    "860": {
+      "created_at": "2014-06-11 22:30:09",
+      "text": "When you're forging priceless works of art, don't forget to spellcheck the artist's signature http://t.co/08ElBHfI05",
+      "user_id": "nytimes"
+    },
+    "861": {
+      "created_at": "2014-06-11 21:11:07",
+      "text": "With Mideast in Crisis, Militant Force Gains Strength http://t.co/8PPQroTN1R",
+      "user_id": "nytimes"
+    },
+    "862": {
+      "created_at": "2014-06-11 20:50:55",
+      "text": "George R. R. Martin Wants More ‘Game of Thrones,’ Too http://t.co/Wsc487IbK3",
+      "user_id": "nytimes"
+    },
+    "863": {
+      "created_at": "2014-06-11 20:25:07",
+      "text": "A new book captures the qualities that make Antonin Scalia an unusually divisive Supreme Court justice http://t.co/S5LOCJ2dzM",
+      "user_id": "nytimes"
+    },
+    "864": {
+      "created_at": "2014-06-11 20:17:04",
+      "text": "A Fight as U.S. Girls Face Genital Cutting Abroad http://t.co/GlTAc1GLEJ",
+      "user_id": "nytimes"
+    },
+    "865": {
+      "created_at": "2014-06-11 20:39:46",
+      "text": "Two Activists Within Mormon Church Threatened With Excommunication http://t.co/c46wetAE2r",
+      "user_id": "nytimes"
+    },
+    "866": {
+      "created_at": "2014-06-11 20:13:28",
+      "text": "The Public Editor's Journal: Why Didn’t the Data-Driven Media See Eric Cantor’s Defeat Coming? http://t.co/frIEEJ5fmQ",
+      "user_id": "nytimes"
+    },
+    "867": {
+      "created_at": "2014-06-11 19:22:38",
+      "text": "An Honest Answer From David Brat http://t.co/rI5a4kOBUi",
+      "user_id": "nytimes"
+    },
+    "868": {
+      "created_at": "2014-06-11 19:21:18",
+      "text": "Midterm Calculus: Did Democratic Voters Defeat Eric Cantor? Probably Not http://t.co/En7x8YCTjG",
+      "user_id": "nytimes"
+    },
+    "869": {
+      "created_at": "2014-06-11 19:00:23",
+      "text": "State of the Art: With Uber’s Cars, Maybe We Don’t Need Our Own http://t.co/Y4R2kQAa2l",
+      "user_id": "nytimes"
+    },
+    "870": {
+      "created_at": "2014-06-11 19:59:10",
+      "text": "George R.R. Martin wants more \"Game of Thrones,\" too (Photo: Colby Katz for NYT) http://t.co/2IoZoUI1yx http://t.co/DvTPOsIk4g",
+      "user_id": "nytimes"
+    },
+    "871": {
+      "created_at": "2014-06-11 19:40:30",
+      "text": "Lobbyists Connected to Eric Cantor Are About to Take a Pay Hit http://t.co/SmagkabyYG",
+      "user_id": "nytimes"
+    },
+    "872": {
+      "created_at": "2014-06-11 19:30:10",
+      "text": "Half a billion years ago, your ancestors may have looked like this: http://t.co/qgvOyPYzq4",
+      "user_id": "nytimes"
+    },
+    "873": {
+      "created_at": "2014-06-11 18:39:42",
+      "text": "Bits Blog: Your Personality Type, Defined by the Internet http://t.co/7ROa7CH6Wr",
+      "user_id": "nytimes"
+    },
+    "874": {
+      "created_at": "2014-06-11 18:14:07",
+      "text": "There are 3 books Hillary Rodham Clinton wishes all students would read: http://t.co/cKCuR5eYmt",
+      "user_id": "nytimes"
+    },
+    "875": {
+      "created_at": "2014-06-11 18:49:51",
+      "text": "Bergdahl Discharged From Coast Guard Before Joining Army http://t.co/d5Y1GhDrJP",
+      "user_id": "nytimes"
+    },
+    "876": {
+      "created_at": "2014-06-11 18:43:06",
+      "text": "Democratic spoilers probably didn't cost Eric Cantor his seat in Congress http://t.co/C0hz0dJF8e http://t.co/1BqsqXT1ln",
+      "user_id": "nytimes"
+    },
+    "877": {
+      "created_at": "2014-06-11 18:59:04",
+      "text": "A journey north to explore how the U.S. has been changed by immigration http://t.co/HyAVYz9Vvl http://t.co/s7T6xuf1K5",
+      "user_id": "nytimes"
+    },
+    "878": {
+      "created_at": "2014-06-11 17:58:08",
+      "text": "5 Charged With Robbing Men in Strip Club Scheme http://t.co/h2QMbFvv2m",
+      "user_id": "nytimes"
+    },
+    "879": {
+      "created_at": "2014-06-11 17:11:30",
+      "text": "ArtsBeat: ‘Fargo’ Recap: It’s a Turducken http://t.co/TdxwgCHdgu",
+      "user_id": "nytimes"
+    },
+    "880": {
+      "created_at": "2014-06-11 17:55:08",
+      "text": "Dave Chappelle doesn't need a new television show to make a comeback http://t.co/hCG2gmWwCA",
+      "user_id": "nytimes"
+    },
+    "881": {
+      "created_at": "2014-06-11 17:59:07",
+      "text": "Photos: Seeing red in the gene pool http://t.co/DErZzRMqzd",
+      "user_id": "nytimes"
+    },
+    "882": {
+      "created_at": "2014-06-11 17:00:11",
+      "text": "Argentina, the U.S. and Iran share something at the Wold Cup: They are most disliked http://t.co/xenolVjseZ",
+      "user_id": "nytimes"
+    },
+    "883": {
+      "created_at": "2014-06-11 17:31:55",
+      "text": "Eric Cantor's Voting Record: Angering Allies Is Part of the Job http://t.co/VHo3vm57SH",
+      "user_id": "nytimes"
+    },
+    "884": {
+      "created_at": "2014-06-11 17:37:39",
+      "text": "David Brat Was Aided by Influential Figures Like Laura Ingraham http://t.co/WJ97UIQpDL",
+      "user_id": "nytimes"
+    },
+    "885": {
+      "created_at": "2014-06-11 17:43:06",
+      "text": "The NYT review of Bobby Flay's new restaurant, Gato http://t.co/L5EhnXuuWH",
+      "user_id": "nytimes"
+    },
+    "886": {
+      "created_at": "2014-06-11 16:28:05",
+      "text": "Many of us overestimate how hard we actually exercise http://t.co/onRerutNmN",
+      "user_id": "nytimes"
+    },
+    "887": {
+      "created_at": "2014-06-11 16:17:09",
+      "text": "An F.D.A. ruling on cheese has produced a stink that rivals Limburger http://t.co/a3aKnevh95",
+      "user_id": "nytimes"
+    },
+    "888": {
+      "created_at": "2014-06-11 16:05:05",
+      "text": "The first clue that 1994 was going to be anything but an average sports year came early http://t.co/zUqxVzZWft",
+      "user_id": "nytimes"
+    },
+    "889": {
+      "created_at": "2014-06-11 16:46:05",
+      "text": "A Mexican cartel's 90-year-old drug mule http://t.co/q4BVPklNlt",
+      "user_id": "nytimes"
+    },
+    "890": {
+      "created_at": "2014-06-11 15:58:30",
+      "text": "Building Blocks: In Chinatown, Remembering the Origins of a 126-Year-Old Synagogue http://t.co/MAEl2vD3QI",
+      "user_id": "nytimes"
+    },
+    "891": {
+      "created_at": "2014-06-11 15:15:08",
+      "text": "What's ahead for immigration in the U.S.? @JuliaPrestonNYT, @KirkSemple and @damiencave are taking questions http://t.co/PZBPhYxNgZ",
+      "user_id": "nytimes"
+    },
+    "892": {
+      "created_at": "2014-06-11 15:30:11",
+      "text": "As Sunni extremists claim territory across Iraq, the country's soldiers are qutting the fight http://t.co/yS24AnswdI",
+      "user_id": "nytimes"
+    },
+    "893": {
+      "created_at": "2014-06-11 15:42:48",
+      "text": "David Brat Waged Solo Fight Against Eric Cantor http://t.co/W3XfcHKH5t",
+      "user_id": "nytimes"
+    },
+    "894": {
+      "created_at": "2014-06-11 14:59:04",
+      "text": "Baghdad residents are stockpiling food, fuel and arms, fearing a Sunni militant assault http://t.co/2JARRdEDJ1 http://t.co/DYWF8xLvJA",
+      "user_id": "nytimes"
+    },
+    "895": {
+      "created_at": "2014-06-11 14:31:07",
+      "text": "After Cantor’s Primary Defeat, House Republicans Take Stock http://t.co/yYr0tFSFxt",
+      "user_id": "nytimes"
+    },
+    "896": {
+      "created_at": "2014-06-11 14:00:13",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/MpASDq1BAS via @nytnow",
+      "user_id": "nytimes"
+    },
+    "897": {
+      "created_at": "2014-06-11 14:10:07",
+      "text": "Eric Cantor Challenger Waged Lonely Campaign http://t.co/RbECI5SXWk",
+      "user_id": "nytimes"
+    },
+    "898": {
+      "created_at": "2014-06-11 13:23:23",
+      "text": "Lens Blog: Seeing Red in the Gene Pool http://t.co/j9vaiPSzxS",
+      "user_id": "nytimes"
+    },
+    "899": {
+      "created_at": "2014-06-11 13:59:10",
+      "text": "Map: Where Eric Cantor won and lost http://t.co/9DwaEiUxNO",
+      "user_id": "nytimes"
+    },
+    "900": {
+      "created_at": "2014-06-11 13:02:07",
+      "text": "Conservatives who have fueled contentious showdowns may be emboldened by Eric Cantor's shocking loss http://t.co/oNacUxlwLR",
+      "user_id": "nytimes"
+    },
+    "901": {
+      "created_at": "2014-06-11 13:44:17",
+      "text": "India Ink: In American Journalist’s Photographs, Rare Glimpse of India’s First Prime Minister http://t.co/zv1G4emwzi",
+      "user_id": "nytimes"
+    },
+    "902": {
+      "created_at": "2014-06-11 12:30:06",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/dlHSiOooAQ via @nytnow",
+      "user_id": "nytimes"
+    },
+    "903": {
+      "created_at": "2014-06-11 12:09:31",
+      "text": "Day 25: Language and Other Barriers http://t.co/tYYJqxrtGF",
+      "user_id": "nytimes"
+    },
+    "904": {
+      "created_at": "2014-06-11 12:19:52",
+      "text": "Sports of The Times: Coast Cleared by Others, W.N.B.A. Finally Finds Its Gay Pride http://t.co/W2GiSm6m1w",
+      "user_id": "nytimes"
+    },
+    "905": {
+      "created_at": "2014-06-11 12:25:16",
+      "text": "A Fight as U.S. Girls Face Genital Cutting Abroad http://t.co/Oi1prLV8fR",
+      "user_id": "nytimes"
+    },
+    "906": {
+      "created_at": "2014-06-11 12:18:07",
+      "text": "Eric Cantor's unexpected defeat delivered a major jolt to the Republican Party http://t.co/uLPI2flo0R",
+      "user_id": "nytimes"
+    },
+    "907": {
+      "created_at": "2014-06-11 12:42:35",
+      "text": "Pulse of the People: World Cup Opinions in 19 Countries: Likes, Dislikes, Predictions http://t.co/9icRNnafvn",
+      "user_id": "nytimes"
+    },
+    "908": {
+      "created_at": "2014-06-11 11:03:57",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/aG2iTSljZc via @nytnow",
+      "user_id": "nytimes"
+    },
+    "909": {
+      "created_at": "2014-06-11 11:12:00",
+      "text": "E.U. to Investigate Countries’ Business Tax Breaks http://t.co/X9nQnDH7eP",
+      "user_id": "nytimes"
+    },
+    "910": {
+      "created_at": "2014-06-11 11:27:43",
+      "text": "Bits Blog: Traffic Snarls Expected in Europe as Taxi Drivers Protest Against Uber http://t.co/vzP3rQJ10C",
+      "user_id": "nytimes"
+    },
+    "911": {
+      "created_at": "2014-06-11 11:48:33",
+      "text": "Icon of Egypt's 2011 Revolt Sentenced to 15 Years http://t.co/GHxVbMuidW",
+      "user_id": "nytimes"
+    },
+    "912": {
+      "created_at": "2014-06-11 10:24:56",
+      "text": "On The Runway: Hillary Rodham Clinton and the Power of Style http://t.co/LUMmowtW2w",
+      "user_id": "nytimes"
+    },
+    "913": {
+      "created_at": "2014-06-11 10:04:22",
+      "text": "City Room: New York Today: Not on My Home Ice http://t.co/sBxS4UoDtk",
+      "user_id": "nytimes"
+    },
+    "914": {
+      "created_at": "2014-06-11 10:46:28",
+      "text": "After Capture of Mosul, Militants Extend Control in Iraq http://t.co/YIUmXG8ntu",
+      "user_id": "nytimes"
+    },
+    "915": {
+      "created_at": "2014-06-11 09:59:12",
+      "text": "Hagel Prepares to Defend Bergdahl Trade http://t.co/eQzESfld1t",
+      "user_id": "nytimes"
+    },
+    "916": {
+      "created_at": "2014-06-11 09:22:20",
+      "text": "The Sinaloa Cartel’s 90-Year-Old Drug Mule http://t.co/e84ypifWld",
+      "user_id": "nytimes"
+    },
+    "917": {
+      "created_at": "2014-06-11 07:28:03",
+      "text": "Square Feet: A Bellwether for London Realty http://t.co/mouvwnOQBj",
+      "user_id": "nytimes"
+    },
+    "918": {
+      "created_at": "2014-06-11 07:23:18",
+      "text": "Help for Referees, in a Can http://t.co/CD74upcMIm",
+      "user_id": "nytimes"
+    },
+    "919": {
+      "created_at": "2014-06-11 07:45:07",
+      "text": "How Ireland's smoking ban changed pubs, hotels and lives http://t.co/G1eli5JpsU",
+      "user_id": "nytimes"
+    },
+    "920": {
+      "created_at": "2014-06-11 07:02:04",
+      "text": "Microsoft Protests Order for Email Stored Abroad http://t.co/iQ4WRka53D",
+      "user_id": "nytimes"
+    },
+    "921": {
+      "created_at": "2014-06-11 06:42:22",
+      "text": "Kidd and Fisher Carve New Niche for Veterans: Coach’s Office http://t.co/DZ8r0Eh2Bi",
+      "user_id": "nytimes"
+    },
+    "922": {
+      "created_at": "2014-06-11 06:00:06",
+      "text": "In Brazil, World Cup game days for the home team won't be national holidays, but it may seem that way http://t.co/zgRyri0yMx",
+      "user_id": "nytimes"
+    },
+    "923": {
+      "created_at": "2014-06-11 06:46:38",
+      "text": "The Caucus: Members of Congress React to Cantor’s Defeat Via Twitter http://t.co/Eyslvo5MIR",
+      "user_id": "nytimes"
+    },
+    "924": {
+      "created_at": "2014-06-11 06:21:12",
+      "text": "On Trial’s Tapes, Talk of New York Politics, Secret Cash and Strip Clubs http://t.co/1XXCMtluNi",
+      "user_id": "nytimes"
+    },
+    "925": {
+      "created_at": "2014-06-11 05:19:50",
+      "text": "Why Did Cantor Lose? Not Easy to Explain http://t.co/ihfUe7o9SQ",
+      "user_id": "nytimes"
+    },
+    "926": {
+      "created_at": "2014-06-11 05:34:01",
+      "text": "Spurs 111, Heat 92: Spurs Set Blazing Pace and Hang On Late http://t.co/jWldDUSS9s",
+      "user_id": "nytimes"
+    },
+    "927": {
+      "created_at": "2014-06-11 04:59:07",
+      "text": "Eric Cantor's unexpected defeat delivered a major jolt to the Republican Party http://t.co/fK47A4opcr",
+      "user_id": "nytimes"
+    },
+    "928": {
+      "created_at": "2014-06-11 04:47:20",
+      "text": "Michael Schmidt, Photographic Storyteller, Dies at 68 http://t.co/ySP2wczReA",
+      "user_id": "nytimes"
+    },
+    "929": {
+      "created_at": "2014-06-11 04:05:09",
+      "text": "What's inside the Domino's Smart Slice pizza? http://t.co/PjIswtI48F",
+      "user_id": "nytimes"
+    },
+    "930": {
+      "created_at": "2014-06-11 03:09:04",
+      "text": "America's soccer fans have reached a delicate point in their road from the fringes to the mainstream http://t.co/TUKZxZCsDC",
+      "user_id": "nytimes"
+    },
+    "931": {
+      "created_at": "2014-06-11 03:51:17",
+      "text": "Exhausted and Bereft, Iraqi Soldiers Quit Fight http://t.co/Q1Ttxv5Fyf",
+      "user_id": "nytimes"
+    },
+    "932": {
+      "created_at": "2014-06-11 03:00:12",
+      "text": "In search of the best iced latte in America http://t.co/xEfrvJscQY",
+      "user_id": "nytimes"
+    },
+    "933": {
+      "created_at": "2014-06-10 23:31:02",
+      "text": "Lindsey Graham Poised to Hold Off Tea Party Challenge http://t.co/iQm2jbryqV",
+      "user_id": "nytimes"
+    },
+    "934": {
+      "created_at": "2014-06-10 23:10:51",
+      "text": "Follow Virginia primary election results as they come in http://t.co/3Qydjqc0Ws",
+      "user_id": "nytimes"
+    },
+    "935": {
+      "created_at": "2014-06-10 22:36:27",
+      "text": "Your Evening Briefing is ready for you. http://t.co/1S35phoPbl via @nytnow",
+      "user_id": "nytimes"
+    },
+    "936": {
+      "created_at": "2014-06-10 22:19:20",
+      "text": "Restaurant Review: Gato From Bobby Flay http://t.co/4Kvruax6vf",
+      "user_id": "nytimes"
+    },
+    "937": {
+      "created_at": "2014-06-10 21:16:09",
+      "text": "Barentsburg Journal: Ukrainians Find Jobs and a Slice of Russia in Arctic Norway http://t.co/9GEulUDrOc",
+      "user_id": "nytimes"
+    },
+    "938": {
+      "created_at": "2014-06-10 21:47:27",
+      "text": "Appeals Court Rules Bloomberg Plan for ‘Taxi of Tomorrow’ Is Legal http://t.co/WZuh5bYKqz",
+      "user_id": "nytimes"
+    },
+    "939": {
+      "created_at": "2014-06-10 20:26:11",
+      "text": "Well: Updated Advice on Eating Fish During Pregnancy http://t.co/Y9Kjv3aLYy",
+      "user_id": "nytimes"
+    },
+    "940": {
+      "created_at": "2014-06-10 20:12:33",
+      "text": "Degrees of Education: A Case Study in Lifting College Attendance http://t.co/ZvmkRjbVtJ",
+      "user_id": "nytimes"
+    },
+    "941": {
+      "created_at": "2014-06-10 20:34:39",
+      "text": "Egyptian Government Criticized Anew Over Response to Sexual Assaults http://t.co/MhUqWDFt3N",
+      "user_id": "nytimes"
+    },
+    "942": {
+      "created_at": "2014-06-10 20:55:22",
+      "text": "Critic’s Notebook: Jack White and Vampire Weekend at Governors Ball http://t.co/XQMXyShi16",
+      "user_id": "nytimes"
+    },
+    "943": {
+      "created_at": "2014-06-10 19:37:13",
+      "text": "Fraud or Fiction: Voter Fraud Is Rare, but Myth Is Widespread http://t.co/RgJuWBBFpA",
+      "user_id": "nytimes"
+    },
+    "944": {
+      "created_at": "2014-06-10 19:15:56",
+      "text": "Student and Gunman Dead in Oregon High School Shooting http://t.co/g0JRyvoCnW",
+      "user_id": "nytimes"
+    },
+    "945": {
+      "created_at": "2014-06-10 19:42:09",
+      "text": "Ireland Investigating Complaints Against Unwed Mother Homes http://t.co/s1OUxKNzk1",
+      "user_id": "nytimes"
+    },
+    "946": {
+      "created_at": "2014-06-10 19:27:01",
+      "text": "Derek Fisher Is Introduced as Knicks’ New Coach http://t.co/nW3wAvUX65",
+      "user_id": "nytimes"
+    },
+    "947": {
+      "created_at": "2014-06-10 18:40:26",
+      "text": "The F.D.A. has updated its advice on eating fish during pregnancy http://t.co/XmPA3zSwYo",
+      "user_id": "nytimes"
+    },
+    "948": {
+      "created_at": "2014-06-10 18:54:59",
+      "text": "Bosnia’s World Cup Debut Stirs Passions in St. Louis http://t.co/HMjnrBJr5B",
+      "user_id": "nytimes"
+    },
+    "949": {
+      "created_at": "2014-06-10 18:17:55",
+      "text": "Arms Windfall for Insurgents as Iraq City Falls http://t.co/20Uzgu5UjA",
+      "user_id": "nytimes"
+    },
+    "950": {
+      "created_at": "2014-06-10 18:23:41",
+      "text": "Hillary Clinton’s Book Signing Has Air of a Campaign Event http://t.co/OusFV3m70b",
+      "user_id": "nytimes"
+    },
+    "951": {
+      "created_at": "2014-06-10 17:41:24",
+      "text": "Books: ‘The Witch-Hunt Narrative’: Are We Dismissing Real Victims? http://t.co/P6MolHGcEt",
+      "user_id": "nytimes"
+    },
+    "952": {
+      "created_at": "2014-06-10 17:20:47",
+      "text": "After Bergdahl Briefing, Senators Still Doubtful on Prisoner Swap http://t.co/iRCVLOYyVJ",
+      "user_id": "nytimes"
+    },
+    "953": {
+      "created_at": "2014-06-10 17:57:42",
+      "text": "California Teacher Tenure Laws Ruled Unconstitutional http://t.co/msdmtbJMv0",
+      "user_id": "nytimes"
+    },
+    "954": {
+      "created_at": "2014-06-10 16:19:23",
+      "text": "G.M. Chief Says Death Tally Could Rise in Ignition Flaw http://t.co/XjHWutpP3O",
+      "user_id": "nytimes"
+    },
+    "955": {
+      "created_at": "2014-06-10 16:39:52",
+      "text": "Ukraine Opens Corridors for Civilians to Flee Violence in the East http://t.co/jilx6M0aLh",
+      "user_id": "nytimes"
+    },
+    "956": {
+      "created_at": "2014-06-10 15:30:58",
+      "text": "After 7 Months, British Hacking Trial Heads to Jury http://t.co/dniX6oG7Jq",
+      "user_id": "nytimes"
+    },
+    "957": {
+      "created_at": "2014-06-10 15:57:18",
+      "text": "A Museum Devoted to Movies Is Still Writing Its Own Script http://t.co/IUEouV0Gl0",
+      "user_id": "nytimes"
+    },
+    "958": {
+      "created_at": "2014-06-10 15:01:18",
+      "text": "Google Adds Graffiti to Its Art Portfolio http://t.co/hkIGUn3yOA",
+      "user_id": "nytimes"
+    },
+    "959": {
+      "created_at": "2014-06-10 15:20:41",
+      "text": "Genealogy Shows Cardinal O’Connor’s Mother Was Jewish http://t.co/P6uOct0lOR",
+      "user_id": "nytimes"
+    },
+    "960": {
+      "created_at": "2014-06-10 15:39:57",
+      "text": "Banksy confessed to making an eavesdropping mural http://t.co/UQfaof2adS",
+      "user_id": "nytimes"
+    },
+    "961": {
+      "created_at": "2014-06-10 14:38:45",
+      "text": "As World Cup Nears, American ‘Football’ Fans Adopt Foreign Traditions http://t.co/WF6uJ49m0v",
+      "user_id": "nytimes"
+    },
+    "962": {
+      "created_at": "2014-06-10 14:00:14",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/NqwjV3lLdR via @nytnow",
+      "user_id": "nytimes"
+    },
+    "963": {
+      "created_at": "2014-06-10 14:08:02",
+      "text": "Israeli Parliament Elects Rivlin as New President http://t.co/Z1FWKffhVi",
+      "user_id": "nytimes"
+    },
+    "964": {
+      "created_at": "2014-06-10 14:28:58",
+      "text": "Colleges and Evangelicals Collide on Bias Policy http://t.co/kOryk8PYnG",
+      "user_id": "nytimes"
+    },
+    "965": {
+      "created_at": "2014-06-10 13:05:33",
+      "text": "Democrats See Winning Issue in Carbon Plan http://t.co/2m8LhbhDTO",
+      "user_id": "nytimes"
+    },
+    "966": {
+      "created_at": "2014-06-10 13:45:05",
+      "text": "6 innovative iced coffees http://t.co/yNnZ4Qjq8A",
+      "user_id": "nytimes"
+    },
+    "967": {
+      "created_at": "2014-06-10 13:26:18",
+      "text": "Kings 3, Rangers 0: Kings Take 3-0 Lead in N.H.L. Finals http://t.co/NhHgX54120",
+      "user_id": "nytimes"
+    },
+    "968": {
+      "created_at": "2014-06-10 12:45:09",
+      "text": "In search of the best iced latte in America http://t.co/YhA3a89v6n",
+      "user_id": "nytimes"
+    },
+    "969": {
+      "created_at": "2014-06-10 12:03:04",
+      "text": "Day 24: Contemplations of Identity http://t.co/J1E495g3Bj",
+      "user_id": "nytimes"
+    },
+    "970": {
+      "created_at": "2014-06-10 12:08:14",
+      "text": "After Deadline Blog: When Spell-Check Can’t Help http://t.co/a3jTJnWH24",
+      "user_id": "nytimes"
+    },
+    "971": {
+      "created_at": "2014-06-10 12:30:10",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/eQpL0POisF via @nytnow",
+      "user_id": "nytimes"
+    },
+    "972": {
+      "created_at": "2014-06-10 11:00:08",
+      "text": "Busy morning? Here's what you need to know to start your day. http://t.co/cAozPk2aCJ via @nytnow",
+      "user_id": "nytimes"
+    },
+    "973": {
+      "created_at": "2014-06-10 11:36:11",
+      "text": "It’s the Economy: Silicon Valley Tries to Re-Make the Idea Machine http://t.co/hgM45wF5Jz",
+      "user_id": "nytimes"
+    },
+    "974": {
+      "created_at": "2014-06-10 11:15:44",
+      "text": "Sunni Militants Seize Control in Iraqi City of Mosul http://t.co/MX4GJ2od2D",
+      "user_id": "nytimes"
+    },
+    "975": {
+      "created_at": "2014-06-10 11:57:18",
+      "text": "Frick Seeks to Expand Beyond Jewel-Box Spaces http://t.co/bTHq8VZhhJ",
+      "user_id": "nytimes"
+    },
+    "976": {
+      "created_at": "2014-06-10 10:08:54",
+      "text": "For Western Oil Companies, Expanding in Russia Is a Dance Around Sanctions http://t.co/qPH5LvBUOI",
+      "user_id": "nytimes"
+    },
+    "977": {
+      "created_at": "2014-06-10 10:40:38",
+      "text": "The Appraisal: At Junior’s Site, Bidders See Brooklyn, Too, as a City of Spires http://t.co/2miOasEDrj",
+      "user_id": "nytimes"
+    },
+    "978": {
+      "created_at": "2014-06-10 10:54:54",
+      "text": "Militants Seize Provincial HQ in Iraqi City Mosul http://t.co/QlibNWBmSW",
+      "user_id": "nytimes"
+    },
+    "979": {
+      "created_at": "2014-06-10 10:18:55",
+      "text": "City Room: New York Today: Head Trip http://t.co/1oM2c6c7fQ",
+      "user_id": "nytimes"
+    },
+    "980": {
+      "created_at": "2014-06-10 10:49:50",
+      "text": "For Virginia Democrat, Obama’s Still a Positive http://t.co/ENKGAWhqxi",
+      "user_id": "nytimes"
+    },
+    "981": {
+      "created_at": "2014-06-10 09:47:41",
+      "text": "‘Friendly Fire’ Strike Kills 5 Special Operations Soldiers in Afghanistan http://t.co/MEN0KerXkt",
+      "user_id": "nytimes"
+    },
+    "982": {
+      "created_at": "2014-06-10 09:31:06",
+      "text": "Of fish, monsoons and the future http://t.co/tG5oWfEvkc",
+      "user_id": "nytimes"
+    },
+    "983": {
+      "created_at": "2014-06-10 08:35:22",
+      "text": "Poll Shows Path to Citizenship Is Favored http://t.co/M4WHt505ZC",
+      "user_id": "nytimes"
+    },
+    "984": {
+      "created_at": "2014-06-10 08:15:03",
+      "text": "Japan seeks to squelch its tiny cars http://t.co/TSEu1CQYje",
+      "user_id": "nytimes"
+    },
+    "985": {
+      "created_at": "2014-06-10 07:34:08",
+      "text": "A Push to Save Cambodia’s Tonle Sap Lake http://t.co/8ZvgDGUWmm",
+      "user_id": "nytimes"
+    },
+    "986": {
+      "created_at": "2014-06-10 07:38:19",
+      "text": "As World Cup Nears, American ‘Football’ Fans Adapt Foreign Traditions http://t.co/1xM8squcDk",
+      "user_id": "nytimes"
+    },
+    "987": {
+      "created_at": "2014-06-10 07:02:32",
+      "text": "Pakistan Strikes at Militants After Taliban Airport Raid http://t.co/URvhAXiSQv",
+      "user_id": "nytimes"
+    },
+    "988": {
+      "created_at": "2014-06-10 07:59:18",
+      "text": "Facts Are Murky on Location of Dead Babies in Ireland http://t.co/etjHKKPtFD",
+      "user_id": "nytimes"
+    },
+    "989": {
+      "created_at": "2014-06-10 07:13:01",
+      "text": "For the first time at a World Cup, goal line technology is in place http://t.co/zRiWiVr6Tp",
+      "user_id": "nytimes"
+    },
+    "990": {
+      "created_at": "2014-06-10 06:46:57",
+      "text": "Rik Mayall, British Alternative Comic, Dies at 56 http://t.co/Ac2yMy22EU",
+      "user_id": "nytimes"
+    },
+    "991": {
+      "created_at": "2014-06-10 06:06:06",
+      "text": "In Argentina, wine, art and altitude http://t.co/AQyDKEdu8b",
+      "user_id": "nytimes"
+    },
+    "992": {
+      "created_at": "2014-06-10 06:26:11",
+      "text": "European Leaders Face Voter Impatience After Elections http://t.co/5x5MxP2l0j",
+      "user_id": "nytimes"
+    },
+    "993": {
+      "created_at": "2014-06-10 05:18:57",
+      "text": "Kings 3, Rangers 0: Back Home, Rangers Seem Lost http://t.co/YRI2NGxYnT",
+      "user_id": "nytimes"
+    },
+    "994": {
+      "created_at": "2014-06-10 05:40:18",
+      "text": "Donald Sterling’s Impairment Expedited the Clippers’ Sale to Steve Ballmer http://t.co/aYgoqb9bHJ",
+      "user_id": "nytimes"
+    },
+    "995": {
+      "created_at": "2014-06-10 04:00:09",
+      "text": "How black turnout could decide Senate control http://t.co/xfppSGhGDN",
+      "user_id": "nytimes"
+    },
+    "996": {
+      "created_at": "2014-06-10 04:40:35",
+      "text": "Mona Freeman, First ‘Miss Subways,’ Dies at 87 http://t.co/Jba4D4GEK4",
+      "user_id": "nytimes"
+    },
+    "997": {
+      "created_at": "2014-06-10 04:10:05",
+      "text": "It's not looking good for President Obama's pledge to put a human on Mars by the 2030s http://t.co/BRdBxQjjpC",
+      "user_id": "nytimes"
+    },
+    "998": {
+      "created_at": "2014-06-10 04:20:06",
+      "text": "Smartphone games are creating iTunes-worthy soundtracks http://t.co/rBRZxxZyf3",
+      "user_id": "nytimes"
+    },
+    "999": {
+      "created_at": "2014-06-10 03:40:10",
+      "text": "Dear millennials: We're sorry http://t.co/dPWcuWvGee via @nytopinion",
+      "user_id": "nytimes"
+    },
+    "1000": {
+      "created_at": "2014-06-10 03:20:02",
+      "text": "Equipment made for war is ending up in local police departments http://t.co/POBIiIDvEf http://t.co/pxZLyFbzS6",
+      "user_id": "nytimes"
+    }
+  }
+}

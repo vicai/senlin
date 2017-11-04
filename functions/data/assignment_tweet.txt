@@ -1,0 +1,1001 @@
+created_at          text                                                                                                                                         user_id
+2014-06-01 23:07:58 President Resigns in Georgia’s Breakaway Region of Abkhazia http://t.co/DAploRvCvV                                                           nytimes
+2014-06-01 23:48:06 The NYT FlipBoard guide to understanding climate change and its consequences http://t.co/uPGTuYiSmQ                                          nytimes
+2014-06-01 23:59:06 For all the struggles that young college grads face, a four-year degree has probably never been more valuable http://t.co/Gjf6wrwMsS         nytimes
+2014-06-01 23:35:09 It's better to be a community-college graduate than a college dropout http://t.co/k3CO7ClmIG                                                 nytimes
+2014-06-01 22:47:04 Share your experience with Veterans Affairs health care http://t.co/PrDhLC20Bt                                                               nytimes
+2014-06-01 22:03:27 Abandon Hope, Almost All Ye Who Enter the N.B.A. Playoffs http://t.co/IQAJ5XNddR                                                             nytimes
+2014-06-01 22:19:06 Books Of the Times: ‘Do Fathers Matter?’ Shows Why They Do http://t.co/1vLBAP6k7P                                                            nytimes
+2014-06-01 22:15:06 How online dating explains the truth about the digital economy http://t.co/mXOWT2geGB                                                        nytimes
+2014-06-01 21:43:06 San Francisco's tech firms aren't moving into new buildings, they're taking over old ones http://t.co/tB9u98diqu                             nytimes
+2014-06-01 21:06:34 Freed Soldier Faces Long Struggle Back to Normalcy http://t.co/R8IG4lyR3F                                                                    nytimes
+2014-06-01 21:31:03 Breaking up with his cable company's bundles http://t.co/qyft5nnLgU                                                                          nytimes
+2014-06-01 21:16:09 E.P.A. to Seek 30 Percent Cut in Carbon Emissions http://t.co/mY3ilYlxrj                                                                     nytimes
+2014-06-01 20:18:23 Lewis Katz, Co-Owner of Philadelphia Inquirer, Dies at 72 http://t.co/051ArIn1xc                                                             nytimes
+2014-06-01 20:53:58 Administration Defends Swap With Taliban to Free U.S. Soldier http://t.co/p045IqfOAJ                                                         nytimes
+2014-06-01 20:07:04 If Mayor Bill de Blasio has his way, ferrets could be legal again in New York City http://t.co/cfCADr6UNv                                    nytimes
+2014-06-01 20:45:06 The blurry line between procrastination and homework when you're studying for a master's in video games http://t.co/HENV0sxaNI               nytimes
+2014-06-01 19:16:03 As Ties With China Unravel, U.S. Companies Head to Mexico http://t.co/7n95OYNsMV                                                             nytimes
+2014-06-01 19:01:25 ‘Maleficent’ Casts Spell, Burying ‘Ways to Die’ http://t.co/k9p7wxRDCe                                                                       nytimes
+2014-06-01 19:40:07 DealBook: Authorities Find Insider Trading Case Tied to Phil Mickelson Is Slow to Take Shape http://t.co/6atu3fS1HX                          nytimes
+2014-06-01 19:26:22 Damon Lindelof Promises You His New Show Won’t End Like ‘Lost’ http://t.co/PQI9eYm3cK                                                        nytimes
+2014-06-01 19:48:20 Six Climbers Are Missing on Mount Rainier http://t.co/YvoUqD6WkW                                                                             nytimes
+2014-06-01 18:29:05 Soylent is the most joyless new technology to hit the world since we first laid eyes on MS-DOS http://t.co/peqmYzAagQ                        nytimes
+2014-06-01 18:45:13 Google's newest driverless car has no steering wheel or gas pedal and only 2 buttons: start and panic http://t.co/sKvstTylb3                 nytimes
+2014-06-01 18:18:10 A Wisconsin City Split Over the Mixture of Church and Sausage http://t.co/RYOL9AWwmA                                                         nytimes
+2014-06-01 18:04:06 A few options for shoppers who want to know whether they're purchasing G.M.O. foods http://t.co/auSKW0Od5A                                   nytimes
+2014-06-01 17:53:05 Federer Ousted at French Open http://t.co/wn738ggCqe                                                                                         nytimes
+2014-06-01 17:17:24 3 Kidnapped Missionaries Are Freed in Cameroon http://t.co/bTknOdzWpC                                                                        nytimes
+2014-06-01 17:10:33 After 5 Months of Sales, Colorado Sees the Downside of a Legal High http://t.co/uvpxamBRly                                                   nytimes
+2014-06-01 17:51:35 Business School, Disrupted http://t.co/vhMLkWHyZ8                                                                                            nytimes
+2014-06-01 17:14:05 An extension of the NYC subway was supposed to be finished by now. Here's what's holding it up http://t.co/a3grBLXR9W http://t.co/g4GVEL7J3V nytimes
+2014-06-01 17:31:08 Jimmy Iovine, a Master of Beats, Lends Apple a Skilled Ear http://t.co/9xaY7l3Q7J                                                            nytimes
+2014-06-01 17:27:30 Bob Mankoff’s ‘How About Never — Is Never Good for You?’ http://t.co/jzP1MqUBju                                                              nytimes
+2014-06-01 16:24:03 The turbulent history of putting a price tag on carbon emissions http://t.co/6sLZlsCV94 http://t.co/XTDpsGEHmW                               nytimes
+2014-06-01 16:15:38 DealBook: Mexico Issues Arrest Warrants in Banamex Fraud Inquiry http://t.co/D4vYhz9GJs                                                      nytimes
+2014-06-01 16:09:07 Early Chemotherapy Extends Lives of Men With Prostate Cancer, Study Finds http://t.co/Lf4XALJf5e                                             nytimes
+2014-06-01 16:44:08 The Smutty-Metaphor Queen of Lawrence, Kansas http://t.co/0QIK3IIXQS                                                                         nytimes
+2014-06-01 15:45:06 Timeline: 15 years of warnings on V.A. wait times http://t.co/jHQj7oczYc                                                                     nytimes
+2014-06-01 15:01:05 Life in the valley of death http://t.co/eRMBvfeGDK                                                                                           nytimes
+2014-06-01 15:14:06 Everything You Need to Know About Thomas Piketty vs. The Financial Times http://t.co/37jOfbQ50K                                              nytimes
+2014-06-01 15:57:28 Jenny Slate in Gillian Robespierre’s ‘Obvious Child’ http://t.co/DJywSfKS6L                                                                  nytimes
+2014-06-01 15:27:06 Senate Democrats hope that focusing on local issues will save them in midterm elections http://t.co/qBRs8e7M5H                               nytimes
+2014-06-01 14:15:07 How Old Is Too Old for President? Depends Who's Running http://t.co/sHzcFFTfDw                                                               nytimes
+2014-06-01 14:30:07 What's the Best 'Bad' Book You've Ever Read? http://t.co/58E64RDnGT                                                                          nytimes
+2014-06-01 14:04:06 Jewish-American deli food is suddenly the rage http://t.co/IBnNQpXQzg (Photo: Sasha Maslov for NYT) http://t.co/GMa1JQO0xt                   nytimes
+2014-06-01 14:26:04 Technophoria: The Enduring Promise of a Thinner You http://t.co/mC7yruMb14                                                                   nytimes
+2014-06-01 14:42:25 N.S.A. Collecting Millions of Faces From Web Images http://t.co/xJLChaHhuV                                                                   nytimes
+2014-06-01 14:31:30 Using Executive Powers, Obama Begins His Last Big Push on Climate Policy http://t.co/LiDldGtve6                                              nytimes
+2014-06-01 14:43:06 The V.A. scandal poses political peril for both Democrats and Republicans http://t.co/gFbMxtIsSU                                             nytimes
+2014-06-01 13:28:05 How did brunch become so cutting edge? http://t.co/ou704UrbGs                                                                                nytimes
+2014-06-01 13:48:20 Summer Reading http://t.co/1fzi1IOnxZ                                                                                                        nytimes
+2014-06-01 13:23:05 Suspect Arrested in Jewish Museum Killings in Belgium http://t.co/ks1CtlSTkS                                                                 nytimes
+2014-06-01 13:00:13 These are the French toast recipes someone should be making you for breakfast http://t.co/9Av54EgW6J                                         nytimes
+2014-06-01 13:16:05 This summer's reads from The NYT Sunday Book Review http://t.co/R7nkYrs2eS http://t.co/tRnU0abvUo                                            nytimes
+2014-06-01 12:57:07 Hagel Celebrates Bowe Bergdahl’s Release in Surprise Afghan Visit http://t.co/d1dNkAq543                                                     nytimes
+2014-06-01 12:15:40 Early Chemotherapy Extends Lives of Men With Prostate Cancer, Study Finds http://t.co/ScXaG0FOPK                                             nytimes
+2014-06-01 12:42:02 A new Michael Jordan biography is in awe of his career. What makes the book worthwhile is everything else it tells http://t.co/SIQ6oSKm63    nytimes
+2014-06-01 12:18:06 Who invented the French press coffee maker? http://t.co/apwnRBmkjC                                                                           nytimes
+2014-06-01 11:49:52 Bowe Bergdahl, American Soldier, Freed by Taliban in Prisoner Trade http://t.co/F6pOHi5tt1                                                   nytimes
+2014-06-01 11:16:02 Tracing the evolution of our national anxiety that Shakespeare, our adopted national poet, never saw America http://t.co/wflq3mHOXz          nytimes
+2014-06-01 10:35:04 The evolving world of gay travel http://t.co/actCIGrK9U                                                                                      nytimes
+2014-06-01 10:01:03 France: Suspect in Brussels Jewish Museum Arrested http://t.co/OGyGjNPW7S                                                                    nytimes
+2014-06-01 09:50:01 Listening Post: In Obama’s Speeches, a Shifting Tone on Terror http://t.co/e1Cc4dEesz                                                        nytimes
+2014-06-01 09:01:02 36 hours on the beach in Barcelona http://t.co/dE7MCv1P3F                                                                                    nytimes
+2014-06-01 09:23:21 After Deadly Rampage, Sheriff’s Office Faces Concerns About Conduct http://t.co/vZQetNava5                                                   nytimes
+2014-06-01 08:38:09 They take pride in the way they dress in Goma in eastern Congo http://t.co/f8VOrkgEx8                                                        nytimes
+2014-06-01 08:24:29 Many Veterans Praise Care, but All Hate the Wait http://t.co/40JTWhMKJJ                                                                      nytimes
+2014-06-01 08:04:06 Ukraine is looking to farming to help fix its economy and reduce its dependence on Russia http://t.co/aFTvhwMy9C                             nytimes
+2014-06-01 07:25:01 Pentagon’s Plan to Enlist Young Immigrants Is Delayed http://t.co/AOxn4q2cGY                                                                 nytimes
+2014-06-01 07:41:20 Private Jet Crashes in Massachusetts, Killing 7 http://t.co/uARQyZsW7l                                                                       nytimes
+2014-06-01 07:04:52 Style Q&amp;A: Style Q&amp;A: John Waters, CFDA Awards Host http://t.co/8gOVCtOcbX                                                           nytimes
+2014-06-01 06:26:37 Watson Holds Lead at Memorial, but Mickelson Garners More Attention http://t.co/K4dnTQt0tQ                                                   nytimes
+2014-06-01 06:05:56 American Businesses in China Feel Heat of a Cyberdispute http://t.co/cn0I6ExqCF                                                              nytimes
+2014-06-01 06:47:47 Harrah’s Tunica Casino to Close, Hinting at Gambling Glut http://t.co/GyrUBiTHkZ                                                             nytimes
+2014-06-01 05:24:14 Lesson for P.O.W.’s Father: Men Sometimes Do Come Back http://t.co/3OXf106DMG                                                                nytimes
+2014-06-01 05:44:34 French Crowds Love and Hate Their Own http://t.co/LRRtM0bTn2                                                                                 nytimes
+2014-06-01 05:04:09 Spurs 112, Thunder 107: Duncan Gives Spurs Another Shot at the Heat http://t.co/E0MJYYtVZa                                                   nytimes
+2014-06-01 04:58:09 Behind Rihanna's style is a guy named Mel http://t.co/Q7VRyfkmf3                                                                             nytimes
+2014-06-01 04:11:54 Hilaria Baldwin Holds Her Center http://t.co/HSaanJVPE0                                                                                      nytimes
+2014-06-01 04:37:57 Cuomo Secures Support of Working Families Party http://t.co/npuBGyIZMi                                                                       nytimes
+2014-06-01 04:14:05 China chafes at the growth of Christianity http://t.co/PMK573YnFA                                                                            nytimes
+2014-06-01 04:27:08 Bob Newhart, Master of the One-Sided Conversation http://t.co/xmdtl25WyD                                                                     nytimes
+2014-06-01 00:44:04 Let's not pretend to be who we aren't (in bed) http://t.co/9NkGQjOywE                                                                        nytimes
+2014-06-01 00:00:13 How online dating explains the truth about the digital economy http://t.co/SjSKO2PnIs                                                        nytimes
+2014-06-01 00:58:47 Police Search for Upset Teenager Who Sank Into the Hudson http://t.co/vRXdc7jsSe                                                             nytimes
+2014-06-01 00:59:04 One night a week, a hidden lap dance party opens up in Manhattan (Photo: Richard Perry/NYT) http://t.co/JZaz0qZZIf http://t.co/n8FRryqL4n    nytimes
+2014-06-01 00:31:05 Scientists report they were able to reliably teleport data http://t.co/f57DMLMUbl                                                            nytimes
+2014-06-01 00:18:05 The NYT obituary for Maya Angelou http://t.co/JCyBX49aJS                                                                                     nytimes
+2014-06-01 03:59:06 Violence spikes in Rio ahead of the World Cup http://t.co/j6f7utvqHK                                                                         nytimes
+2014-06-01 03:02:07 Tournament of Ants http://t.co/03AHzXs4Xc                                                                                                    nytimes
+2014-06-01 03:44:07 A cop has a question for San Francisco's bike thieves: Are you feeling lucky punk? http://t.co/rnqISHb4oV                                    nytimes
+2014-06-01 03:13:07 Putting Soylent to the taste test http://t.co/7owjcj9t1G http://t.co/h2QCtnQabS                                                              nytimes
+2014-06-01 03:31:08 What happens when Hollywood descends on Brooklyn http://t.co/Cc3F1KU7t6                                                                      nytimes
+2014-06-01 02:12:04 Five intimate performances from 2014 Tony Awards  nominees http://t.co/pxdM8wk2pN http://t.co/OAI3dczBi2                                     nytimes
+2014-06-01 02:30:04 Join us at the piano and hear how dissonant moments in classical music are made http://t.co/aJxGweEwrI                                       nytimes
+2014-06-01 02:27:13 A Soldier Is Missing. What Comes Next? http://t.co/7ngT8THHsq                                                                                nytimes
+2014-06-01 02:46:08 Don't panic: Our galaxy won't collide with one of its neighbors for about 2 billion years  http://t.co/zkzqoZAP1y                            nytimes
+2014-06-01 02:00:18 A farewell to Maya Angelou http://t.co/XiB0MBYnJw                                                                                            nytimes
+2014-06-01 01:43:04 The Smutty-Metaphor Queen of Lawrence, Kansas http://t.co/SsEwLfbLyi                                                                         nytimes
+2014-06-01 01:35:09 I’ll Have Another, Former Triple Crown Contender, Settles In at a Japanese Farm http://t.co/wTqwX1AGj5                                       nytimes
+2014-06-01 01:15:03 A man deposited $100,000 into a bank. That night, he refereed a soccer match between South Africa and Guatemala http://t.co/7QtpLbDNhn       nytimes
+2014-06-01 01:29:08 Life in the valley of death http://t.co/6WUAOS3fJi                                                                                           nytimes
+2014-06-01 20:33:05 Breaking News: E.P.A. to Seek 30 Percent Cut in Carbon Emissions by 2030 http://t.co/gu0AWcrkAR                                              nytimes
+2014-06-01 13:39:38 Breaking News: Co-Owner of Philidelphia Inquirer Among Plane Crash Victims in Massachusetts http://t.co/J28ruc50W6                           nytimes
+2014-06-02 23:43:11 New Carbon Rules Unlikely to Start Energy Revolution http://t.co/eTVjw7wfV7                                                                  nytimes
+2014-06-02 23:00:13 Elliot Rodger's killings in California followed years of withdrawal http://t.co/BXpq6H7eAJ                                                   nytimes
+2014-06-02 23:30:12 Why new carbon rules are unlikely to start an energy revolution http://t.co/5SKd8m7wvT                                                       nytimes
+2014-06-02 22:38:57 Why Democrats have little to lose in taking on the coal industry http://t.co/YBrwj3AQiE                                                      nytimes
+2014-06-02 22:20:09 Wine School: ‘Listening’ to Sancerre Tell Its Story http://t.co/88B94LiuGd                                                                   nytimes
+2014-06-02 21:35:19 Your Evening Briefing is ready for you. http://t.co/1dHjr9wLD2 via @nytnow                                                                   nytimes
+2014-06-02 20:25:44 Wine School: Your Next Lesson: Riesling http://t.co/fcbNUhYioZ                                                                               nytimes
+2014-06-02 20:55:27 Travel with us to see how the U.S. is being changed by immigration http://t.co/NjNlURyQDp http://t.co/mbp1kkhTq6                             nytimes
+2014-06-02 20:05:25 "Game of Thrones" recap: Significant evolutions of major characters and their allegiances with one another http://t.co/ngCjsP8Iic            nytimes
+2014-06-02 19:21:33 Neighbors don't love the 33-foot-tall statue of a naked woman ripped open to reveal a fetus http://t.co/xp51TPGvB0                           nytimes
+2014-06-02 19:36:11 A man deposited $100,000 into a bank. That night, he refereed a soccer match between South Africa and Guatemala http://t.co/7l1MG2wlmQ       nytimes
+2014-06-02 19:47:55 Early chemotherapy extends lives of men with prostate cancer, study finds http://t.co/ywxpD8aVqa                                             nytimes
+2014-06-02 19:48:45 ArtsBeat: Oliver Stone Plans a Film About Edward Snowden http://t.co/g6nIMEaprG                                                              nytimes
+2014-06-02 19:22:39 Russia Gives Ukraine More Time to Pay for Natural Gas http://t.co/VNUJy6VZlJ                                                                 nytimes
+2014-06-02 18:25:27 Old Guard Returns for Hot 97 Summer Jam http://t.co/1lVMtjAOxT                                                                               nytimes
+2014-06-02 18:56:46 The New Health Care: Calling an Ordinary Health Problem a Disease Leads to Bigger Problems http://t.co/r7K104iOYL                            nytimes
+2014-06-02 18:10:11 The words of a notorious match fixer reveal how pervasively illicit gambling has infected global soccer http://t.co/6zhbTrHzsD               nytimes
+2014-06-02 18:14:53 The Public Editor's Journal: Nicholas Kristof Should Give Readers a Full Explanation About Somaly Mam http://t.co/FDf51h5gKg                 nytimes
+2014-06-02 17:49:00 Obama tries to reclaim leadership on climate change http://t.co/oE9jzDa1lI                                                                   nytimes
+2014-06-02 17:23:21 At Ukraine's perilous border, law is dispensed by men in masks http://t.co/SaL9RV4DoT                                                        nytimes
+2014-06-02 17:53:50 Apple Presents Update of Its Mac Operating System http://t.co/M8umZFgy9a                                                                     nytimes
+2014-06-02 17:32:46 Carbon Plan Puts Democrats in Coal States on the Defensive http://t.co/U0UC6h3VYa                                                            nytimes
+2014-06-02 16:56:06 At WWDC, Apple Is Set to Make Push Into Monitoring Health and Home http://t.co/gbm6g9iX4N                                                    nytimes
+2014-06-02 16:14:24 Chemical Weapons Treaty Does Not Apply to Domestic Dispute, Justices Rule http://t.co/dh5DxyKqXM                                             nytimes
+2014-06-02 16:50:58 China’s Battle Against Google Heats Up http://t.co/rCntDnxem9                                                                                nytimes
+2014-06-02 15:37:38 The Caucus: Reaction to Obama Administration Carbon Emissions Proposal http://t.co/c8NgHFhkCj                                                nytimes
+2014-06-02 15:53:30 Battling Destructive Computer Viruses, Agents Seize Networks Used by Hackers http://t.co/LprJoyvevV                                          nytimes
+2014-06-02 15:23:22 A new Palestinian government was sworn in today. Here's what you need to know about it: http://t.co/fMYy7m6T18                               nytimes
+2014-06-02 14:35:27 Police Search for Suspect in Fatal East New York Stabbing http://t.co/vfDu0mo9x3                                                             nytimes
+2014-06-02 14:57:23 Primavera Sound Sets the Stage for Music Festivals Worldwide http://t.co/EKYA8njU7z                                                          nytimes
+2014-06-02 14:14:56 Unveiling New Carbon Plan, E.P.A. Focuses on Flexibility http://t.co/vg3ng8K8y7                                                              nytimes
+2014-06-02 14:00:16 Busy morning? Here's what you need to know to start your day. http://t.co/61b3IATOTg via @nytnow                                             nytimes
+2014-06-02 13:54:06 Supreme Court Rejects Appeal From Reporter Over Identity of Source http://t.co/QOyNOy9DZ4                                                    nytimes
+2014-06-02 13:32:14 The Media Equation: Amazon Absorbing Price Fight Punches http://t.co/nRuWk7uCNL                                                              nytimes
+2014-06-02 13:33:16 ArtsBeat: ‘Game of Thrones’ Recap: Mountain Meets Viper http://t.co/EZzUZGXQwU                                                               nytimes
+2014-06-02 13:11:22 Hachette Chief Leads Book Publishers in Amazon Fight http://t.co/3d4nRclfSu                                                                  nytimes
+2014-06-02 12:10:56 A Cooling in Poland’s Love Affair With the U.S. http://t.co/ibSCoP62sV                                                                       nytimes
+2014-06-02 12:30:13 Busy morning? Here's what you need to know to start your day. http://t.co/qpCD81Wt7Q via @nytnow                                             nytimes
+2014-06-02 12:40:59 Cancer Researchers Report Longer Survival Rates With Immunotherapy http://t.co/vobu2vVRGS                                                    nytimes
+2014-06-02 12:51:30 Abbas Swears In a New Palestinian Government http://t.co/gicDGjBuNu                                                                          nytimes
+2014-06-02 12:46:19 Day 16: Stops and Starts http://t.co/S2ml5fBImy                                                                                              nytimes
+2014-06-02 11:22:37 DealBook: Brazilian Bank Predicts World Cup Winner http://t.co/vsuoNlsb0B                                                                    nytimes
+2014-06-02 11:07:18 Separatists Storm Border Post in Eastern Ukraine http://t.co/aTAWEmvY4l                                                                      nytimes
+2014-06-02 11:30:06 New York Today: June Is for Hockey Heroes http://t.co/zE30aVSxdD                                                                             nytimes
+2014-06-02 11:50:11 Pulse of the People: Is Global Warming Real? Most Americans Say Yes http://t.co/JLqI7g1bn5                                                   nytimes
+2014-06-02 11:00:11 Busy morning? Here's what you need to know to start your day. http://t.co/8XszSz2UOo via @nytnow                                             nytimes
+2014-06-02 10:30:40 City Room: New York Today: June Is for Hockey Heroes http://t.co/Px3LmKUDwD                                                                  nytimes
+2014-06-02 09:17:28 King Juan Carlos of Spain to Abdicate Throne http://t.co/0W0kRcnS2W                                                                          nytimes
+2014-06-02 09:01:16 An Impressive Workout by California Chrome Electrifies Belmont Park http://t.co/RhwvgNXVpA                                                   nytimes
+2014-06-02 09:37:55 Rigged: Part 2 of a Two-Part Series: Inside the Fixing: How a Gang Battered Soccer’s Frail Integrity http://t.co/ZeYa3Z6cW5                  nytimes
+2014-06-02 08:19:51 Scots Are Divided Over Independence, and Its Economic Costs http://t.co/uQNXy2mx92                                                           nytimes
+2014-06-02 08:40:52 Environmental Groups Focus on Change by Strengthening Their Political Operations http://t.co/JLfFW2KUHX                                      nytimes
+2014-06-02 08:04:11 ArtsBeat: ‘Halt and Catch Fire’ Recap: Can Geekiness Be Entertaining? http://t.co/FmldewcOVq                                                 nytimes
+2014-06-02 07:43:13 Study Examines Efficacy of Taxes on Sugary Drinks http://t.co/mMgopACAe8                                                                     nytimes
+2014-06-02 07:22:12 25 Years Later, Details Emerge of Army’s Chaos Before Tiananmen Square http://t.co/JP8pHR03Fw                                                nytimes
+2014-06-02 07:10:58 Israel Warns Against Embracing Newly Reconciled Palestinian Government http://t.co/5vJi40LDQb                                                nytimes
+2014-06-02 06:50:44 With South Bronx Trail, a History and a Culture Will Be Clearly Marked http://t.co/PQ3br4YAsB                                                nytimes
+2014-06-02 06:19:20 Google Glass Enters the Operating Room http://t.co/S8IiUv4ONv                                                                                nytimes
+2014-06-02 06:29:51 Elliot O. Rodger’s Killings in California Followed Years of Withdrawal http://t.co/quDK3UqX2Z                                                nytimes
+2014-06-02 05:16:24 Boy, 6, Dies After a Stabbing in Brooklyn http://t.co/pWs5h6mcBA                                                                             nytimes
+2014-06-02 05:37:38 KWEM’s Return Has West Memphis Reliving Its Role in Radio History http://t.co/JImWWLBFmd                                                     nytimes
+2014-06-02 05:58:19 Prisoner Trade Yields Rare View Into the Taliban http://t.co/7Lwu1qKOv7                                                                      nytimes
+2014-06-02 04:39:27 Prison Program Turns Inmates Into Intellectuals http://t.co/NbHrg2C0Qy                                                                       nytimes
+2014-06-02 04:59:49 Killings in Iraq, at 799, Reach a Monthly High http://t.co/lme67Pvl05                                                                        nytimes
+2014-06-02 04:19:05 Day 15: Cultural Crossroads http://t.co/W4Fo3EzvjY                                                                                           nytimes
+2014-06-02 03:03:07 Andromeda and the Milky Way: A Merger of Galactic Proportions http://t.co/LF8DbPPKiS                                                         nytimes
+2014-06-02 03:43:04 Why you hate work http://t.co/sYZWEFODp4                                                                                                     nytimes
+2014-06-02 03:16:07 If you want to age well, walk more http://t.co/pC66VlY0cq                                                                                    nytimes
+2014-06-02 03:58:08 Times Haiku: On the other hand, everybody these days is a photographer. http://t.co/6kHSTc0vTh                                               nytimes
+2014-06-02 03:31:06 Fast Food, Empty Piggy Banks http://t.co/3Shqhwgv9G via @nytopinion                                                                          nytimes
+2014-06-02 03:17:19 Planned Celebration for Sgt. Bowe Bergdahl Just Got a Whole Lot Bigger http://t.co/CT8P0OJ0yq                                                nytimes
+2014-06-02 03:38:04 Kings Beat Blackhawks to Set Up Stanley Cup Finals Against the Rangers http://t.co/WSh9QlFQuq                                                nytimes
+2014-06-02 02:14:01 Share your predictions about who will win at the 2014 Tony Awards http://t.co/gVmZ4a20GJ                                                     nytimes
+2014-06-02 02:10:31 In GPS Battle, Russia Sets Restrictions of Its Own http://t.co/GmK9zlPgXz                                                                    nytimes
+2014-06-02 02:36:06 Safety and comfort for the gay traveler http://t.co/rNv1Ps1Lig                                                                               nytimes
+2014-06-02 02:00:14 A roundtable with the creators and stars of "Orange Is the New Black" http://t.co/kPoDG8lLAm                                                 nytimes
+2014-06-02 02:41:11 Census Records Shed a New Light on Some of the Mayor’s Forebears http://t.co/IErHmMvpPB                                                      nytimes
+2014-06-02 02:28:03 Damon Lindelof Promises You His New Show Won't End Like "Lost" http://t.co/QcrmvYtkEa                                                        nytimes
+2014-06-02 01:05:04 Five intimate performances from 2014 Tony Awards  nominees http://t.co/5tGpMjIZp0 http://t.co/N20WMvt7LS                                     nytimes
+2014-06-02 01:16:04 A journey north to explore how the U.S. has been changed by immigration http://t.co/8qetHiLjCv http://t.co/cW3f5geFI0                        nytimes
+2014-06-02 01:29:05 "You know what they call $4 billion in the illegal betting markets in Asia? Thursday." http://t.co/wSNRUCNsys                                nytimes
+2014-06-02 01:44:05 Dissonance in music is usually seen as a clashing combination of notes. But it's not that simple http://t.co/WfVFQhSXPd                      nytimes
+2014-06-02 00:43:07 How to get girls into coding http://t.co/XQetnalfRl via @nytopinion http://t.co/kJbzgT1Rfe                                                   nytimes
+2014-06-02 00:57:53 Ann B. Davis, the Maid on ‘The Brady Bunch,’ Dies at 88 http://t.co/DhthHY0kXj                                                               nytimes
+2014-06-02 00:20:08 The words of a notorious match fixer reveal how pervasively illicit gambling has infected global soccer http://t.co/3uocQyCm0S               nytimes
+2014-06-02 23:52:43 Breaking News: Inquiry Implicates Former Brooklyn D.A. in Misuse of Public Funds http://t.co/0xu6Cq0Bzh                                      nytimes
+2014-06-02 03:27:38 Sports Alert: Kings Head to Stanley Cup Finals http://t.co/iwNbvs34u3                                                                        nytimes
+2014-06-05 23:53:01 In terms of fans, the Miami Heat have already beaten the San Antonio Spurs http://t.co/5YuGWfttLk http://t.co/12Qqg5bqMN                     nytimes
+2014-06-05 22:20:29 Matter: Putting a Price Tag on Nature’s Defenses http://t.co/2BdHncwi5E                                                                      nytimes
+2014-06-05 22:11:49 Your Evening Briefing is ready for you. http://t.co/EmeILLUT8r via @nytnow                                                                   nytimes
+2014-06-05 22:06:29 Top Dutch Aerospace Firm Settles Sanctions Violations http://t.co/Y6rt09YKvf                                                                 nytimes
+2014-06-05 21:17:45 The Public Editor's Journal: Titillation or Illumination on The Times’s New ‘Sin Beat’? http://t.co/1i6ySiAdrD                               nytimes
+2014-06-05 21:44:34 Asia Society Museum Director to Lead Hirshhorn http://t.co/qMTL1tKlx0                                                                        nytimes
+2014-06-05 21:18:50 Bits Blog: New Bug Found in Widely Used OpenSSL Encryption http://t.co/VnftLFxQ5H                                                            nytimes
+2014-06-05 20:26:16 Woman in the News: Sylvia Mathews Burwell Builds Relationships From West Virginia to Washington http://t.co/nDFh0egXlQ                       nytimes
+2014-06-05 20:43:56 For the first time, the International Criminal Court's statute included forms of sexual violence as war crimes http://t.co/YLoZt034iZ        nytimes
+2014-06-05 20:56:59 Harvard confirms a book in one of its libraries is bound in human skin http://t.co/beHxYMgcaO                                                nytimes
+2014-06-05 20:05:47 U.S. Commander in Afghanistan Tapped to Lead Marine Corps http://t.co/sMH7wZq5Am                                                             nytimes
+2014-06-05 19:44:30 Hillary Clinton seeks to set pace with a breakneck schedule http://t.co/v3pj7Cnc9f                                                           nytimes
+2014-06-05 19:35:26 Bits Blog: Amazon Boycott Gets a Helping Hand From Stephen Colbert http://t.co/xF4rzTr9uF                                                    nytimes
+2014-06-05 19:13:32 Hungry City: Flinders Lane in the East Village http://t.co/3h838ceVOX                                                                        nytimes
+2014-06-05 18:00:31 DealBook: BNP Executive Asked to Leave Amid Investigation http://t.co/VhjjreiD89                                                             nytimes
+2014-06-05 18:31:41 Senate Confirms Burwell to Lead Health and Human Services http://t.co/WQep4eKVm7                                                             nytimes
+2014-06-05 18:57:38 Senators Announce Accord on Improving Veterans’ Care http://t.co/maEOlPAMpe                                                                  nytimes
+2014-06-05 18:41:57 In Pre-K Expansion, Fewer Than Half of City Students Get Top-Choice School http://t.co/NAd7sxFtO1                                            nytimes
+2014-06-05 18:10:31 The NYT obituary for Don Zimmer http://t.co/LMj6u3oyyS                                                                                       nytimes
+2014-06-05 17:42:09 A journey north to explore how the U.S. has been changed by immigration http://t.co/t55XmF4C0a http://t.co/i2FdCmHzt1                        nytimes
+2014-06-05 17:56:21 Daniel St. Hubert Served Prison Time for Attacking His Mother http://t.co/TjQmSrYiCm                                                         nytimes
+2014-06-05 17:44:27 Bergdahl Walked Away Before, Military Report Says http://t.co/IWQjDcRWPF                                                                     nytimes
+2014-06-05 17:14:19 Maria Sharapova Makes It Back to French Open Final http://t.co/cxfSz73RzV                                                                    nytimes
+2014-06-05 16:15:49 Brooklyn Stabbing Suspect May Be Tied to Chelsea Subway Attack, Police Say http://t.co/E6nYN9GkKe                                            nytimes
+2014-06-05 16:37:12 How the Recession Reshaped the Economy http://t.co/Hj1GqCPOBt                                                                                nytimes
+2014-06-05 16:52:32 DealBook: S.E.C. Chief Calls for Sweeping Changes to Stock Market Rules http://t.co/H85d566Uef                                               nytimes
+2014-06-05 16:02:06 With More Emotion, Obama Defends Soldier Swap http://t.co/mJYCAad8SQ                                                                         nytimes
+2014-06-05 15:04:06 Washington Memo: Bergdahl Case Shakes Democrats’ Confidence in Administration http://t.co/NYwVEUOM53                                         nytimes
+2014-06-05 15:09:28 Concern for Health of Bowe Bergdahl Drove Prisoner Exchange http://t.co/e4yLRiUEgT                                                           nytimes
+2014-06-05 15:39:49 Washington Memo: Bergdahl Case Shakes Democrats’ Confidence in Administration http://t.co/mFrAAD5emM                                         nytimes
+2014-06-05 15:30:16 Democrats See a Break in a Gain for the Tea Party in Mississippi http://t.co/Wc9iagwlLm                                                      nytimes
+2014-06-05 14:15:45 When Mayor Bill de Blasio works out, he barely breaks a sweat http://t.co/RJ6TXrltZH (Illustration: Jason Lee) http://t.co/kqShDhNosm        nytimes
+2014-06-05 14:27:30 Group of 7 Condemns Its Absent Partner, Russia http://t.co/ULs6p0rRnm                                                                        nytimes
+2014-06-05 14:00:17 Busy morning? Here's what you need to know to begin your day. http://t.co/PAWUbjL1ru via @nytnow                                             nytimes
+2014-06-05 14:48:23 Review: ‘Orange Is the New Black’ Season 2 http://t.co/TOQeJpjLj0                                                                            nytimes
+2014-06-05 13:19:18 G.M. Says Inquiry Finds No Cover-Up on Switch Flaw http://t.co/NQdcHuPnP9                                                                    nytimes
+2014-06-05 13:06:10 Live coverage of the GM internal recall investigation, including video: http://t.co/jLam8vZ2Ul                                               nytimes
+2014-06-05 13:40:28 Donna Karan Exudes Calm in the Chaos http://t.co/bA5Dl9t7ry                                                                                  nytimes
+2014-06-05 13:09:00 News: Live Video and Updates on GM Internal Recall Investigation http://t.co/LFN6GGvr5A                                                      nytimes
+2014-06-05 12:00:55 European Central Bank Takes a Radical Step http://t.co/uue08wtEan                                                                            nytimes
+2014-06-05 12:53:19 New Israeli Settlement Plans Draw Swift Condemnation http://t.co/ERg1XZJdZQ                                                                  nytimes
+2014-06-05 12:30:06 Busy morning? Here's what you need to know to begin your day. http://t.co/4DLaCevWiM via @nytnow                                             nytimes
+2014-06-05 12:18:35 The European Central Bank made an unprecedented move to stimulate the economy http://t.co/9WS1Weggqt                                         nytimes
+2014-06-05 12:52:39 Puerto Rico Debates Who Put Out the Lights in a Bay http://t.co/6ySM1xfEMB                                                                   nytimes
+2014-06-05 12:32:28 Movie Review: ‘The Fault in Our Stars’ Sets Out to Make You Cry http://t.co/iqDiQeoHts                                                       nytimes
+2014-06-05 11:40:16 A de Blasio Workout: Making Friends Without Breaking a Sweat http://t.co/spScmzjJwH                                                          nytimes
+2014-06-05 11:19:14 Lens Blog: Missing Japan, Balanced in Brazil http://t.co/rgG7zz3EfI                                                                          nytimes
+2014-06-05 11:13:58 Day 19: The Faces Behind the Burgers http://t.co/hXCYSuK0RD                                                                                  nytimes
+2014-06-05 10:11:06 NYC Officials: 24 Injured in Staten Island Fire http://t.co/dakftLyLAw                                                                       nytimes
+2014-06-05 11:00:07 Busy morning? Here's what you need to know to begin your day. http://t.co/yxpWVSOOJm via @nytnow                                             nytimes
+2014-06-05 10:00:40 City Room: New York Today: No School, but Why? http://t.co/eBzuggMUwW                                                                        nytimes
+2014-06-05 10:33:06 How Jurgen Klinsmann Plans to Make U.S. Soccer Better (and Less American) http://t.co/Tp2AxVCNsz                                             nytimes
+2014-06-05 09:52:30 Behind P.O.W.’s Release: Urgency and Opportunity http://t.co/K4UCCt5JZy                                                                      nytimes
+2014-06-05 09:11:08 The World Cup draw was unfair. What if there were a better way? http://t.co/TqBfESkzuT http://t.co/dpzoe7iB9Q                                nytimes
+2014-06-05 09:02:53 Senators Show Frustration After Briefing on Ex-P.O.W. http://t.co/otuFjzFCkg                                                                 nytimes
+2014-06-05 09:31:59 Machine Learning: Mirrorless Camera Reviews: Fujifilm X-T1 and Sony Alpha NEX 5T http://t.co/TnuPoKtKjI                                      nytimes
+2014-06-05 09:08:14 Critic’s Notebook: ‘Sacro GRA’ Highlights the Open Roads Film Festival http://t.co/aLm3vFqQZM                                                nytimes
+2014-06-05 08:12:05 James Bond gets all the glory, but Pussy Galore wore it best http://t.co/whx9uRgkot                                                          nytimes
+2014-06-05 08:44:06 Europe Likely to Get Negative Interest Rates. What Does That Even Mean? http://t.co/dTfdQ7hRLb                                               nytimes
+2014-06-05 08:05:40 3 Officers Killed, 2 Injured in Canada Shooting http://t.co/YaTF2NbBWn                                                                       nytimes
+2014-06-05 07:02:38 Inquiry Urged on Site Called Mass Grave of Irish Babies http://t.co/0RjlSrT3BJ                                                               nytimes
+2014-06-05 07:23:54 Single Dose of Antibiotic Found Effective in Quelling MRSA http://t.co/ydEFvE4xyh                                                            nytimes
+2014-06-05 06:03:15 Boehner Calls for More Action on V.A. Scandal http://t.co/LQYDuhfnuq                                                                         nytimes
+2014-06-05 06:56:03 You can't understand sexual violence in India without understanding the caste system http://t.co/APh3iqMOQK via @nytopinion                  nytimes
+2014-06-05 05:23:00 Critic’s Notebook: A Potential Solution for Developers at St. John the Divine http://t.co/qZfZMjcqn6                                         nytimes
+2014-06-05 05:18:14 After Bribery Scandal, High-Level Departures at Walmart http://t.co/yCHQq1RQdb                                                               nytimes
+2014-06-05 05:43:07 Criticism Over Troop Withdrawal Emerges From Beyond G.O.P. http://t.co/90AAi13iII                                                            nytimes
+2014-06-05 04:56:47 Kings 3, Rangers 2: Kings Climb Out of Hole as Rangers Fall Into One http://t.co/eCvCpIYQQk                                                  nytimes
+2014-06-05 04:19:12 Suspect Is Arrested in Stabbing of 2 Brooklyn Children http://t.co/aRM500qQoY                                                                nytimes
+2014-06-05 03:15:09 People are streaming broadcast television on their smartphones in record numbers http://t.co/070kg4Q9F3                                      nytimes
+2014-06-05 03:00:11 "We cannot win this World Cup, because we are not at that level yet." - Jurgen Klinsmann http://t.co/YZF6Jx2wRd                              nytimes
+2014-06-03 23:55:20 The Public Editor's Journal: The Reporter, the Source, and the Supreme Court http://t.co/qOzFkOVStM                                          nytimes
+2014-06-03 23:02:58 New York City Teachers Vote to Approve 9-Year Contract http://t.co/9dmVpVH2du                                                                nytimes
+2014-06-03 23:24:28 In Brooklyn, Scarcella’s Cases Continue to Face Review http://t.co/EID5Gb3UQb                                                                nytimes
+2014-06-03 21:55:05 These Chiles? Nothing to Fear http://t.co/zMPf7kifPz                                                                                         nytimes
+2014-06-03 21:44:20 De Blasio Criticizes Housing Authority as Search for Brooklyn Attacker Continues http://t.co/gt15i1zTqs                                      nytimes
+2014-06-03 20:20:32 Friends of Moner Mohammad Abusalha Saw No Indications http://t.co/2vs223uX4I                                                                 nytimes
+2014-06-03 20:15:17 T Magazine: The Woman on Top of the World http://t.co/G5ErgITCcQ                                                                             nytimes
+2014-06-03 19:12:45 HistorySource: Marilyn Monroe’s World War II Drone Program http://t.co/u66SB3rxBH                                                            nytimes
+2014-06-03 19:51:15 What does Beyoncé mean? What doesn't she mean. http://t.co/H1zNyu3ayJ (Photo: Juergen Teller) http://t.co/wbETcTvRgn                         nytimes
+2014-06-03 19:34:30 For One Tiananmen-Era Student, a Very Different Path to Power http://t.co/cxACAJR8Cf                                                         nytimes
+2014-06-03 18:11:03 This Land: Not Official, but Still a Wisconsin Pardon http://t.co/dz1CJGDhoW                                                                 nytimes
+2014-06-03 18:00:33 Listening Post: U.N. Cables Reveal Turning Point in Rwanda Crisis http://t.co/wgBcQoc4As                                                     nytimes
+2014-06-03 17:14:03 Sharapova and Bouchard Gain French Open Semifinals http://t.co/pOpPSPPtlP                                                                    nytimes
+2014-06-03 17:39:32 Israel ‘Troubled’ by U.S. Plan to Work With Palestinian Unity Government http://t.co/ypwROMJ17Y                                              nytimes
+2014-06-03 17:35:27 Bits Blog: WWDC Dissected: A New Era for Apple, but an End for Some Apps http://t.co/mtKTZK9MbB                                              nytimes
+2014-06-03 16:00:21 Obama Defends Swap of Taliban for American P.O.W. http://t.co/K3bWZXIrRD                                                                     nytimes
+2014-06-03 16:26:15 Guilty Plea in Ex-Charlotte Mayor Corruption Case http://t.co/GhmkRM3SEh                                                                     nytimes
+2014-06-03 16:52:13 Ex-Mayor of Charlotte Pleads Guilty to Fraud http://t.co/voKKdmjxFr                                                                          nytimes
+2014-06-03 16:50:22 One Party, Two Factions: South’s Republicans Look a Lot Like Its 1970s Democrats http://t.co/hiHhCNJnCp                                      nytimes
+2014-06-03 16:30:08 Thanks to Facebook and Instagram, oversharing one's personal life feels as authentic as reality TV http://t.co/4yUauIJAJ4                    nytimes
+2014-06-03 16:53:18 They all share a horse named California Chrome, and they all fell hard for him in their own way http://t.co/uSUUTBjAmX                       nytimes
+2014-06-03 15:42:25 Does handwriting matter? More than you might think http://t.co/Wwjntvf2wR                                                                    nytimes
+2014-06-03 15:03:23 Global Health: No Nation Has Lowered Obesity Rate in 33 Years http://t.co/WuqBZZF0Nr                                                         nytimes
+2014-06-03 14:42:47 Essay: Filing by Computer: A Pillow Helped http://t.co/qUqClMtjkn                                                                            nytimes
+2014-06-03 14:16:35 Altaf Hussain Controls M.Q.M. Party From Exile http://t.co/stpC8h7ryv                                                                        nytimes
+2014-06-03 14:00:05 Share your predictions about who will win at the 2014 Tony Awards http://t.co/Y5f1g20g1N                                                     nytimes
+2014-06-03 14:00:11 Busy morning? Here's what you need to know to start your day. http://t.co/Ifx3rqpmri via @nytnow                                             nytimes
+2014-06-03 14:37:36 Out There: A Star-Gazing Palace’s Hazy Future http://t.co/jXyltk0uzG                                                                         nytimes
+2014-06-03 13:30:12 Jurgen Klinsmann gambles on Michael Bradley's scoring prowess for U.S. soccer http://t.co/FODMWiTgvI                                         nytimes
+2014-06-03 13:03:06 We're chatting w/NYT's Coral Davenport at 12 pm ET about Obama's climate change policy. Please send your questions to @thecaucus             nytimes
+2014-06-03 13:55:35 Republicans Weigh Odds in Primaries in Iowa and Mississippi http://t.co/T4XRzVoXVv                                                           nytimes
+2014-06-03 12:30:05 Busy morning? Here's what you need to know to start your day. http://t.co/u5wcskuZmK via @nytnow                                             nytimes
+2014-06-03 12:47:35 Obama Defends Swap of Taliban for American P.O.W. http://t.co/V9eIJbrf6V                                                                     nytimes
+2014-06-03 12:11:04 After Deadline Blog: The Small Stuff, Again http://t.co/TT6g6zNujQ                                                                           nytimes
+2014-06-03 11:40:04 New York Today: Summons Season http://t.co/4gg0ZKYjW2                                                                                        nytimes
+2014-06-03 11:00:08 Busy morning? Here's what you need to know to start your day. http://t.co/pC2tybYEIz via @nytnow                                             nytimes
+2014-06-03 11:29:03 New Fighting Reported in Eastern Ukraine http://t.co/sYBBxseVqn                                                                              nytimes
+2014-06-03 11:55:16 In Debate Over Coal, Lessons From ’90s Tobacco Fight http://t.co/sF4yLqZzbs                                                                  nytimes
+2014-06-03 11:08:06 Automating Cybersecurity http://t.co/gpIW0fZk2n                                                                                              nytimes
+2014-06-03 11:18:32 Euro Zone Edges Closer to Dreaded Deflation http://t.co/C80zn37FG8                                                                           nytimes
+2014-06-03 10:31:27 Strategy and Objectives for Gaining Soldier’s Release Shifted Over Time http://t.co/P1mVtv6GNh                                               nytimes
+2014-06-03 10:20:45 Your Fellow Americans: How to Succeed in Washington Without Really Trying http://t.co/MAhtgSHDZ5                                             nytimes
+2014-06-03 10:21:00 City Room: New York Today: Summons Season http://t.co/I8lwu7vXD1                                                                             nytimes
+2014-06-03 10:47:02 Obama, in Warsaw, Pledges Solidarity With Eastern Europe http://t.co/7GSIXHPSqN                                                              nytimes
+2014-06-03 09:38:22 Fearing Converts to Terrorism, France Intercepts Citizens Bound for Syria http://t.co/8kLmehlWYV                                             nytimes
+2014-06-03 09:17:56 Amid Fear and Pressure, Syrians Vote for President http://t.co/Bk289rXuOP                                                                    nytimes
+2014-06-03 09:59:57 In California Chrome’s Barn, a Hopeful Network of Relative Strangers http://t.co/X6ecHhB5Bi                                                  nytimes
+2014-06-03 08:15:38 Report Calls for Huge Investment in Energy Development http://t.co/j3pgrxj0S5                                                                nytimes
+2014-06-03 08:36:06 Hospital Charges Surge for Common Ailments, Data Shows http://t.co/y6TYF9Z3im                                                                nytimes
+2014-06-03 07:18:05 Anger Among Indians After Killings of 2 Girls http://t.co/COJOIqbOod                                                                         nytimes
+2014-06-03 07:45:03 Recorded noise might offer clues to missing plane http://t.co/7glRrluTP3                                                                     nytimes
+2014-06-03 07:54:08 Citing Pressure and Threats, Egypt’s Answer to Jon Stewart Calls It Quits http://t.co/cWBlWUp3PW                                             nytimes
+2014-06-03 06:20:04 Calling an ordinary health problem a disease leads to bigger problems http://t.co/XLyQXvJfdx                                                 nytimes
+2014-06-03 06:41:01 At Belmont Stakes, Tom Durkin Will Try a Final Time for a Triple Crown Call http://t.co/hA12C6VNsQ                                           nytimes
+2014-06-03 06:56:35 A Long Island Institution Is Cooling Its Ovens http://t.co/kFJY6jjaNj                                                                        nytimes
+2014-06-03 05:12:17 De Blasio Family Begins Move to Gracie Mansion http://t.co/rrrCe4HLQL                                                                        nytimes
+2014-06-03 05:59:33 Bowe Bergdahl’s Vanishing Before Capture Angered His Unit http://t.co/gD6ayvekFR                                                             nytimes
+2014-06-03 04:50:42 Birds Leave Nest Involuntarily, and Oakland Fumes http://t.co/ngUwFsMOEE                                                                     nytimes
+2014-06-03 04:20:09 How to get girls into coding http://t.co/7fI1roXMvL via @nytopinion http://t.co/XMa8OyHM4L                                                   nytimes
+2014-06-03 04:30:08 Seattle approves $15 minimum wage, setting a new standard for big cities http://t.co/c2PBZLKpQe                                              nytimes
+2014-06-03 04:10:05 After 5 months of sales, Colorado sees the downside of a legal high http://t.co/oqIOK4JZwK                                                   nytimes
+2014-06-03 03:00:09 Why you hate work http://t.co/hkFs0mkbnJ http://t.co/OcRfYoM6CR                                                                              nytimes
+2014-06-03 03:30:09 A journey north to explore how the U.S. has been changed by immigration http://t.co/YWiPOyJP0u http://t.co/TdarzlABSt                        nytimes
+2014-06-03 03:59:10 Yes, all men: Fighting sexism and misogyny isn't just women's work http://t.co/nrF7Z55huf                                                    nytimes
+2014-06-03 03:10:10 Neighbors don't love the 33-foot-tall statue of a naked woman ripped open to reveal a fetus http://t.co/OyekUtC6ej                           nytimes
+2014-06-03 03:09:04 After a 6-year-old and 7-year-old were stabbed, apparently at random, a community searches for a killer http://t.co/PI79sp8qQF               nytimes
+2014-06-03 03:40:05 In Internet-connected home can make your life more convenient. But what happens when hackers knock? http://t.co/SzwFSMEjJx                   nytimes
+2014-06-03 03:50:06 One night a week, a hidden lap dance party opens up in Manhattan (Photo: Richard Perry/NYT) http://t.co/EJAUzWCfqB http://t.co/NdvkKJFc81    nytimes
+2014-06-03 03:04:20 DealBook: French Officials Twist U.S. Arms in Bank Inquiry http://t.co/lBQsSjgGMe                                                            nytimes
+2014-06-03 03:20:01 A tattoo parlor in Maryland gives women with breast cancer a realistic nipple replacement http://t.co/j4WkoWNk4m                             nytimes
+2014-06-03 02:40:04 Is global warming real? Most Americans say yes http://t.co/LAsMy9cbjV                                                                        nytimes
+2014-06-03 02:50:08 Does handwriting matter? More than you might think http://t.co/xA27YShBz7                                                                    nytimes
+2014-06-03 01:00:09 Challenger, Columbia, and the nature of calamity http://t.co/XLivOohKQs                                                                      nytimes
+2014-06-03 01:01:41 New U.S. Effort to Aid Unaccompanied Child Migrants http://t.co/6sExaMwlhw                                                                   nytimes
+2014-06-05 03:46:05 You're locked in a room and you've only got 60 minutes to escape http://t.co/J7ldGTcYzV                                                      nytimes
+2014-06-05 03:30:12 Next time you work out, try to have fun http://t.co/eIqwpQVmbC                                                                               nytimes
+2014-06-05 03:58:06 "This is not your boyfriend's shirt. This is your shirt." http://t.co/NjmGAiSIF9                                                             nytimes
+2014-06-05 02:15:09 For weeks a boy's brain was swelling with fluid. An experimental DNA test saved him http://t.co/z14wJ9zCEs                                   nytimes
+2014-06-05 02:31:08 Don Zimmer Dies at 83; Spent 60 Years in Baseball http://t.co/P759viMojO                                                                     nytimes
+2014-06-05 02:03:05 The NYT obituary for Don Zimmer http://t.co/ezpXMq1u70                                                                                       nytimes
+2014-06-05 02:47:04 A journey north to explore how the U.S. has been changed by immigration http://t.co/SFfWCDgItb http://t.co/bPZMTZVKUn                        nytimes
+2014-06-05 02:32:10 The World Cup draw was unfair. What if there were a better way? http://t.co/63Zrh8FwBg http://t.co/qleUvxQ5Rf                                nytimes
+2014-06-05 01:00:11 Walmart executives who held upper management jobs during a corruption scandal have quietly departed http://t.co/M12pdxkQ4O                   nytimes
+2014-06-05 01:59:07 Rebel fighters in Ukraine's troubled east scored a major victory http://t.co/XZV0OrZ76y                                                      nytimes
+2014-06-05 01:47:09 In a video released by the Taliban, Bowe Bergdahl is told "Don't come back" as he is released http://t.co/rOOcdEllwi                         nytimes
+2014-06-05 01:16:02 "Military attack is not a priority for Americans now," Iran's supreme leader said http://t.co/IzzCp6ZGNN                                     nytimes
+2014-06-05 01:28:23 Spurs and Heat Starting Where What-Ifs Left Off http://t.co/x59nxCbpn0                                                                       nytimes
+2014-06-05 00:43:06 A NYT reporter went biking around Tiananmen Square with a video camera. He got caught: http://t.co/8Yri3LcqCz                                nytimes
+2014-06-05 00:15:06 Mississippi primary is headed to a runoff between a six-term senator and his Tea Party challenger http://t.co/grVNKr0TfH                    nytimes
+2014-06-05 00:28:08 The fight over sugary drinks could determine whether NYC remains a pioneer in public health http://t.co/NSrqqaLsGu                           nytimes
+2014-06-05 00:41:02 Open Source: Assad’s Soft-Focus Vision for Syria, as Seen on YouTube http://t.co/kTQ3pDX7dC                                                  nytimes
+2014-06-03 00:14:34 Inquiry Finds Violations by Ex-Brooklyn Prosecutor and Judge in Campaign http://t.co/lpW2Fl5K2K                                              nytimes
+2014-06-03 00:47:05 Recalling Maya Angelou’s Love of Cooking http://t.co/8zfahhoyWW                                                                              nytimes
+2014-06-03 00:00:05 25 years later, new details emerge of army's chaos before Tiananmen Square http://t.co/cyX463xX1O                                            nytimes
+2014-06-03 00:30:05 Drink these wines, then talk about them with @EricAsimov in Wine School http://t.co/clKbmSlvLi                                               nytimes
+2014-06-04 23:43:39 In Ukraine, Separatist Militia With Russian Fighters Holds a Key http://t.co/G7u41QJYtu                                                      nytimes
+2014-06-04 23:21:24 Police Link Knife Recovered in Children’s Stabbing to Offender in DNA Registry http://t.co/60Ehegbq9N                                        nytimes
+2014-06-04 23:59:02 A 16-year-old staggered toward a police station after he was shot. No one could save him http://t.co/Dbh2zovPOT                              nytimes
+2014-06-04 22:30:04 For fans of Zara, there's nothing wrong with zimitation http://t.co/zqc22LaTkt                                                               nytimes
+2014-06-04 22:30:28 DealBook: Sprint and T-Mobile Agree on Terms of $32 Billion Deal http://t.co/9xbFbJCV5r                                                      nytimes
+2014-06-04 22:15:18 Your Evening Briefing is ready for you. http://t.co/9VXMRpRXmA via @nytnow                                                                   nytimes
+2014-06-04 21:30:02 "This is not your boyfriend's shirt. This is your shirt." http://t.co/dxlWOXOx3X                                                             nytimes
+2014-06-04 21:04:59 DealBook: Appeals Court Overturns Decision to Reject S.E.C.-Citigroup Settlement http://t.co/vrkPpqPXV0                                      nytimes
+2014-06-04 21:17:33 In First, Quick DNA Test Diagnoses a Boy’s Illness http://t.co/3F1oVJNJ2d                                                                    nytimes
+2014-06-04 21:53:55 N.R.A. Backs Away From Criticism of Open-Carry Advocates http://t.co/ixqsVfBfCt                                                              nytimes
+2014-06-04 21:59:06 James Bond gets all the glory, but Pussy Galore wore it best http://t.co/WdZbxlSpwg                                                          nytimes
+2014-06-04 21:46:05 How the NYT reported on 11 Triple Crown winners http://t.co/0nF49qI50I                                                                       nytimes
+2014-06-04 21:38:09 Supreme Court Rebuffs Call to End Same-Sex Marriages in Oregon http://t.co/5yhVu4Hbp5                                                        nytimes
+2014-06-04 21:16:04 In a Broadway theater that last put on "Annie," Tupac Shakur's songs have been woven into a musical http://t.co/ElgkdwizMb                   nytimes
+2014-06-04 20:03:05 Photo from 1983: Peekaboo http://t.co/aaVMKbigoY                                                                                             nytimes
+2014-06-04 20:24:18 Venice Mayor Is Arrested on Corruption Charges http://t.co/Tqb52AsVyp                                                                        nytimes
+2014-06-04 19:15:07 The great zebra migration http://t.co/lPaSNsi6eX                                                                                             nytimes
+2014-06-04 19:23:23 New York and L.A.: Together Again, in a Sports Final http://t.co/Y8woFNArPE                                                                  nytimes
+2014-06-04 19:43:41 How Jurgen Klinsmann Plans to Make U.S. Soccer Better (and Less American) http://t.co/UBGmZttCAR                                             nytimes
+2014-06-04 19:02:24 The Getaway: How Not to Pay the Price for Free Wi-Fi http://t.co/ViMmYCTlsm                                                                  nytimes
+2014-06-04 18:28:07 You're locked in a room and you've only got 60 minutes to escape http://t.co/8KbARgiKkY                                                      nytimes
+2014-06-04 18:15:26 TV Apps Are Soaring in Popularity, Report Says http://t.co/83Fiu7DbRY                                                                        nytimes
+2014-06-04 18:59:08 If Henrik Lundqvist has to use his head to stop the puck, he will http://t.co/0WfOhYsky5 http://t.co/2tpzNMQjrf                              nytimes
+2014-06-04 18:03:09 Hillary Clinton says she has "moved on" from the Monica Lewinsky scandal http://t.co/jUOdrWlhuh                                              nytimes
+2014-06-04 18:16:13 A Fight to Limit Sugary Drinks Enters Its Final Round http://t.co/xfsZ2uuarf                                                                 nytimes
+2014-06-04 17:44:12 A journey north to explore how the U.S. has been changed by immigration http://t.co/HjfrgpyK6P http://t.co/AmvQeiBpi6                        nytimes
+2014-06-04 17:33:24 Losing Weight May Require Some Serious Fun http://t.co/VFztQr1jgA                                                                            nytimes
+2014-06-04 17:06:07 A few years ago, Beyoncé was like any other record-breaking pop star. Then something changed. http://t.co/q1V3IuDdBL http://t.co/E1TREWoPVH  nytimes
+2014-06-04 17:17:04 The NYPD and Manhattan D.A. have begun an unusually close partnership to drive down crimes other than murder http://t.co/zCBXX9JTKl          nytimes
+2014-06-04 16:46:04 If you're not having fun when you work out, you may have trouble losing weight http://t.co/PcvYyu6qEQ                                        nytimes
+2014-06-04 16:47:48 ArtsBeat: Musée Picasso in Paris Names New President http://t.co/2i9URGZsKT                                                                  nytimes
+2014-06-04 16:05:24 ‘Holler if Ya Hear Me’ Uses Songs by Tupac Shakur http://t.co/S1rUkhPYQW                                                                     nytimes
+2014-06-04 16:19:49 Obama is on the defensive for claiming he had the authority to swap 5 detainees for Bowe Bergdahl http://t.co/vdouDOCRIi                     nytimes
+2014-06-04 16:29:07 The World Cup draw was unfair. What if there was a better way? http://t.co/YS1mjM8Voe http://t.co/YbteZTb4CF                                 nytimes
+2014-06-04 15:08:11 Midterm Calculus: Democrats Shouldn’t Dream in Mississippi, Where a Runoff Looms http://t.co/oVqBIMCBp9                                      nytimes
+2014-06-04 15:45:13 California Chrome Draws No. 2 Post for Belmont Stakes http://t.co/x6oyFyEMQS                                                                 nytimes
+2014-06-04 15:44:09 Did the search for Sgt. Bowe Bergdahl cost the lives of American soldiers? http://t.co/sa0WL0yFGc                                            nytimes
+2014-06-04 15:20:10 A NYT reporter went biking around Tiananmen Square today with a video camera. He got caught: http://t.co/nnWwa2ooJx                          nytimes
+2014-06-04 15:29:22 Dozens of Suspected Gang Members Arrested in Raid of 2 Harlem Housing Projects http://t.co/9QuuyfTqPw                                        nytimes
+2014-06-04 14:32:22 Appeals Court Says Judge Wrongly Rejected S.E.C.-Citigroup Accord http://t.co/uPE49qHR7G                                                     nytimes
+2014-06-04 14:11:44 Rebels in Eastern Ukraine Capture Government Posts http://t.co/ilyoYKfzzM                                                                    nytimes
+2014-06-04 14:37:28 Thad Cochran and Chris McDaniel Tied in Primary http://t.co/mlxgempJN0                                                                       nytimes
+2014-06-04 14:59:08 Results from last night's primary elections in Mississippi, Iowa, California and other states http://t.co/CkqeyM3a56                         nytimes
+2014-06-04 14:19:04 How the NYT covered the Tiananmen Square crackdown  in China 25 years ago http://t.co/lAYKo6gQNp                                             nytimes
+2014-06-04 14:00:13 Busy morning? Here's what you need to know to start your day. http://t.co/jdMxzQkypx via @nytnow                                             nytimes
+2014-06-04 14:10:05 What happened to one student leader who didn't go to Tiananmen Square in 1989? He got very rich http://t.co/k0XFaZ9hfE                       nytimes
+2014-06-04 14:29:04 On Taliban video, Sgt. Bowe Bergdahl is told "Don't come back" as he is released http://t.co/Y415GS5jW6                                      nytimes
+2014-06-04 13:44:01 Wave of Minors on Their Own Rush to Cross Southwest Border http://t.co/7ArXi6DfLL                                                            nytimes
+2014-06-04 13:24:38 Sec of State Kerry in Lebanon to Show US Support http://t.co/Z3mSmA69E0                                                                      nytimes
+2014-06-04 13:55:06 With 99% of the vote counted in the Mississippi GOP Senate primary, there was no clear winner http://t.co/JESX3z4g7z                         nytimes
+2014-06-04 12:30:09 Busy morning? Here's what you need to know to start your day. http://t.co/YqjT8Qx5wa via @nytnow                                             nytimes
+2014-06-04 12:51:19 Day 18: Celebrations of Life http://t.co/qBlRVWCpy7                                                                                          nytimes
+2014-06-04 12:16:35 Hillary Clinton Says She Has ‘Moved On’ From Lewinsky Scandal http://t.co/KXXFF7tbtj                                                         nytimes
+2014-06-04 11:56:17 Lithuania Moves Closer to Joining Euro Zone http://t.co/IPaHATnG7B                                                                           nytimes
+2014-06-04 11:30:07 New York Today: Honoring our Civil Servants http://t.co/Lhz9fgt2FW                                                                           nytimes
+2014-06-04 11:09:08 Crowds Gather in Hong Kong to Mark 25th Anniversary of Tiananmen Killings http://t.co/e7O3rAxWU7                                             nytimes
+2014-06-04 11:00:07 Busy morning? Here's what you need to know to start your day. http://t.co/BTsVajyRtD via @nytnow                                             nytimes
+2014-06-04 10:17:08 City Room: New York Today: Honoring our Civil Servants http://t.co/ukYQ55n565                                                                nytimes
+2014-06-04 10:38:18 Taliban Video Shows Handover of US Soldier http://t.co/CBdS1DKMU9                                                                            nytimes
+2014-06-04 10:58:33 Taliban Video Shows Handover of U.S. Soldier http://t.co/NAEuOqQkTv                                                                          nytimes
+2014-06-04 09:57:00 Sather Is Used to Stanley Cup Finals, if Not With the Rangers http://t.co/CbYSdkgPVA                                                         nytimes
+2014-06-04 09:35:35 Can Bowe Bergdahl Be Tied to 6 Lost Lives? Facts Are Murky http://t.co/AktJcZvmPq                                                            nytimes
+2014-06-04 09:14:29 In Show of Support, Obama Meets With Ukraine Leader http://t.co/YIodKFIPgE                                                                   nytimes
+2014-06-04 09:10:30 Open Source: American Jailed in Egypt Appeals to Obama for Help http://t.co/p9CnDE0V7z                                                       nytimes
+2014-06-04 09:35:39 Schopfheim Journal: A Growing Challenge for Germans Who Live by Bread Alone http://t.co/xeDq1o4hU5                                           nytimes
+2014-06-04 08:26:55 Upscale Dairies Grow in India, Promising Safer Milk http://t.co/g4Qr1AvQQ0                                                                   nytimes
+2014-06-04 08:28:25 Kashkari Beats Tea Party Foe in California Governor Race http://t.co/3XhL3fGkrP                                                              nytimes
+2014-06-04 08:06:14 Restaurant Review: The Simone on the Upper East Side http://t.co/nPELoGNzCA                                                                  nytimes
+2014-06-04 08:49:12 Former Prosecutor in Brooklyn Was Consumed by Campaign, Emails Show http://t.co/qT0EVxks1G                                                   nytimes
+2014-06-04 07:20:05 Times Coverage of Tiananmen Square 25 Years Ago http://t.co/PjwhGsIPtv                                                                       nytimes
+2014-06-04 07:46:06 Ultralow inflation in the euro zone could do more harm than good to economic recovery http://t.co/gjxxuxXe95                                 nytimes
+2014-06-04 07:31:11 Europe Struggles to Avoid Deflation’s Grip http://t.co/7Xt2qS1JwO                                                                            nytimes
+2014-06-04 06:39:00 In New Jersey, a Republican Nominee Will Try to Hold On to a Congressional Seat http://t.co/omXHMC5a4K                                       nytimes
+2014-06-04 06:15:04 Narendra Modi's personal style could reflect his vision for India's future http://t.co/Dre0bwX2W4 via @NYTFashion                            nytimes
+2014-06-04 06:59:40 Shot Yards Away From Police Station, a Teenager Collapses and Dies http://t.co/TMjgOs0aVy                                                    nytimes
+2014-06-04 04:28:22 Theater Review: A War on Boredom in ‘The Sonic Life of a Giant Tortoise’ http://t.co/ISd1NTsrL1                                              nytimes
+2014-06-04 04:30:02 As attentions turn to newer telescopes, a California observatory is fighting to stay relevant http://t.co/kImtvWlkUx                         nytimes
+2014-06-04 03:50:55 Michigan Senate Passes Plan to Ease Detroit Pension Cuts http://t.co/AwB0FMY62B                                                              nytimes
+2014-06-04 03:15:06 A few years ago, Beyoncé was like any other record-breaking pop star. Then something changed. http://t.co/83fnHCxIEZ http://t.co/vKG98Zw6GR  nytimes
+2014-06-04 03:30:07 Instagram is rolling out a set of new tools that will let you easily enhance your photos http://t.co/yFarw5XL0X                              nytimes
+2014-06-04 02:00:12 We picked 52 places to go in 2014. Readers picked a 53rd http://t.co/0WTCfIAkvr                                                              nytimes
+2014-06-04 02:48:31 JPMorgan Corporate Challenges See Growth in Popularity and Gamesmanship http://t.co/u8BaNYE1y1                                               nytimes
+2014-06-04 02:30:08 A journey north to explore how the U.S. has been changed by immigration http://t.co/MwsbkjkfHV http://t.co/KeJmoF8OgO                        nytimes
+2014-06-04 03:00:04 Follow California primary election results as the votes are counted http://t.co/3VnADj8xOm                                                   nytimes
+2014-06-04 02:59:12 Relatives of Victims of Drone Strikes Drop Appeal http://t.co/k1r5VewEAP                                                                     nytimes
+2014-06-04 02:01:28 Prisoner Deal Puts President on Defensive http://t.co/vjAGDVjo9t                                                                             nytimes
+2014-06-04 01:45:09 If you can learn to love chiles -- and tame them -- you can use them in your daily cooking, says @bittman http://t.co/5uHSBQ8l6X             nytimes
+2014-06-04 01:15:05 Photo from 1958: New York's skyline, greatly reduced by fog  http://t.co/uT0POE9cBb                                                          nytimes
+2014-06-04 01:19:34 G.M. Officials Say They Expect Mary Barra Will Be Cleared of Wrongdoing http://t.co/khweFDt5NP                                               nytimes
+2014-06-04 00:48:03 In Escape Rooms, Video Games Meet Real Life http://t.co/DexuISj43D                                                                           nytimes
+2014-06-04 00:46:52 Analysis by NYT reporters of the votes as they're counted in Mississippi, Iowa and other states http://t.co/11nBJ4a6w6                       nytimes
+2014-06-04 00:00:09 Follow Mississippi primary election results as they come in http://t.co/sZzbV5DWU8                                                           nytimes
+2014-06-04 13:27:59 Introducing NYT Opinion, a standalone subscription to our opinion section, and a new iPhone app. Give it a try: http://t.co/rptGpEGz4P       nytimes
+2014-06-05 18:48:27 Breaking News: Senators Announce Accord on Improving Veterans’ Care http://t.co/NgJi6c5GJW                                                   nytimes
+2014-06-05 17:05:42 Breaking News: Bergdahl Walked Away Before, Military Report Says http://t.co/pq6VRUb4Ka                                                      nytimes
+2014-06-05 13:11:04 Breaking News: G.M. Says Its Inquiry Found No Cover-Up on Switch Flaw http://t.co/j1552W5dpa                                                 nytimes
+2014-06-05 11:53:59 Breaking News: European Central Bank Cuts Deposit Rate to Negative http://t.co/KAfzJfqj6x                                                    nytimes
+2014-06-05 00:41:54 Breaking News: New York Police Arrest Suspect in Child Stabbing Case http://t.co/pEe8R39m4O                                                  nytimes
+2014-06-06 23:24:55 Federal Judge Strikes Down Wisconsin's Ban on Gay Marriage http://t.co/Xs1EPiri4p                                                            nytimes
+2014-06-06 23:20:40 U.S. to Provide Lawyers for Children Facing Deportation http://t.co/XhxPdcBR1m                                                               nytimes
+2014-06-06 22:21:55 T Magazine: Tavi Forever http://t.co/ufFhZpVT5v                                                                                              nytimes
+2014-06-06 22:45:05 The names of the colors of soccer cleats these days sound like smoothie flavors http://t.co/rjy5okqA1a                                       nytimes
+2014-06-06 22:59:15 Australia is the World Cup's unluckiest country http://t.co/e5NxyX2mje http://t.co/75AVgym6W8                                                nytimes
+2014-06-06 22:15:06 How Commencement Speeches Go Viral http://t.co/S16AhJMkcT                                                                                   nytimes
+2014-06-06 21:15:13 Maybe you need a good cry. We're here to help http://t.co/tXDdm6sD6M                                                                         nytimes
+2014-06-06 21:08:34 Hundreds Gather to Remember 6-Year-Old Victim of Brooklyn Stabbing http://t.co/qc5FGh3QeM                                                    nytimes
+2014-06-06 21:59:06 I was promised flying cars http://t.co/vZK3OdUhjl                                                                                            nytimes
+2014-06-06 21:55:51 Group of Catholic and Orthodox Officials Endorses Marriage for Some Priests http://t.co/bFLWHyPksH                                           nytimes
+2014-06-06 21:43:21 A ‘Modern-Day Knight’ Who Helped Fleeing Tiananmen Activists http://t.co/e6qM3QMJa3                                                          nytimes
+2014-06-06 20:46:05 There are 2 types of people in the world: those who despised summer camp and those who loved it http://t.co/CJ5dL6kL04                       nytimes
+2014-06-06 20:27:01 Photos: The World Cup hairdo hall of fame http://t.co/b2hE9c7VxL                                                                             nytimes
+2014-06-06 20:21:31 Susan Rice Affirms View That P.O.W. Served With ‘Honor’ http://t.co/fOq0TEhpOL                                                               nytimes
+2014-06-06 20:27:02 One of the more fun scenes from "The Fault in Our Stars" http://t.co/tApjnyQryB                                                              nytimes
+2014-06-06 20:13:04 A journey north to explore how the U.S. has been changed by immigration http://t.co/niOCyRrWFA http://t.co/jWypMEbEUX                        nytimes
+2014-06-06 19:59:03 The NYT review of "Orange Is the New Black" Season 2 http://t.co/zdQXXOrLtm                                                                  nytimes
+2014-06-06 19:14:23 G.M. Response to a Fatal Flaw Was to Shrug http://t.co/AOjXiMDXK1                                                                            nytimes
+2014-06-06 19:26:09 The NYT review of "The Fault in Our Stars" http://t.co/0r0NvrBCI6                                                                            nytimes
+2014-06-06 19:34:54 Tavi Gevinson Grows Up http://t.co/Nd79fI6Nkn                                                                                                nytimes
+2014-06-06 18:16:27 Brooklyn Will Vie to Host 2016 Democratic National Convention, de Blasio Says http://t.co/QiaYgUdZPu                                         nytimes
+2014-06-06 18:43:02 Photo from 1970: The moment the World Trade Center became the world's tallest building http://t.co/SgAS9tsyZc                                nytimes
+2014-06-06 18:43:04 The NYT review of "Edge of Tomorrow" http://t.co/hgWKF4ajYi                                                                                  nytimes
+2014-06-06 18:52:43 State Department Ramps Up Efforts Against Boko Haram http://t.co/roV3BYEOXo                                                                  nytimes
+2014-06-06 17:35:07 Eight hours a day, he rescues items that people dropped on the subway tracks http://t.co/wuCnaA3ezG                                          nytimes
+2014-06-06 17:55:28 DealBook: Uber Raises New Funds at $17 Billion Valuation http://t.co/mJ7Na9M34Z                                                              nytimes
+2014-06-06 17:41:08 How the recession reshaped the economy http://t.co/cySeZsJBJE http://t.co/QxS7hW79in                                                         nytimes
+2014-06-06 17:15:12 The jobs don't pay enough and the rents are insane. Now NYC's young add student loans to their misery http://t.co/7I1tdL6Ygp                 nytimes
+2014-06-06 17:59:06 Photos: The 11 horses that won the Triple Crown http://t.co/CX88tbR4kd                                                                       nytimes
+2014-06-06 16:43:06 On Wednesday, police searched for traces of the man charged with stabbing 2 children in Brooklyn http://t.co/rxajDSzJeB                      nytimes
+2014-06-06 16:14:10 There is a ghost haunting soccer in Brazil http://t.co/eXSQgwAg31 http://t.co/pm2NNAKIvk                                                     nytimes
+2014-06-06 16:27:08 Autocorrect has come a long wa http://t.co/64Tt1RvUVt                                                                                        nytimes
+2014-06-06 15:29:08 Pakistan Suspends License of Leading TV News Channel http://t.co/kFwDC0cEaV                                                                  nytimes
+2014-06-06 15:07:55 Leaders Gather to Honor D-Day Normandy Landing http://t.co/AnuZLzrzul                                                                        nytimes
+2014-06-06 15:35:05 Bowe Bergdahl's hometown in Idaho is waiting for all the facts to come out http://t.co/mIU4L7bFE3                                            nytimes
+2014-06-06 15:59:09 Tavi Gevinson is embarking on her next project: being a grown-up (Photo: Hendrik Kerstens) http://t.co/ePC5Ct3co3 http://t.co/QwKItf0JdC     nytimes
+2014-06-06 15:49:50 Bits Blog: Vodafone Reveals Direct Access by Governments to Customer Data http://t.co/4hB4xqveTI                                             nytimes
+2014-06-06 14:10:48 5th Batch of Clinton-Era Papers to Be Released http://t.co/WSxb1yFcnU                                                                        nytimes
+2014-06-06 14:36:37 The Public Editor's Journal: The Politics of the P.O.W. Coverage http://t.co/8UKIIVortN                                                      nytimes
+2014-06-06 14:36:36 Recovery in Need of a Recovery: Good News on Jobs. Why Aren’t We Happier? http://t.co/EoTkWr3npr                                             nytimes
+2014-06-06 14:59:52 The NYT obituary for Chester Nez, the last of the original Navajo code talkers http://t.co/yV3C3moXSV                                        nytimes
+2014-06-06 14:00:17 Busy morning? Here's what you need to know to start your day. http://t.co/bDL8UGzH2u via @nytnow                                             nytimes
+2014-06-06 14:15:52 Leaders Gather to Honor D-Day Normandy Landing http://t.co/goGILanhRz                                                                        nytimes
+2014-06-06 13:09:18 War’s Elite Tough Guys, Hesitant to Seek Healing http://t.co/S5U8DSEFTe                                                                      nytimes
+2014-06-06 13:44:50 Hot Arena Plays Role for Heat and Spurs in Game 1 of N.B.A. Finals http://t.co/QUvJhN0QYc                                                    nytimes
+2014-06-06 13:41:10 70 years later, four veterans of the largest amphibious invasion in history recall their experiences http://t.co/eGANpdSGJW via @nytopinion  nytimes
+2014-06-06 13:24:20 Seattle Pacific University Students Stopped Gunman http://t.co/sEmnqHTFyG                                                                    nytimes
+2014-06-06 12:10:08 How The NYT covered the D-Day landing 70 years ago http://t.co/dLRAXFlVjH                                                                    nytimes
+2014-06-06 12:48:35 U.S. Added 217,000 Jobs in May; Unemployment Rate Remains 6.3% http://t.co/tGzcW5q58b                                                        nytimes
+2014-06-06 12:30:08 Busy morning? Here's what you need to know to start your day. http://t.co/CoVfGZu1K4 via @nytnow                                             nytimes
+2014-06-06 12:12:35 Retiring: For Some Retirees, a Second Act Is Easier Than Expected http://t.co/RDWRDHzr3U                                                     nytimes
+2014-06-06 12:17:46 Singing Nun Wins Italian TV Talent Show http://t.co/orq3Cod1di                                                                               nytimes
+2014-06-06 11:56:46 Bomb Hits Convoy With Afghan Presidential Candidate http://t.co/F0l9S8PO0g                                                                   nytimes
+2014-06-06 11:22:02 Obama Honors Moment of Liberation in Normandy http://t.co/JmW6f42GXo                                                                         nytimes
+2014-06-06 11:36:01 Day 20: The Politics of Crime and Immigration http://t.co/qRkv8HllL9                                                                         nytimes
+2014-06-06 11:00:05 Busy morning? Here's what you need to know to start your day. http://t.co/Z1a5EbiVzP via @nytnow                                             nytimes
+2014-06-06 10:40:05 Openness on Israeli Issues Seen in Survey of Iranians http://t.co/DUmXezCOs2                                                                 nytimes
+2014-06-06 10:43:56 City Room: New York Today: Don’t Fear the Mosquitoes http://t.co/C6ZBxZ4kj2                                                                  nytimes
+2014-06-06 10:18:58 About New York: Tense Search, Chilling Note and an Arrest in Brooklyn Stabbings http://t.co/NCXW3ezCD4                                       nytimes
+2014-06-06 09:20:37 World Leaders and Veterans to Gather at D-Day Beaches http://t.co/hvH3iESTcq                                                                 nytimes
+2014-06-06 09:47:05 How the recession reshaped the economy in 255 charts http://t.co/M9gT6rDJl9 http://t.co/m7OVpLiCwT                                           nytimes
+2014-06-06 09:05:00 Bombs Close to Presidential Rally in Kabul Injure Bodyguards http://t.co/2p6T9G8TnQ                                                          nytimes
+2014-06-06 09:57:15 Memories of D-Day, Replayed on the Normandy Coast http://t.co/hv1W5eHjAN                                                                     nytimes
+2014-06-06 09:13:05 Harvard confirms a book in one of its libraries is bound in human skin http://t.co/0nA4ClwBvU                                                nytimes
+2014-06-06 08:12:07 Suspect Arrested in Rampage That Left 3 Canadian Officers Dead http://t.co/ZeWnTVLA1i                                                        nytimes
+2014-06-06 08:12:33 Shoo-Ins Are Few in Heated Tony Race http://t.co/0Q61Hu3koP                                                                                  nytimes
+2014-06-06 08:32:04 36 hours in Canberra, Australia http://t.co/cCTB1cY9ga                                                                                       nytimes
+2014-06-06 08:52:50 Yekaterinburg Journal: Where Some May Say No Thanks for the Memories http://t.co/5dwFjQ6Ij3                                                  nytimes
+2014-06-06 07:51:40 DealBook: Fund Manager Sets Goats Grazing in Blighted Detroit http://t.co/4tsYIXV93n                                                         nytimes
+2014-06-06 07:17:02 Europe gets negative interest rates. What does that even mean? http://t.co/VUYm66jtiu                                                        nytimes
+2014-06-06 07:41:04 70 years later, four veterans of the largest amphibious invasion in history recall their experiences http://t.co/0qFuyNxTpb via @nytopinion  nytimes
+2014-06-06 06:33:20 North Korea Detains Another American http://t.co/0LVbprr9r3                                                                                  nytimes
+2014-06-06 06:56:05 Narendra Modi has succeeded in associating his personal style with his political platform http://t.co/qfjU5bYtKy                             nytimes
+2014-06-06 06:22:07 The World Cup draw was unfair. What if there were a better way? http://t.co/TG2UDm2Jbw http://t.co/hFFIGJQq2C                                nytimes
+2014-06-06 05:25:08 Chester Nez Dies at 93; Navajo Words Once Washed From His Mouth Helped Win War http://t.co/tYgLlqDrHc                                        nytimes
+2014-06-06 05:46:27 The Triple Crown Eleven http://t.co/eVli5PK6nh                                                                                               nytimes
+2014-06-06 04:08:15 Nigerian Sect Kills Villagers Along Border http://t.co/IYMDSOXQuR                                                                            nytimes
+2014-06-06 04:42:07 Books of The Times: ‘Carsick,’ a Hitchhiking Memoir by John Waters http://t.co/ze3DYXzLrm                                                    nytimes
+2014-06-06 04:21:06 What does Lionel Messi have to do to make Argentina love him? http://t.co/VA4ByFrrxR http://t.co/lRtAqpNhx2                                  nytimes
+2014-06-06 03:15:25 Shaken, G.I.’s Hometown Waits for All the Facts http://t.co/F0k4O6plBg                                                                       nytimes
+2014-06-06 18:10:45 Breaking News: Brooklyn Will Seek to Host 2016 Democratic National Convention http://t.co/p6HYTYYZ4E                                         nytimes
+2014-06-06 12:34:10 Breaking News: U.S. Added 217,000 Jobs in May; Unemployment Rate Remains 6.3% http://t.co/4CWWUs6VFe                                         nytimes
+2014-06-08 23:00:18 Should the Tony Awards nomination process be changed? http://t.co/2ABOIKiM03                                                                 nytimes
+2014-06-08 23:16:06 Tony Awards updates and analysis from NYT journalists on our blog http://t.co/U42mZMkKpl                                                     nytimes
+2014-06-08 23:32:06 Follow us on @nytimestheater for live updates on the Tony Awards                                                                             nytimes
+2014-06-08 23:45:09 In terms of fans, the Miami Heat have already beaten the San Antonio Spurs http://t.co/2l2TJsuESf http://t.co/q9UB2VoTnW                     nytimes
+2014-06-08 23:59:04 Tony Awards updates and analysis from NYT journalists on our blog http://t.co/iaohBPbl0i                                                     nytimes
+2014-06-08 22:00:15 5 Dead in Las Vegas Shootings http://t.co/PTSgFz6VuD                                                                                         nytimes
+2014-06-08 22:25:06 Last chance to fill out your NYT Tony Awards ballot http://t.co/GeTVrHysO2                                                                   nytimes
+2014-06-08 22:43:07 The fastest-growing group of stay-at-home dads stay home by choice, not because they can't find jobs http://t.co/fnqVPYo1Ie                  nytimes
+2014-06-08 22:36:44 Three Dead and Two Injured in Las Vegas Shootings http://t.co/DAUMH72rPW                                                                     nytimes
+2014-06-08 22:14:05 People are streaming broadcast television on their smartphones in record numbers http://t.co/xi41NwvNHB                                      nytimes
+2014-06-08 21:46:04 It's not too late to fill out your NYT Tony Awards ballot http://t.co/SviQ7HFefL                                                             nytimes
+2014-06-08 21:33:58 ArtsBeat: 2014 Tony Awards: Live Coverage http://t.co/eki5nrit17                                                                             nytimes
+2014-06-08 21:11:06 We're gearing up to cover the Tony Awards live on @NYTimesTheater                                                                            nytimes
+2014-06-08 21:18:26 Pope Holds Vatican Prayer Summit With Israeli and Palestinian Leaders http://t.co/MfrW0HpN2h                                                 nytimes
+2014-06-08 20:10:23 You Don't Have to Hate Your Job http://t.co/WjvWOLAO39                                                                                       nytimes
+2014-06-08 20:43:07 Instagram is rolling out a set of new tools that will let you easily enhance your photos http://t.co/7jrjkWbTUW                              nytimes
+2014-06-08 20:30:25 Not a Happy Camper http://t.co/2fwgkP3C4j                                                                                                    nytimes
+2014-06-08 20:31:55 Fatal Encounter Near Drunken Monkey Is Under Investigation http://t.co/BZlOc59Q3Y                                                            nytimes
+2014-06-08 20:59:08 Making Tony Awards predictions is unusually difficult this year http://t.co/EmrMAgXczt                                                       nytimes
+2014-06-08 19:29:13 Gunmen Attack Karachi Airport, Killing at Least 4 Guards http://t.co/fSDqodpF7D                                                              nytimes
+2014-06-08 19:58:04 Making computers smart enough to fight off hackers http://t.co/qSDB1njkMB                                                                    nytimes
+2014-06-08 19:03:07 Slow-roasted Moroccan lamb, without the barbecue spit. http://t.co/bUqHnV2T2z (Photo: Fred R. Conrad for NYT) http://t.co/1noh9ivFwF         nytimes
+2014-06-08 19:23:02 Wisconsin won't pardon him for breaking a man's nose. But the victim forgave him http://t.co/VO1WIQQAKj                                      nytimes
+2014-06-08 18:42:37 Tibetan Exiles a Source of Tension in China-India Ties http://t.co/1LLqlSskij                                                                nytimes
+2014-06-08 18:19:18 ‘Redeemer: The Life of Jimmy Carter’ and ‘A Call to Action’ http://t.co/uX4scAo2Fv                                                           nytimes
+2014-06-08 18:45:04 How to watch the World Cup like a true fanatic, or at least sound like one http://t.co/pkkofvWZcG http://t.co/V5FbLlJz8v                     nytimes
+2014-06-08 18:27:05 Day 22: A Changing Ethnic Landscape http://t.co/14hYi73uG1                                                                                   nytimes
+2014-06-08 18:32:23 Motherlode Blog: A Plea to the Daughters of Title IX: Why Don’t More Women Coach? http://t.co/lTFVZ82Qqs                                     nytimes
+2014-06-08 17:59:08 How a New York City high school is tackling cyberbullying http://t.co/uRtqdC4oHf                                                             nytimes
+2014-06-08 17:00:14 A few years ago, Beyoncé was like any other record-breaking pop star. Then something changed. http://t.co/s9ZRV3bTp3 http://t.co/Osn3GE618L  nytimes
+2014-06-08 17:12:02 An unusual public disagreement inside the N.R.A. about the tactics of protesters was exposed last week http://t.co/jIbQPRo3GM                nytimes
+2014-06-08 17:30:13 Follow @NYTimesTheater for live coverage of the Tony Awards tonight                                                                          nytimes
+2014-06-08 17:35:01 With Tough Tone, Kerry Defends Swap for Bergdahl http://t.co/mJAM43raNb                                                                      nytimes
+2014-06-08 16:24:02 Economic growth has been stronger in 9 states where carbon emissions have fallen more quickly http://t.co/CrUC0wVLaG http://t.co/V8y91RmtCc  nytimes
+2014-06-08 16:44:29 Urged to Multiply, Iranian Couples Are Dubious http://t.co/VRlDtalGic                                                                        nytimes
+2014-06-08 16:52:49 Rafael Nadal Wins French Open http://t.co/E1YUeFFuv5                                                                                         nytimes
+2014-06-08 15:59:04 There is a ghost haunting soccer in Brazil http://t.co/FidQDijVrh http://t.co/qvnsAy5n6w                                                     nytimes
+2014-06-08 15:17:03 Sylvia Mathews Burwell, the new Health and Human Services chief, is never far from her roots http://t.co/snQ0FPbScV                          nytimes
+2014-06-08 15:50:02 Sisi Sworn In as Egypt’s President http://t.co/FlHAC0MDJD                                                                                    nytimes
+2014-06-08 15:43:09 Hillary Clinton's new book is a finely calibrated portrait of the ex-secretary of state as a policy wonk http://t.co/HxXvWKjggM              nytimes
+2014-06-08 15:13:22 Outside Money Floods Alaska in Senate Race http://t.co/35x9O43dqp                                                                            nytimes
+2014-06-08 14:59:04 How the recession reshaped the economy in 255 charts http://t.co/zM8HGjSwrd http://t.co/aN8jSg1NED                                           nytimes
+2014-06-08 14:13:06 It's not too late to fill out your NYT Tony Awards ballot http://t.co/XMlDOMrBHi                                                             nytimes
+2014-06-08 14:44:48 World Cup Crib Sheet: Picking a Winner http://t.co/PxmtC58cWS                                                                                nytimes
+2014-06-08 14:32:07 How to Succeed in Washington Without Really Trying http://t.co/EU9OT1huc2                                                                    nytimes
+2014-06-08 13:12:07 Stephen King rejects and replaces the creakiest devices of the hard-boiled detective novel http://t.co/9YD9XTqfnf                            nytimes
+2014-06-08 13:34:39 United States 2, Nigeria 1: U.S. Displays Improvement Across the Field and a Breakthrough at the Front http://t.co/mTPrEcnUi0                nytimes
+2014-06-08 13:33:05 The so-called War on Coal is reminiscent of the War on Tobacco fought during the 1990s http://t.co/xfjcujSKmi                                nytimes
+2014-06-08 13:57:07 "We cannot win this World Cup, because we are not at that level yet." - Jurgen Klinsmann http://t.co/GzVE0JNZuk                              nytimes
+2014-06-08 12:32:33 ArtsBeat: 2014 Tony Awards: Hugh Jackman on His Hosting Plans and Why He Prefers Musicals to Movies http://t.co/TL7xeW19aH                   nytimes
+2014-06-08 12:48:09 A little-known side effect of menopause appears to be writing books, but one ranks among the most amusing http://t.co/1bpn8zCU20             nytimes
+2014-06-08 12:00:10 Follow @NYTimesTheater for live coverage of the Tony Awards this evening                                                                     nytimes
+2014-06-08 11:40:52 Sunday Routine: Bernard Telsey: The Shows Must Go on http://t.co/SPNDoRChgx                                                                  nytimes
+2014-06-08 11:20:15 In South Sudan, a Ghost of Wars Past: Child Soldiers http://t.co/Ooxy7AgpTF                                                                  nytimes
+2014-06-08 10:45:15 Seeing Squalor and Unconcern in Southern Jail http://t.co/onXUOz3Cru                                                                         nytimes
+2014-06-08 10:59:12 Pope Kicks Off Mideast Peace Summit of Prayer http://t.co/YLhSILIaeO                                                                         nytimes
+2014-06-08 10:02:19 Bergdahl Was in Unit Known for Its Troubles http://t.co/NgkDq6fDLu                                                                           nytimes
+2014-06-08 10:14:07 What does Lionel Messi have to do to make Argentina love him? http://t.co/5QyFIVNWJK http://t.co/lRtAqpNhx2                                  nytimes
+2014-06-08 09:17:06 Cruz Fires Up G.O.P. Delegates in Texas http://t.co/JzrPST2dvw                                                                               nytimes
+2014-06-08 09:52:05 Photos: The World Cup hairdo hall of fame http://t.co/yiEed2ELN9                                                                             nytimes
+2014-06-08 08:29:49 Sharpton Warns Against Race-Baiting in New York Contest http://t.co/xcN9qJzMyI                                                               nytimes
+2014-06-08 08:20:42 G.M. Lawyers Hid Fatal Flaw, From Critics and One Another http://t.co/89GNpJDc3U                                                             nytimes
+2014-06-08 08:56:22 Riches Come to Women as C.E.O.s, but Few Get There http://t.co/mpeFVjR3jX                                                                    nytimes
+2014-06-08 08:35:00 Egypt’s Sisi Sworn In as President http://t.co/4eR5dwu2Q2                                                                                    nytimes
+2014-06-08 07:38:43 In Some States, Emissions Cuts Defy Skeptics http://t.co/wrXlnmEuWJ                                                                          nytimes
+2014-06-08 07:16:58 Prototype: Planting for Profit, and Greater Good http://t.co/ljlwXYVaqL                                                                      nytimes
+2014-06-08 07:13:38 Haiti Elections in Doubt as Ex-Presidents Stir Pot http://t.co/OfaNZf4Gg5                                                                    nytimes
+2014-06-08 07:59:34 Big City: For de Blasio, Deals, Drama and (Maybe) Progress http://t.co/xU3jzHhFv8                                                            nytimes
+2014-06-08 06:53:22 Sunni Insurgency Shows Muscle Across Iraq http://t.co/tRqeceWWDg                                                                             nytimes
+2014-06-08 06:14:01 Performing Without Net: Stars of YouTube Take to the Stage http://t.co/l74Vyvr1ux                                                            nytimes
+2014-06-08 06:33:06 Fill out your NYT Tony Awards ballot http://t.co/l0FdKGMd64                                                                                  nytimes
+2014-06-08 05:52:44 Kings Work on Ice, but Most Live on the Beach http://t.co/svNhDGqKzj                                                                         nytimes
+2014-06-08 05:06:26 Kings 5, Rangers 4, 2OT: Kings Again Take the Lead Only When Necessary: At the End http://t.co/1rzz67PkEo                                    nytimes
+2014-06-08 05:18:05 While suicides for the rest of the active-duty military decline, they have risen for America's elite troops http://t.co/xNnJpV65jU           nytimes
+2014-06-08 05:32:38 Novak Djokovic’s First French Open Title Would Deny Rafael Nadal His Ninth http://t.co/AN2ad7o2I7                                            nytimes
+2014-06-06 03:02:03 Director Josh Boone narrates a scene from "The Fault in Our Stars" http://t.co/zXgDqgEoAT                                                    nytimes
+2014-06-06 03:48:06 How Jurgen Klinsmann plans to make U.S. soccer better (and less American) http://t.co/l3eyXAEaWp                                             nytimes
+2014-06-06 03:32:35 Faces of an Immigration System Overwhelmed by Women and Children http://t.co/1Loz89PHUh                                                      nytimes
+2014-06-06 02:52:04 The NYT review of "Edge of Tomorrow" http://t.co/D940aPEMGM                                                                                  nytimes
+2014-06-06 02:24:13 The Burden of Being Messi http://t.co/bTr1HbGQy3                                                                                             nytimes
+2014-06-06 02:33:05 A journey north to explore how the U.S. has been changed by immigration http://t.co/1MCVRWqcCr http://t.co/BHZcd42SkJ                        nytimes
+2014-06-06 02:13:06 The NYT review of "Orange Is the New Black" season 2 http://t.co/vLCtGoaedh                                                                  nytimes
+2014-06-06 01:52:44 Girl, 7, Recovering From Elevator Stabbing http://t.co/gg5e2SHhBl                                                                            nytimes
+2014-06-06 01:37:24 Shooting Leaves One Dead at Seattle Pacific University http://t.co/ZF9vwoK9Wo                                                                nytimes
+2014-06-06 01:16:07 How the recession reshaped the economy in 255 charts http://t.co/uFv7Xtmatr http://t.co/4y2IipnSDR                                           nytimes
+2014-06-06 01:49:04 The NYT review of "The Fault in Our Stars" http://t.co/VoTQH0h7gM                                                                            nytimes
+2014-06-06 00:04:28 In Memoir, Hillary Clinton Discusses Russia, Syria and Iraq http://t.co/MY3MxBOCiX                                                           nytimes
+2014-06-06 00:45:26 One Killed in Seattle Campus Shooting http://t.co/S6WZenWFpe                                                                                 nytimes
+2014-06-06 00:48:07 Times Haiku: "It may not be what you want to hear all the time, but what's right is right." http://t.co/DrJYNS9hkv                           nytimes
+2014-06-06 00:27:10 How to watch the World Cup like a true fanatic, or at least sound like one http://t.co/WzMTqymAcy http://t.co/zNJwXw3sfI                     nytimes
+2014-06-06 00:18:04 How a New York City high school is tackling cyberbullying http://t.co/2Y9VS2Y4JM                                                             nytimes
+2014-06-07 23:00:54 Breaking News: Tonalist Wins Belmont Stakes, Denying Triple Crown for California Chrome http://t.co/XF5nJgtN64                               nytimes
+2014-06-07 21:21:40 Breaking News: Driver Charged in Crash That Killed 1 and Critically Injured the Comedian Tracy Morgan http://t.co/clLQPlBkCa                 nytimes
+2014-06-07 16:19:06 Breaking News: Maria Sharapova Wins French Open http://t.co/GoWYX53Afl                                                                       nytimes
+2014-06-08 04:15:05 Maybe you need a good cry. We're here to help http://t.co/9ifafdJL0m                                                                         nytimes
+2014-06-08 04:30:05 The World Cup draw was unfair. What if there were a better way? http://t.co/HujlGSveNQ http://t.co/JooegqAkwb                                nytimes
+2014-06-08 04:43:09 A Tupac for everyone http://t.co/yu4TCqm6pK                                                                                                  nytimes
+2014-06-08 04:59:09 The NYT review of Hillary Clinton's "Hard Choices" http://t.co/X04mWFn2aR                                                                    nytimes
+2014-06-08 03:30:15 How the recession reshaped the economy in 255 charts http://t.co/YbvTKmsgja http://t.co/4rnnWebiv8                                           nytimes
+2014-06-08 03:16:04 80 miles from New Orleans, an island is vanshing http://t.co/LxaIxTlJo4                                                                      nytimes
+2014-06-08 03:59:05 The NYT review of "Orange Is the New Black" Season 2 http://t.co/iwsdyx4n3W                                                                  nytimes
+2014-06-08 03:46:03 Tavi Gevinson grows up http://t.co/Z6Kye3Mw7j                                                                                                nytimes
+2014-06-08 02:14:06 What's black and white and makes a 310-mile round trip? http://t.co/0emM8Efz9R                                                               nytimes
+2014-06-08 02:59:07 A tattoo parlor in Maryland gives women with breast cancer a realistic nipple replacement http://t.co/sX1Tu0I8jW                             nytimes
+2014-06-08 02:44:04 Revisting the heartache of the day in 1986 when Challenger's 7 astronauts slipped the surly bonds of Earth http://t.co/MsvqNF9FvX            nytimes
+2014-06-08 02:30:10 There is a ghost haunting soccer in Brazil http://t.co/mx9epPfExW http://t.co/MkAM2P32kM                                                     nytimes
+2014-06-08 01:30:07 A journey north to explore how the U.S. has been changed by immigration http://t.co/INZnG6YLWY http://t.co/qScktlU8L1                        nytimes
+2014-06-08 01:22:46 Stephen King’s ‘Mr. Mercedes’ http://t.co/xuKbFqd20F                                                                                         nytimes
+2014-06-08 01:59:02 One of the more fun scenes from "The Fault in Our Stars"  http://t.co/YZxdtJ9TRH                                                             nytimes
+2014-06-08 01:46:02 Different ecosystems provide $142.7 trillion of services to humanity each year http://t.co/LWICXhDeFy                                        nytimes
+2014-06-08 01:16:05 What does Lionel Messi have to do to make Argentina love him? http://t.co/C2xNT9WRVX http://t.co/lRtAqpNhx2                                  nytimes
+2014-06-08 01:50:08 Follow @NYTimesTheater for live coverage of the Tony Awards on Sunday                                                                        nytimes
+2014-06-08 01:48:16 Though Not Quietly, Kentucky Moves to Cut Reliance on Coal http://t.co/HUTYezZRmo                                                            nytimes
+2014-06-08 01:38:12 As Bowe Bergdahl Heals, Details Emerge of His Captivity http://t.co/aForFZUQY8                                                               nytimes
+2014-06-08 00:59:14 A few years ago, Beyoncé was like any other record-breaking pop star. Then something changed. http://t.co/yCVli7BADH http://t.co/1rBqRSRgAM  nytimes
+2014-06-08 00:17:06 They were having sex. He had a heart attack. She packed his bag and it showed him what love really means http://t.co/G9dpK2bEN0              nytimes
+2014-06-08 00:25:44 Cleveland Clinic Chief Out of Running for V.A. http://t.co/CMVAfcMDBO                                                                        nytimes
+2014-06-08 00:56:50 Books of The Times: Hillary Clinton’s Book ‘Hard Choices’ Portrays a Tested Policy Wonk http://t.co/SlzMqZqzrc                               nytimes
+2014-06-08 00:43:09 If you want to play Rocky Balboa on Broadway, this is what you'll have to do http://t.co/WqvtBjhlBG                                          nytimes
+2014-06-08 00:30:11 "We cannot win this World Cup, because we are not at that level yet." - Jurgen Klinsmann http://t.co/ZFpjqSYPni                              nytimes
+2014-06-09 23:50:34 The Public Editor's Journal: More on Kristof, Bergdahl and Risen http://t.co/IcbHjWhzpT                                                      nytimes
+2014-06-09 23:03:26 Knicks Hire Derek Fisher as Coach http://t.co/teErOxEEI7                                                                                     nytimes
+2014-06-09 23:30:15 Where to watch the World Cup in New York, based on which team you're rooting for http://t.co/bbEGwu1KnW                                      nytimes
+2014-06-09 23:00:06 Look anew at historical sports photographs from The New York Times http://t.co/PrJauwbERP                                                    nytimes
+2014-06-09 22:30:04 Noncompete clauses are increasingly popping up in an array of jobs http://t.co/nVJAdCCQVu                                                    nytimes
+2014-06-09 22:01:13 The Best Iced Latte in America? http://t.co/iCDj5iKxUf                                                                                       nytimes
+2014-06-09 21:29:42 Prime Real Estate at the Cemetery Is a Plot Next to an Idol http://t.co/LYRI9yVQd7                                                           nytimes
+2014-06-09 20:24:26 Equipment made for war is ending up in local police departments http://t.co/669H8tS8M0 http://t.co/xyApDR4WLN                                nytimes
+2014-06-09 20:42:20 Second Chinese Army Unit Implicated in Cyberattacks http://t.co/lchFzT0z1z                                                                   nytimes
+2014-06-09 20:00:32 A Chilling Medical Trial http://t.co/Yz9LUI5mSo                                                                                              nytimes
+2014-06-09 19:02:47 Syrian leader declares "general amnesty" for prisoners http://t.co/kXs1ou7rp1                                                                nytimes
+2014-06-09 19:45:10 Russia and Ukraine Meet on Natural Gas Pricing Dispute http://t.co/42nU1mlxjg                                                                nytimes
+2014-06-09 19:36:37 What a merged Sprint and T-Mobile would look like for customers http://t.co/cEAGHEIFyA                                                       nytimes
+2014-06-09 18:05:31 V.A. Audit Finds Long Waits for Care Are Widespread http://t.co/QS1WVT8i93                                                                   nytimes
+2014-06-09 18:24:59 Russians Yearning to Join Ukraine Battle Find Lots of Helping Hands http://t.co/XaqYU4JIOD                                                   nytimes
+2014-06-09 18:42:02 Driver Charged in Tracy Morgan Crash Had Not Slept in 24 Hours, Prosecutors Say http://t.co/RXQmYTbfLD                                       nytimes
+2014-06-09 18:31:15 Couple in Las Vegas Killings Embraced Anti-Government Ideology http://t.co/lvmYhflkpM                                                        nytimes
+2014-06-09 17:29:46 Apprehension and Apathy Compete With Excitement in Brazil http://t.co/0qd918LsMq                                                             nytimes
+2014-06-09 17:11:20 "Game of Thrones" recap: A coming-out party for Jon Snow, who knows nothing http://t.co/3q7DewR4EX                                           nytimes
+2014-06-09 17:18:10 Video of Mass Sexual Assault Taints Egypt Inauguration http://t.co/E4CtxEjiji                                                                nytimes
+2014-06-09 17:49:39 Detroit Automakers Pledge $26 Million to Help Save City’s Art http://t.co/EpQV0LnE14                                                         nytimes
+2014-06-09 16:55:59 World's oldest man, born in 1903, dies at 111 http://t.co/JjEpWgFme2 (Photo: Damon Winter/NYT) http://t.co/xw3Qnrzjet                        nytimes
+2014-06-09 16:40:21 Photo from 1973: When the Brooklyn Bridge needs a makeover, its stylists have to conquer their fear of heights http://t.co/UjhtPIPwLH        nytimes
+2014-06-09 15:17:50 Understanding Ed O’Bannon’s Suit Against the N.C.A.A. http://t.co/Ci4UD7LP9I                                                                 nytimes
+2014-06-09 15:39:08 End of Altidore’s Slump Lifts U.S. Hopes http://t.co/NPATmXTMHN                                                                              nytimes
+2014-06-09 15:01:53 On the Runway Blog: From DigiFest to the Tonys, Fashion’s Major Missed Opportunities http://t.co/If82p2eTnl                                  nytimes
+2014-06-09 15:54:23 Well: Outsmarting Breast Cancer With Evolving Therapies http://t.co/CMUwhpQ7nn                                                               nytimes
+2014-06-09 14:56:31 Japan Seeks to Squelch Its Tiny Cars http://t.co/wqa7adkGm6                                                                                  nytimes
+2014-06-09 14:14:44 Stars of Vine and Instagram Get Advertising Deals http://t.co/EdN3FllcTM                                                                     nytimes
+2014-06-09 14:36:16 Lens Blog: Photographing a ‘Difficult Love’ in South Africa http://t.co/RRoQcZAwgD                                                           nytimes
+2014-06-09 14:00:14 Busy morning? Here's what you need to know to start your day. http://t.co/lsvUmvLApc via @nytnow                                             nytimes
+2014-06-09 13:25:38 Port Authority Land Purchase Is Boon to Bayonne, and Christie http://t.co/vtvC8nKAUd                                                         nytimes
+2014-06-09 13:48:33 DealBook: Netflix Investors to Vote on C.E.O.-Chairman Split http://t.co/cw9fJ3cfIc                                                          nytimes
+2014-06-09 13:04:14 Critic’s Notebook: Putting On a Show at the Tonys http://t.co/83qFfA4RBB                                                                     nytimes
+2014-06-09 12:30:04 Busy morning? Here's what you need to know to start your day. http://t.co/bfVrLw1Pyh via @nytnow                                             nytimes
+2014-06-09 12:44:05 Photos: Looks from the Tony Awards red carpet http://t.co/3SM5IL1DFT                                                                         nytimes
+2014-06-09 12:29:58 An American Life, Lived in Shadows http://t.co/wlpelCmPU6                                                                                    nytimes
+2014-06-09 12:29:09 The full list of 2014 Tony Awards winners http://t.co/0S9eL3vlCG                                                                             nytimes
+2014-06-09 12:40:18 As World Cup Arrives, Some Brazilians Play an Acrobatic Variation of the Game http://t.co/z7HwRGfaZ5                                         nytimes
+2014-06-09 12:15:07 The best entertainment to be had at the Tony Awards was in the unfamiliar segments http://t.co/uwweVAWMyV                                    nytimes
+2014-06-09 11:59:05 War Gear Flows to Police Departments http://t.co/g9BabahUVc                                                                                  nytimes
+2014-06-09 11:37:34 In Texarkana, Uninsured and on the Wrong Side of a State Line http://t.co/H1ggwJoWEw                                                         nytimes
+2014-06-09 11:11:29 Moscow Court Sentences 5 to Prison for Contract Killing of Journalist http://t.co/MrqifxYGSd                                                 nytimes
+2014-06-09 11:32:04 Face of the N.C.A.A., Battered Early and Often http://t.co/lYAa7xxilA                                                                        nytimes
+2014-06-09 10:40:28 Time Inc. to Set a Lonely Course After a Spinoff http://t.co/xAtfDpdUnm                                                                      nytimes
+2014-06-09 10:19:08 City Room: New York Today: Ain’t No Sunshine http://t.co/9HiEY2yjvE                                                                          nytimes
+2014-06-09 10:45:11 Taliban Claim Responsibility for Pakistan Airport Attack http://t.co/19uYno4DUZ                                                              nytimes
+2014-06-09 09:00:24 London Journal: As a British Pastime Is Revived, Some Critters Get Second Lives http://t.co/zc6jvvQxBG                                       nytimes
+2014-06-09 07:17:08 The full list of 2014 Tony Awards winners http://t.co/g7Oomj0gEf                                                                             nytimes
+2014-06-09 07:31:08 The Media Equation: Free Music, at Least While It Lasts http://t.co/55pYjqfY82                                                               nytimes
+2014-06-09 07:26:04 Photos: Looks from the Tony Awards red carpet http://t.co/QxHYkKRUN1                                                                         nytimes
+2014-06-09 06:54:20 In Crown Heights, Once Torn by Race Riots, a Friendly Game of Soccer http://t.co/8TVU65rNUD                                                  nytimes
+2014-06-09 05:25:24 In Argentina, Wine, Art and Altitude http://t.co/Bhbp4WoDyp                                                                                  nytimes
+2014-06-09 05:45:49 Rift Deepens Over Claims of Infiltration by Islamic Extremists in British Schools http://t.co/Dyht4jD5Fy                                     nytimes
+2014-06-09 05:04:41 Noncompete Clauses Increasingly Pop Up in Array of Jobs http://t.co/qMqg9Dg6Np                                                               nytimes
+2014-06-09 04:28:02 The full list of 2014 Tony Awards winners http://t.co/dTFzcdKD6e                                                                             nytimes
+2014-06-09 04:44:00 World’s Oldest Man, Though Only Briefly, Dies at 111 in New York http://t.co/eL18qr3HMm                                                      nytimes
+2014-06-09 04:13:09 Audra McDonald and Neil Patrick Harris Win Acting Honors http://t.co/Fs6D8dzWVh                                                              nytimes
+2014-06-09 03:52:42 Steve Coburn Lashes Out at Racing Industry, Capping an Emotional Five Weeks http://t.co/Gswjwg53xl                                           nytimes
+2014-06-09 03:17:07 Photos: Looks from the Tony Awards red carpet http://t.co/Fznaq1hyvx                                                                         nytimes
+2014-06-09 03:31:04 You don't have to hate your job http://t.co/MSxUdKGJJH                                                                                       nytimes
+2014-06-09 03:31:53 Heat 98, Spurs 96: James and the Heat Coolly Even the N.B.A. Finals http://t.co/ruFu1WUUOV                                                   nytimes
+2014-06-09 03:06:43 Milwaukee Suburb Tries to Cope With Girl’s Stabbing http://t.co/CdPSlHpRqg                                                                   nytimes
+2014-06-09 02:52:35 Gretchen Morgenson on the Problems at G.M. http://t.co/AQYCobaDAl                                                                            nytimes
+2014-06-09 02:59:09 A few years ago, Beyoncé was like any other record-breaking pop star. Then something changed. http://t.co/HYcrPqfUAm http://t.co/TLcW1iaXKz  nytimes
+2014-06-09 02:28:07 There is a ghost haunting soccer in Brazil http://t.co/cP7r4H9n0e http://t.co/WZkibf5Xzz                                                     nytimes
+2014-06-09 02:13:52 Pinehurst Course, Back to Its Original Shaggy Self, Is Set for Close-Up http://t.co/5FYVTsgoYI                                               nytimes
+2014-06-09 02:48:45 Watching the World’s Game, in the World’s City http://t.co/rRgeOTLJp7                                                                        nytimes
+2014-06-09 02:16:02 The NYT review of Hillary Clinton's "Hard Choices"  http://t.co/kUUSTpMfjc                                                                   nytimes
+2014-06-09 01:12:23 Cyberattack Insurance a Challenge for Business http://t.co/05RmFhYPhq                                                                        nytimes
+2014-06-09 01:31:05 Mexico is the World Cup's luckiest country http://t.co/8tqe9aftrf http://t.co/0vBmyY8U9x                                                     nytimes
+2014-06-09 01:58:37 Five Dead in Shooting Rampage in Las Vegas http://t.co/Vhqa7LTy48                                                                            nytimes
+2014-06-09 01:41:02 Have you ever been afraid your child may become violent? We'd like to hear from you http://t.co/7wbpP8OQIx                                   nytimes
+2014-06-09 01:59:03 How Commencement Speeches Go Viral http://t.co/tb7g0j7k0Z                                                                                    nytimes
+2014-06-09 00:59:07 Australia is the World Cup's unluckiest country http://t.co/hlkgWNgOWE http://t.co/uvsmzYwWDB                                                nytimes
+2014-06-09 00:37:16 All Eyes Are on Neymar at the World Cup in Brazil http://t.co/9PMaWfWikM                                                                     nytimes
+2014-06-09 00:03:08 Follow us on @nytimestheater where we're covering the Tony Awards until the curtain drops                                                    nytimes
+2014-06-09 00:51:15 Riverside Church Elects New Senior Minister http://t.co/8ZYj15USMh                                                                           nytimes
+2014-06-09 00:17:05 The jobs don't pay enough and the rents are insane. Now NYC's young add student loans to their misery http://t.co/yld2ZNpSQ7                 nytimes
+2014-06-08 19:22:17 Breaking News: Gunmen Attack Karachi Airport, Killing at Least 4 Guards http://t.co/Ot8DxH4LmN                                               nytimes
+2014-06-08 16:47:17 Sports Alert: Rafael Nadal Wins French Open http://t.co/wguJNnlDa6                                                                           nytimes
+2014-06-07 23:59:06 For weeks a boy's brain was swelling with fluid. An experimental DNA test saved him http://t.co/KGGPgYTxLF                                   nytimes
+2014-06-07 23:29:06 70 years later, four veterans of D-Day recall their experiences http://t.co/7pQq1azLrB via @nytopinion                                       nytimes
+2014-06-07 23:24:51 One of California Chrome's owners said horses that skipped legs of the Triple Crown took "the coward's way out" http://t.co/0aX5zksUHF       nytimes
+2014-06-07 23:16:05 Tavi Gevinson is embarking on her next project: being a grown-up (Photo: Hendrik Kerstens) http://t.co/iIsVMfHYhs http://t.co/OhZ6ZqXvu9     nytimes
+2014-06-07 23:34:08 Photo: Tonalist edged Commissioner at the wire to win the Belmont Stakes http://t.co/avdwGJHm0U                                              nytimes
+2014-06-07 23:10:05 Fill out your NYT Tony Awards ballot http://t.co/RIxXLs29va                                                                                  nytimes
+2014-06-07 23:42:08 A hazy future for California's star-gazing palace http://t.co/a75ASVBkkJ                                                                    nytimes
+2014-06-07 23:07:55 Tonalist Wins Belmont Stakes, Denying Triple Crown for California Chrome http://t.co/qn0fKmIMhX                                              nytimes
+2014-06-07 22:46:48 California Chrome's odds have risen just before the Belmont Stakes http://t.co/mgHQkv9DQM                                                    nytimes
+2014-06-07 22:51:08 Follow @NYTimesTheater for live coverage of the Tony Awards on Sunday                                                                        nytimes
+2014-06-07 22:38:08 Belmont Stakes Fans Hope for Overdue Triple Crown http://t.co/KXz1fRjiH1                                                                     nytimes
+2014-06-07 22:32:03 Breaking Down a Bid for History at the Belmont Stakes http://t.co/AQ2qsTZHyb                                                                 nytimes
+2014-06-07 22:59:02 "This is not your boyfriend's shirt. This is your shirt." http://t.co/6IFwm9UKLJ                                                             nytimes
+2014-06-07 22:26:04 Photos: The 11 horses that won the Triple Crown http://t.co/fw5A3vYAAV                                                                       nytimes
+2014-06-07 22:00:17 California Chrome takes a run at the Triple Crown in the Belmont Stakes http://t.co/IuA4Xcy0R2                                               nytimes
+2014-06-07 22:21:05 The Belmont Stakes: Live analysis from NYT journalists ahead of California Chrome's Triple Crown bid http://t.co/gpYt3scrL3                  nytimes
+2014-06-07 22:31:37 Sports: Belmont Stakes: Live Highlights and Analysis http://t.co/2IFOCCMuTU                                                                  nytimes
+2014-06-07 22:15:07 One last shot at a Triple Crown for the voice of the Belmont race track http://t.co/oZvfe0H8oq                                               nytimes
+2014-06-07 21:14:02 They all share a horse named California Chrome, and they all fell hard for him in their own way http://t.co/XWXByObt6l                       nytimes
+2014-06-07 21:43:05 How the NYT reported on 11 Triple Crown winners http://t.co/9MKi28k9vT                                                                       nytimes
+2014-06-07 21:12:51 12 Contenders Who Just Missed Out on a Triple Crown http://t.co/PTc1iJmuWe                                                                   nytimes
+2014-06-07 21:03:47 Night Out : A Night Out With Jessica Seinfeld http://t.co/IzAmFss3Wu                                                                         nytimes
+2014-06-07 20:15:06 You're locked in a room and you've only got 60 minutes to escape http://t.co/T0cNlcUEQr                                                      nytimes
+2014-06-07 20:42:07 From 2012: An investigation found a pervasive culture of drugs and lax regulation in  horse racing http://t.co/UIVxce8NtS                    nytimes
+2014-06-07 20:10:23 Child Migrants Strain Makeshift Arizona Shelter http://t.co/a7W0qMbTPR                                                                       nytimes
+2014-06-07 19:22:04 A journey north to explore how the U.S. has been changed by immigration http://t.co/6aJk6Wcp7U http://t.co/3TuZZIGiFm                        nytimes
+2014-06-07 19:59:05 36 hours in Canberra, Australia http://t.co/VffQxVzHzr                                                                                       nytimes
+2014-06-07 19:15:05 Learning to love chiles -- and taming them -- so you can cook with them every day http://t.co/6fa1NM8LjG                                     nytimes
+2014-06-07 19:40:07 Does handwriting matter? More than you might think http://t.co/NUwQN7RFp0                                                                    nytimes
+2014-06-07 19:07:50 U.S. Crew in Honduras on River Project Is Jailed http://t.co/Yu255OeMs6                                                                      nytimes
+2014-06-07 18:37:15 For Afghan Lovers, Joy Is Brief, Ending in Arrest http://t.co/aGkuQ51qtw                                                                     nytimes
+2014-06-07 18:47:10 What happened to one student leader who didn't go to Tiananmen Square in 1989? He got very rich http://t.co/7S5wkTvXn7                       nytimes
+2014-06-07 18:34:10 Obama Plans Steps to Ease Student Debt http://t.co/O3CzA2CyWl                                                                                nytimes
+2014-06-07 18:13:00 Have you ever been afraid your child may become violent? We'd like to hear from you http://t.co/Qjab3BJzeE                                   nytimes
+2014-06-07 17:03:35 Britain Frees Pakistani in Inquiry http://t.co/qDnU5AZS5B                                                                                    nytimes
+2014-06-07 17:24:28 LeBron James Shows a Growing Willingness to Take the Lead on Social Issues http://t.co/i7E9cHO5cv                                            nytimes
+2014-06-07 17:30:14 25 years later, new details emerge of chaos in China's army before Tiananmen Square http://t.co/A2S25levp4                                   nytimes
+2014-06-07 17:44:58 On Horse Racing: With Triple Crown at Stake, Horse Racing Balances Ambition and Compassion http://t.co/yj24lum9Ii                            nytimes
+2014-06-07 17:00:12 Clams are easier to enjoy all summer long than you might think http://t.co/9ypV6TVeSW                                                        nytimes
+2014-06-07 17:59:04 Neighbors don't love the 33-foot-tall statue of a naked woman ripped open to reveal a fetus http://t.co/mCqYJADqlv                           nytimes
+2014-06-07 16:19:05 Wine School is back in session. It's time to drink riesling http://t.co/mcfg9OjoaQ                                                           nytimes
+2014-06-07 16:45:13 Fill out your NYT Tony Awards ballot http://t.co/0xAUqMtzTH                                                                                  nytimes
+2014-06-07 16:22:05 Maria Sharapova Wins French Open http://t.co/395LXDjcnI                                                                                      nytimes
+2014-06-07 16:53:15 With Nuclear Talks Sputtering, U.S. and Iran Plan Meeting http://t.co/dJpubP4yrb                                                             nytimes
+2014-06-07 15:15:08 There is a ghost haunting soccer in Brazil http://t.co/ezQBtkfAOG http://t.co/5CeCZbkUS3                                                     nytimes
+2014-06-07 15:00:17 The jobs don't pay enough and the rents are insane. Now NYC's young add student loans to their misery http://t.co/v64DaMFoC4                 nytimes
+2014-06-07 15:30:06 A Good Appetite: A Strawberry Cheesecake That Is Red and White and Pink All Over http://t.co/GG7GtPY2Ol                                      nytimes
+2014-06-07 15:51:15 City Kitchen: Lamb, Slow-Roasted the Moroccan Way, Without the Barbecue Spit http://t.co/XlmKuGjnob                                          nytimes
+2014-06-07 14:30:08 How to watch the World Cup like a true fanatic, or at least sound like one http://t.co/RucEeM2MiD http://t.co/pF5ekOhIRd                     nytimes
+2014-06-07 14:44:03 Times Haiku:But from the moment it began, brunch has been a resounding success. http://t.co/Qhw04ma1oi                                      nytimes
+2014-06-07 14:23:05 Secular Group, on Eve of Big Meeting, Fires Top Official Who Elevated Its Profile http://t.co/JbZZtX5BQw                                     nytimes
+2014-06-07 14:58:56 US Officials to Hold Direct Talks on Iran Nukes http://t.co/egYALtyjMo                                                                       nytimes
+2014-06-07 14:03:53 Report Finds Higher Risks if Oil Line Is Not Built http://t.co/Cyc21eWAuD                                                                    nytimes
+2014-06-07 13:43:05 When Mayor Bill de Blasio works out, he barely breaks a sweat http://t.co/UYVeicXMMj (Illustration: Jason Lee) http://t.co/eLHCDwtxrd        nytimes
+2014-06-07 13:13:08 How not to pay a high price for free wi-fi http://t.co/TyA7uVHlW3                                                                            nytimes
+2014-06-07 13:06:02 Student Loans Make it Hard to Rent or Buy a Home http://t.co/YCQUyOA5q8                                                                      nytimes
+2014-06-07 12:33:05 Next time you work out, try to have fun http://t.co/o1VpjsR8B4                                                                               nytimes
+2014-06-07 12:40:14 Tracy Morgan in Intensive Care After 6-Vehicle Crash http://t.co/q3xizF8V2R                                                                  nytimes
+2014-06-07 12:59:06 We picked 52 places to go in 2014. Readers picked a 53rd http://t.co/lxy3lDPyRh                                                              nytimes
+2014-06-07 12:05:07 A simple exercise that might prevent as many as 2/3 of hamstring injuries http://t.co/aN8Sf0aFYu                                             nytimes
+2014-06-07 12:44:06 New York City has formally submitted a bid to host the 2016 Democratic National Convention in Brooklyn http://t.co/JP9CRoxsaw                nytimes
+2014-06-07 11:39:05 Many patients do not finish complicated treatments for MRSA. A new single-dose therapy may be as effective  http://t.co/XuUdOmfz1k           nytimes
+2014-06-07 11:07:23 Prayer Meeting Shows Pope’s Larger Vision http://t.co/CFA8MikpCO                                                                             nytimes
+2014-06-07 11:28:05 Follow @NYTimesTheater for live coverage of the Tony Awards on Sunday                                                                        nytimes
+2014-06-07 11:58:17 Giving a Satirist of the Third Reich the Last Laugh http://t.co/e1oBEXvRh5                                                                   nytimes
+2014-06-07 11:32:00 Tracy Morgan in Intensive Care After 6-Car Crash http://t.co/fCfZMMolpF                                                                      nytimes
+2014-06-07 10:13:12 P.O.W. Deal Gives Qatar a Victory, and a New Test http://t.co/d6huLAent0                                                                     nytimes
+2014-06-07 10:47:06 Who Will Be the Next David Beckham? http://t.co/MuRmxmhuUZ                                                                                   nytimes
+2014-06-07 10:29:32 Day 21: On Woody’s Land http://t.co/SeUsbcJcdT                                                                                               nytimes
+2014-06-07 09:20:03 In Barcelona's El Raval, a rich cultural history encourages diverse styles http://t.co/yGGHFbLZH9                                            nytimes
+2014-06-07 09:52:41 Iraq Militants Storm University and Seize Students http://t.co/SfARVxXep9                                                                    nytimes
+2014-06-07 09:35:03 The World Cup draw was unfair. What if there were a better way? http://t.co/BsSoSFGiD2 http://t.co/RBRkYVGDk7                                nytimes
+2014-06-07 08:39:48 Buying Upstate New York Land, V.A. Closes Chapter in Building Cemeteries http://t.co/eezyZkOg9h                                              nytimes
+2014-06-07 08:18:56 Poroshenko Sworn In as President of Strife-Torn Ukraine http://t.co/2HIoRC20yZ                                                               nytimes
+2014-06-07 08:50:15 HistorySource: Jackie Robinson and Nixon: Life and Death of a Political Friendship http://t.co/DswDmlx8QI                                    nytimes
+2014-06-07 08:55:05 Financial implications weigh heavily on the debate over whether Scotland should be independent http://t.co/Z3IOOWLLIs                        nytimes
+2014-06-07 08:05:06 A Nigerian TV channel is the new front for the U.S.  fight against Boko Haram http://t.co/wxcf9EStQD                                         nytimes
+2014-06-09 03:10:31 Breaking News: 2014 Tony Awards: ‘Gentleman’s Guide,’ ‘All the Way’ Named Top Plays http://t.co/bDS2e9dZlw                                   nytimes
+2014-06-07 07:46:06 Narendra Modi's personal style could reflect his vision for India's future http://t.co/n2StqeWdwv                                            nytimes
+2014-06-07 07:10:07 You can't understand sexual violence in India without understanding the caste system http://t.co/bjA6rU0Mcv via @nytopinion                  nytimes
+2014-06-07 07:31:24 Pinched by Ride-Sharing Services, Cabbies Seek a National Union http://t.co/q0gRUZTykF                                                       nytimes
+2014-06-07 06:28:12 Novak Djokovic and Rafael Nadal in French Open Final http://t.co/dHAdfhYCcg                                                                  nytimes
+2014-06-07 06:08:06 In Thailand, Growing Intolerance for Dissent Drives Many to More Authoritarian Nations http://t.co/Id2uzoI1UT                                nytimes
+2014-06-07 06:49:39 A Risk-Taker's Game: Insider Trading http://t.co/3W1eojP82n                                                                                  nytimes
+2014-06-07 06:03:55 New Fire Commissioner Returns to a Challenged Department http://t.co/52QkyMaIx1                                                              nytimes
+2014-06-07 05:41:44 Maria Sharapova Is Finding Her Stride on Clay at Roland Garros http://t.co/XFgfU8GaJ0                                                        nytimes
+2014-06-07 05:17:07 Mexico is the World Cup's luckiest country http://t.co/TEYR8POJzb http://t.co/IdtzUOg2hk                                                     nytimes
+2014-06-07 05:20:52 Exhibition Review: A World War II Exhibition at the Grolier Club http://t.co/m7PpBwnmis                                                      nytimes
+2014-06-07 04:15:02 The NYT review of 50 Cent's "Power" on Starz http://t.co/z4ztgJnHUx                                                                          nytimes
+2014-06-07 04:32:07 Fill out your NYT Tony Awards ballot http://t.co/MzcwCFqSGM                                                                                  nytimes
+2014-06-07 04:59:56 Uber's True Valuation Will Be About Timing http://t.co/sjkMRPx6Mr                                                                            nytimes
+2014-06-07 04:39:06 Gunman Attacks Georgia Courthouse and Dies in Firefight, Authorities Say http://t.co/2ze5CG8i2I                                              nytimes
+2014-06-07 03:14:04 Tavi Gevinson is embarking on her next project: being a grown-up (Photo: Hendrik Kerstens) http://t.co/Q1Un3oqDsd http://t.co/n3g18FGCv9     nytimes
+2014-06-07 03:59:06 There are 2 types of people in the world: those who despised summer camp and those who loved it http://t.co/Hi2u5mdZKy                       nytimes
+2014-06-07 03:31:01 You don't have to hate your job http://t.co/ElfwJ05Dz5                                                                                       nytimes
+2014-06-07 03:47:05 I was promised flying cars http://t.co/UHjlyqQIAF                                                                                            nytimes
+2014-06-07 03:00:15 Autocorrect has come a long wa http://t.co/8L8X8cCrTC                                                                                        nytimes
+2014-06-07 02:23:03 U.N. Chief Picks Jordanian Prince for Rights Post http://t.co/fTh1p5V2ed                                                                     nytimes
+2014-06-07 02:41:09 A journey north to explore how the U.S. has been changed by immigration http://t.co/epZek8uAxr http://t.co/tp5Jh8tvNa                        nytimes
+2014-06-07 02:12:31 In Memoir, Clinton Emphasizes Her Softer Side http://t.co/ELbh25YqZL                                                                         nytimes
+2014-06-07 02:59:30 Obama Nominates Ambassadors to France and Ireland http://t.co/yEGlFPOCtT                                                                     nytimes
+2014-06-07 02:31:08 There is a ghost haunting soccer in Brazil http://t.co/jPKxhgjfJn http://t.co/1dbaSg6Dx5                                                     nytimes
+2014-06-07 02:16:08 A number of governments can tap directly into the network run by Britain's Vodafone http://t.co/ZO0nlOXFg2                                   nytimes
+2014-06-07 01:56:44 Stabbing Case Highlights Flawed System to Screen Inmates Before Release http://t.co/zvDg1PNOSg                                               nytimes
+2014-06-07 01:14:03 An unscheduled meeting between Obama and Putin suggested a new opening on Ukraine http://t.co/RasicjxxS2                                     nytimes
+2014-06-07 01:41:02 Internet Giants Erect Barriers to Spy Agencies http://t.co/BpIN5NBqlI                                                                        nytimes
+2014-06-07 01:00:09 New York City has formally submitted a bid to host the 2016 Democratic National Convention in Brooklyn http://t.co/yzBblu9MrA                nytimes
+2014-06-07 01:29:04 The jobs news today was good, so why aren't we happier? http://t.co/XG3rZWV9In                                                               nytimes
+2014-06-07 01:59:03 How The NYT covered the D-Day landing 70 years ago http://t.co/bfsFmZU3P3                                                                    nytimes
+2014-06-07 01:43:02 A Nigerian TV channel is the new front for the U.S. in the fight against Boko Haram http://t.co/vH2xQFWTVK                                   nytimes
+2014-06-07 00:33:08 Facebook Under Fire for Temporarily Blocking Pages in Pakistan http://t.co/pjDTNUjno1                                                        nytimes
+2014-06-07 00:16:05 The singing nun won the Italian TV competition, but she's ready to return to her church's choir http://t.co/0rdQ2nd64F                       nytimes
+2014-06-07 00:42:03 Eight hours a day, he rescues items that people dropped on the subway tracks http://t.co/nW9Btv8FDX                                          nytimes
+2014-06-07 00:00:05 The NYT review of "Orange Is the New Black" Season 2 http://t.co/5cpR3fD09L                                                                  nytimes
+2014-06-10 17:51:47 Breaking News: Judge Rules California Teacher Tenure Laws Unconstitutional http://t.co/PntzF0QBmC                                            nytimes
+2014-06-11 17:05:43 Breaking News: Cantor to Step Down as Majority Leader http://t.co/xuW4GcOcCj                                                                 nytimes
+2014-06-11 00:18:57 Breaking News: Eric Cantor Loses G.O.P. Primary, According to The A.P. http://t.co/IvddL3VIjP                                                nytimes
+2014-06-11 23:25:24 Iraq Asked U.S. for Airstrikes on Militants, Officials Say http://t.co/OSjuzKYYap                                                            nytimes
+2014-06-11 23:24:03 Why are Australians so optimistic about their World Cup prospects? http://t.co/azwvTKeA4x http://t.co/O0X6ZH46uQ                             nytimes
+2014-06-11 22:06:36 Kristen Wiig &amp; Annie Mumolo have agreed to team up for their first big movie since "Bridesmaids" http://t.co/a3oUb5Smn2                  nytimes
+2014-06-11 22:54:21 ‘Bridesmaids’ Writers Team Up for New Comedy http://t.co/kK9GeZTMGz                                                                          nytimes
+2014-06-11 22:12:44 Truck Driver Pleads Not Guilty in Tracy Morgan Car Crash http://t.co/GkBK4NmbIj                                                              nytimes
+2014-06-11 22:30:09 When you're forging priceless works of art, don't forget to spellcheck the artist's signature http://t.co/08ElBHfI05                         nytimes
+2014-06-11 21:11:07 With Mideast in Crisis, Militant Force Gains Strength http://t.co/8PPQroTN1R                                                                 nytimes
+2014-06-11 20:50:55 George R. R. Martin Wants More ‘Game of Thrones,’ Too http://t.co/Wsc487IbK3                                                                 nytimes
+2014-06-11 20:25:07 A new book captures the qualities that make Antonin Scalia an unusually divisive Supreme Court justice http://t.co/S5LOCJ2dzM                nytimes
+2014-06-11 20:17:04 A Fight as U.S. Girls Face Genital Cutting Abroad http://t.co/GlTAc1GLEJ                                                                     nytimes
+2014-06-11 20:39:46 Two Activists Within Mormon Church Threatened With Excommunication http://t.co/c46wetAE2r                                                    nytimes
+2014-06-11 20:13:28 The Public Editor's Journal: Why Didn’t the Data-Driven Media See Eric Cantor’s Defeat Coming? http://t.co/frIEEJ5fmQ                        nytimes
+2014-06-11 19:22:38 An Honest Answer From David Brat http://t.co/rI5a4kOBUi                                                                                      nytimes
+2014-06-11 19:21:18 Midterm Calculus: Did Democratic Voters Defeat Eric Cantor? Probably Not http://t.co/En7x8YCTjG                                              nytimes
+2014-06-11 19:00:23 State of the Art: With Uber’s Cars, Maybe We Don’t Need Our Own http://t.co/Y4R2kQAa2l                                                       nytimes
+2014-06-11 19:59:10 George R.R. Martin wants more "Game of Thrones," too (Photo: Colby Katz for NYT) http://t.co/2IoZoUI1yx http://t.co/DvTPOsIk4g               nytimes
+2014-06-11 19:40:30 Lobbyists Connected to Eric Cantor Are About to Take a Pay Hit http://t.co/SmagkabyYG                                                        nytimes
+2014-06-11 19:30:10 Half a billion years ago, your ancestors may have looked like this: http://t.co/qgvOyPYzq4                                                   nytimes
+2014-06-11 18:39:42 Bits Blog: Your Personality Type, Defined by the Internet http://t.co/7ROa7CH6Wr                                                             nytimes
+2014-06-11 18:14:07 There are 3 books Hillary Rodham Clinton wishes all students would read: http://t.co/cKCuR5eYmt                                              nytimes
+2014-06-11 18:49:51 Bergdahl Discharged From Coast Guard Before Joining Army http://t.co/d5Y1GhDrJP                                                              nytimes
+2014-06-11 18:43:06 Democratic spoilers probably didn't cost Eric Cantor his seat in Congress http://t.co/C0hz0dJF8e http://t.co/1BqsqXT1ln                      nytimes
+2014-06-11 18:59:04 A journey north to explore how the U.S. has been changed by immigration http://t.co/HyAVYz9Vvl http://t.co/s7T6xuf1K5                        nytimes
+2014-06-11 17:58:08 5 Charged With Robbing Men in Strip Club Scheme http://t.co/h2QMbFvv2m                                                                       nytimes
+2014-06-11 17:11:30 ArtsBeat: ‘Fargo’ Recap: It’s a Turducken http://t.co/TdxwgCHdgu                                                                             nytimes
+2014-06-11 17:55:08 Dave Chappelle doesn't need a new television show to make a comeback http://t.co/hCG2gmWwCA                                                  nytimes
+2014-06-11 17:59:07 Photos: Seeing red in the gene pool http://t.co/DErZzRMqzd                                                                                   nytimes
+2014-06-11 17:00:11 Argentina, the U.S. and Iran share something at the Wold Cup: They are most disliked http://t.co/xenolVjseZ                                  nytimes
+2014-06-11 17:31:55 Eric Cantor's Voting Record: Angering Allies Is Part of the Job http://t.co/VHo3vm57SH                                                       nytimes
+2014-06-11 17:37:39 David Brat Was Aided by Influential Figures Like Laura Ingraham http://t.co/WJ97UIQpDL                                                       nytimes
+2014-06-11 17:43:06 The NYT review of Bobby Flay's new restaurant, Gato http://t.co/L5EhnXuuWH                                                                   nytimes
+2014-06-11 16:28:05 Many of us overestimate how hard we actually exercise http://t.co/onRerutNmN                                                                 nytimes
+2014-06-11 16:17:09 An F.D.A. ruling on cheese has produced a stink that rivals Limburger http://t.co/a3aKnevh95                                                 nytimes
+2014-06-11 16:05:05 The first clue that 1994 was going to be anything but an average sports year came early http://t.co/zUqxVzZWft                               nytimes
+2014-06-11 16:46:05 A Mexican cartel's 90-year-old drug mule http://t.co/q4BVPklNlt                                                                              nytimes
+2014-06-11 15:58:30 Building Blocks: In Chinatown, Remembering the Origins of a 126-Year-Old Synagogue http://t.co/MAEl2vD3QI                                    nytimes
+2014-06-11 15:15:08 What's ahead for immigration in the U.S.? @JuliaPrestonNYT, @KirkSemple and @damiencave are taking questions http://t.co/PZBPhYxNgZ          nytimes
+2014-06-11 15:30:11 As Sunni extremists claim territory across Iraq, the country's soldiers are qutting the fight http://t.co/yS24AnswdI                         nytimes
+2014-06-11 15:42:48 David Brat Waged Solo Fight Against Eric Cantor http://t.co/W3XfcHKH5t                                                                       nytimes
+2014-06-11 14:59:04 Baghdad residents are stockpiling food, fuel and arms, fearing a Sunni militant assault http://t.co/2JARRdEDJ1 http://t.co/DYWF8xLvJA        nytimes
+2014-06-11 14:31:07 After Cantor’s Primary Defeat, House Republicans Take Stock http://t.co/yYr0tFSFxt                                                           nytimes
+2014-06-11 14:00:13 Busy morning? Here's what you need to know to start your day. http://t.co/MpASDq1BAS via @nytnow                                             nytimes
+2014-06-11 14:10:07 Eric Cantor Challenger Waged Lonely Campaign http://t.co/RbECI5SXWk                                                                          nytimes
+2014-06-11 13:23:23 Lens Blog: Seeing Red in the Gene Pool http://t.co/j9vaiPSzxS                                                                                nytimes
+2014-06-11 13:59:10 Map: Where Eric Cantor won and lost http://t.co/9DwaEiUxNO                                                                                   nytimes
+2014-06-11 13:02:07 Conservatives who have fueled contentious showdowns  may be emboldened by Eric Cantor's shocking loss  http://t.co/oNacUxlwLR                nytimes
+2014-06-11 13:44:17 India Ink: In American Journalist’s Photographs, Rare Glimpse of India’s First Prime Minister http://t.co/zv1G4emwzi                         nytimes
+2014-06-11 12:30:06 Busy morning? Here's what you need to know to start your day. http://t.co/dlHSiOooAQ via @nytnow                                             nytimes
+2014-06-11 12:09:31 Day 25: Language and Other Barriers http://t.co/tYYJqxrtGF                                                                                   nytimes
+2014-06-11 12:19:52 Sports of The Times: Coast Cleared by Others, W.N.B.A. Finally Finds Its Gay Pride http://t.co/W2GiSm6m1w                                    nytimes
+2014-06-11 12:25:16 A Fight as U.S. Girls Face Genital Cutting Abroad http://t.co/Oi1prLV8fR                                                                     nytimes
+2014-06-11 12:18:07 Eric Cantor's unexpected defeat delivered a major jolt to the Republican Party http://t.co/uLPI2flo0R                                        nytimes
+2014-06-11 12:42:35 Pulse of the People: World Cup Opinions in 19 Countries: Likes, Dislikes, Predictions http://t.co/9icRNnafvn                                 nytimes
+2014-06-11 11:03:57 Busy morning? Here's what you need to know to start your day. http://t.co/aG2iTSljZc via @nytnow                                             nytimes
+2014-06-11 11:12:00 E.U. to Investigate Countries’ Business Tax Breaks http://t.co/X9nQnDH7eP                                                                    nytimes
+2014-06-11 11:27:43 Bits Blog: Traffic Snarls Expected in Europe as Taxi Drivers Protest Against Uber http://t.co/vzP3rQJ10C                                     nytimes
+2014-06-11 11:48:33 Icon of Egypt's 2011 Revolt Sentenced to 15 Years http://t.co/GHxVbMuidW                                                                     nytimes
+2014-06-11 10:24:56 On The Runway: Hillary Rodham Clinton and the Power of Style http://t.co/LUMmowtW2w                                                          nytimes
+2014-06-11 10:04:22 City Room: New York Today: Not on My Home Ice http://t.co/sBxS4UoDtk                                                                         nytimes
+2014-06-11 10:46:28 After Capture of Mosul, Militants Extend Control in Iraq http://t.co/YIUmXG8ntu                                                              nytimes
+2014-06-11 09:59:12 Hagel Prepares to Defend Bergdahl Trade http://t.co/eQzESfld1t                                                                               nytimes
+2014-06-11 09:22:20 The Sinaloa Cartel’s 90-Year-Old Drug Mule http://t.co/e84ypifWld                                                                            nytimes
+2014-06-11 07:28:03 Square Feet: A Bellwether for London Realty http://t.co/mouvwnOQBj                                                                           nytimes
+2014-06-11 07:23:18 Help for Referees, in a Can http://t.co/CD74upcMIm                                                                                           nytimes
+2014-06-11 07:45:07 How Ireland's smoking ban changed pubs, hotels and lives http://t.co/G1eli5JpsU                                                              nytimes
+2014-06-11 07:02:04 Microsoft Protests Order for Email Stored Abroad http://t.co/iQ4WRka53D                                                                      nytimes
+2014-06-11 06:42:22 Kidd and Fisher Carve New Niche for Veterans: Coach’s Office http://t.co/DZ8r0Eh2Bi                                                          nytimes
+2014-06-11 06:00:06 In Brazil, World Cup game days for the home team won't be national holidays, but it may seem that way http://t.co/zgRyri0yMx                 nytimes
+2014-06-11 06:46:38 The Caucus: Members of Congress React to Cantor’s Defeat Via Twitter http://t.co/Eyslvo5MIR                                                  nytimes
+2014-06-11 06:21:12 On Trial’s Tapes, Talk of New York Politics, Secret Cash and Strip Clubs http://t.co/1XXCMtluNi                                              nytimes
+2014-06-11 05:19:50 Why Did Cantor Lose? Not Easy to Explain http://t.co/ihfUe7o9SQ                                                                              nytimes
+2014-06-11 05:34:01 Spurs 111, Heat 92: Spurs Set Blazing Pace and Hang On Late http://t.co/jWldDUSS9s                                                           nytimes
+2014-06-11 04:59:07 Eric Cantor's unexpected defeat delivered a major jolt to the Republican Party http://t.co/fK47A4opcr                                        nytimes
+2014-06-11 04:47:20 Michael Schmidt, Photographic Storyteller, Dies at 68 http://t.co/ySP2wczReA                                                                 nytimes
+2014-06-11 04:05:09 What's inside the Domino's Smart Slice pizza? http://t.co/PjIswtI48F                                                                         nytimes
+2014-06-11 03:09:04 America's soccer fans have reached a delicate point in their road from the fringes to the mainstream http://t.co/TUKZxZCsDC                  nytimes
+2014-06-11 03:51:17 Exhausted and Bereft, Iraqi Soldiers Quit Fight http://t.co/Q1Ttxv5Fyf                                                                       nytimes
+2014-06-11 03:00:12 In search of the best iced latte in America http://t.co/xEfrvJscQY                                                                           nytimes
+2014-06-10 23:31:02 Lindsey Graham Poised to Hold Off Tea Party Challenge http://t.co/iQm2jbryqV                                                                 nytimes
+2014-06-10 23:10:51 Follow Virginia primary election results as they come in http://t.co/3Qydjqc0Ws                                                              nytimes
+2014-06-10 22:36:27 Your Evening Briefing is ready for you. http://t.co/1S35phoPbl via @nytnow                                                                   nytimes
+2014-06-10 22:19:20 Restaurant Review: Gato From Bobby Flay http://t.co/4Kvruax6vf                                                                               nytimes
+2014-06-10 21:16:09 Barentsburg Journal: Ukrainians Find Jobs and a Slice of Russia in Arctic Norway http://t.co/9GEulUDrOc                                      nytimes
+2014-06-10 21:47:27 Appeals Court Rules Bloomberg Plan for ‘Taxi of Tomorrow’ Is Legal http://t.co/WZuh5bYKqz                                                    nytimes
+2014-06-10 20:26:11 Well: Updated Advice on Eating Fish During Pregnancy http://t.co/Y9Kjv3aLYy                                                                  nytimes
+2014-06-10 20:12:33 Degrees of Education: A Case Study in Lifting College Attendance http://t.co/ZvmkRjbVtJ                                                      nytimes
+2014-06-10 20:34:39 Egyptian Government Criticized Anew Over Response to Sexual Assaults http://t.co/MhUqWDFt3N                                                  nytimes
+2014-06-10 20:55:22 Critic’s Notebook: Jack White and Vampire Weekend at Governors Ball http://t.co/XQMXyShi16                                                   nytimes
+2014-06-10 19:37:13 Fraud or Fiction: Voter Fraud Is Rare, but Myth Is Widespread http://t.co/RgJuWBBFpA                                                         nytimes
+2014-06-10 19:15:56 Student and Gunman Dead in Oregon High School Shooting http://t.co/g0JRyvoCnW                                                                nytimes
+2014-06-10 19:42:09 Ireland Investigating Complaints Against Unwed Mother Homes http://t.co/s1OUxKNzk1                                                           nytimes
+2014-06-10 19:27:01 Derek Fisher Is Introduced as Knicks’ New Coach http://t.co/nW3wAvUX65                                                                       nytimes
+2014-06-10 18:40:26 The F.D.A. has updated its advice on eating fish during pregnancy http://t.co/XmPA3zSwYo                                                     nytimes
+2014-06-10 18:54:59 Bosnia’s World Cup Debut Stirs Passions in St. Louis http://t.co/HMjnrBJr5B                                                                  nytimes
+2014-06-10 18:17:55 Arms Windfall for Insurgents as Iraq City Falls http://t.co/20Uzgu5UjA                                                                       nytimes
+2014-06-10 18:23:41 Hillary Clinton’s Book Signing Has Air of a Campaign Event http://t.co/OusFV3m70b                                                            nytimes
+2014-06-10 17:41:24 Books: ‘The Witch-Hunt Narrative’: Are We Dismissing Real Victims? http://t.co/P6MolHGcEt                                                    nytimes
+2014-06-10 17:20:47 After Bergdahl Briefing, Senators Still Doubtful on Prisoner Swap http://t.co/iRCVLOYyVJ                                                     nytimes
+2014-06-10 17:57:42 California Teacher Tenure Laws Ruled Unconstitutional http://t.co/msdmtbJMv0                                                                 nytimes
+2014-06-10 16:19:23 G.M. Chief Says Death Tally Could Rise in Ignition Flaw http://t.co/XjHWutpP3O                                                               nytimes
+2014-06-10 16:39:52 Ukraine Opens Corridors for Civilians to Flee Violence in the East http://t.co/jilx6M0aLh                                                    nytimes
+2014-06-10 15:30:58 After 7 Months, British Hacking Trial Heads to Jury http://t.co/dniX6oG7Jq                                                                   nytimes
+2014-06-10 15:57:18 A Museum Devoted to Movies Is Still Writing Its Own Script http://t.co/IUEouV0Gl0                                                            nytimes
+2014-06-10 15:01:18 Google Adds Graffiti to Its Art Portfolio http://t.co/hkIGUn3yOA                                                                             nytimes
+2014-06-10 15:20:41 Genealogy Shows Cardinal O’Connor’s Mother Was Jewish http://t.co/P6uOct0lOR                                                                 nytimes
+2014-06-10 15:39:57 Banksy confessed to making an eavesdropping mural http://t.co/UQfaof2adS                                                                     nytimes
+2014-06-10 14:38:45 As World Cup Nears, American ‘Football’ Fans Adopt Foreign Traditions http://t.co/WF6uJ49m0v                                                 nytimes
+2014-06-10 14:00:14 Busy morning? Here's what you need to know to start your day. http://t.co/NqwjV3lLdR via @nytnow                                             nytimes
+2014-06-10 14:08:02 Israeli Parliament Elects Rivlin as New President http://t.co/Z1FWKffhVi                                                                     nytimes
+2014-06-10 14:28:58 Colleges and Evangelicals Collide on Bias Policy http://t.co/kOryk8PYnG                                                                      nytimes
+2014-06-10 13:05:33 Democrats See Winning Issue in Carbon Plan http://t.co/2m8LhbhDTO                                                                            nytimes
+2014-06-10 13:45:05 6 innovative iced coffees http://t.co/yNnZ4Qjq8A                                                                                             nytimes
+2014-06-10 13:26:18 Kings 3, Rangers 0: Kings Take 3-0 Lead in N.H.L. Finals http://t.co/NhHgX54120                                                              nytimes
+2014-06-10 12:45:09 In search of the best iced latte in America http://t.co/YhA3a89v6n                                                                           nytimes
+2014-06-10 12:03:04 Day 24: Contemplations of Identity http://t.co/J1E495g3Bj                                                                                    nytimes
+2014-06-10 12:08:14 After Deadline Blog: When Spell-Check Can’t Help http://t.co/a3jTJnWH24                                                                      nytimes
+2014-06-10 12:30:10 Busy morning? Here's what you need to know to start your day. http://t.co/eQpL0POisF via @nytnow                                             nytimes
+2014-06-10 11:00:08 Busy morning? Here's what you need to know to start your day. http://t.co/cAozPk2aCJ via @nytnow                                             nytimes
+2014-06-10 11:36:11 It’s the Economy: Silicon Valley Tries to Re-Make the Idea Machine http://t.co/hgM45wF5Jz                                                    nytimes
+2014-06-10 11:15:44 Sunni Militants Seize Control in Iraqi City of Mosul http://t.co/MX4GJ2od2D                                                                  nytimes
+2014-06-10 11:57:18 Frick Seeks to Expand Beyond Jewel-Box Spaces http://t.co/bTHq8VZhhJ                                                                         nytimes
+2014-06-10 10:08:54 For Western Oil Companies, Expanding in Russia Is a Dance Around Sanctions http://t.co/qPH5LvBUOI                                            nytimes
+2014-06-10 10:40:38 The Appraisal: At Junior’s Site, Bidders See Brooklyn, Too, as a City of Spires http://t.co/2miOasEDrj                                       nytimes
+2014-06-10 10:54:54 Militants Seize Provincial HQ in Iraqi City Mosul http://t.co/QlibNWBmSW                                                                     nytimes
+2014-06-10 10:18:55 City Room: New York Today: Head Trip http://t.co/1oM2c6c7fQ                                                                                  nytimes
+2014-06-10 10:49:50 For Virginia Democrat, Obama’s Still a Positive http://t.co/ENKGAWhqxi                                                                       nytimes
+2014-06-10 09:47:41 ‘Friendly Fire’ Strike Kills 5 Special Operations Soldiers in Afghanistan http://t.co/MEN0KerXkt                                             nytimes
+2014-06-10 09:31:06 Of fish, monsoons and the future http://t.co/tG5oWfEvkc                                                                                      nytimes
+2014-06-10 08:35:22 Poll Shows Path to Citizenship Is Favored http://t.co/M4WHt505ZC                                                                             nytimes
+2014-06-10 08:15:03 Japan seeks to squelch its tiny cars http://t.co/TSEu1CQYje                                                                                  nytimes
+2014-06-10 07:34:08 A Push to Save Cambodia’s Tonle Sap Lake http://t.co/8ZvgDGUWmm                                                                              nytimes
+2014-06-10 07:38:19 As World Cup Nears, American ‘Football’ Fans Adapt Foreign Traditions http://t.co/1xM8squcDk                                                 nytimes
+2014-06-10 07:02:32 Pakistan Strikes at Militants After Taliban Airport Raid http://t.co/URvhAXiSQv                                                              nytimes
+2014-06-10 07:59:18 Facts Are Murky on Location of Dead Babies in Ireland http://t.co/etjHKKPtFD                                                                 nytimes
+2014-06-10 07:13:01 For the first time at a World Cup, goal line technology is in place http://t.co/zRiWiVr6Tp                                                   nytimes
+2014-06-10 06:46:57 Rik Mayall, British Alternative Comic, Dies at 56 http://t.co/Ac2yMy22EU                                                                     nytimes
+2014-06-10 06:06:06 In Argentina, wine, art and altitude http://t.co/AQyDKEdu8b                                                                                  nytimes
+2014-06-10 06:26:11 European Leaders Face Voter Impatience After Elections http://t.co/5x5MxP2l0j                                                                nytimes
+2014-06-10 05:18:57 Kings 3, Rangers 0: Back Home, Rangers Seem Lost http://t.co/YRI2NGxYnT                                                                      nytimes
+2014-06-10 05:40:18 Donald Sterling’s Impairment Expedited the Clippers’ Sale to Steve Ballmer http://t.co/aYgoqb9bHJ                                            nytimes
+2014-06-10 04:00:09 How black turnout could decide Senate control http://t.co/xfppSGhGDN                                                                         nytimes
+2014-06-10 04:40:35 Mona Freeman, First ‘Miss Subways,’ Dies at 87 http://t.co/Jba4D4GEK4                                                                        nytimes
+2014-06-10 04:10:05 It's not looking good for President Obama's pledge to put a human on Mars by the 2030s http://t.co/BRdBxQjjpC                                nytimes
+2014-06-10 04:20:06 Smartphone games are creating iTunes-worthy soundtracks http://t.co/rBRZxxZyf3                                                               nytimes
+2014-06-10 03:40:10 Dear millennials: We're sorry http://t.co/dPWcuWvGee via @nytopinion                                                                         nytimes
+2014-06-10 03:20:02 Equipment made for war is ending up in local police departments http://t.co/POBIiIDvEf http://t.co/pxZLyFbzS6                                nytimes

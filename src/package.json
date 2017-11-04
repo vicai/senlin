@@ -1,0 +1,44 @@
+{
+  "name": "senlin",
+  "description": "Sample search app built with React and Firebase",
+  "scripts": {
+    "buildClient": "./node_modules/.bin/webpack --config ./webpack.client.config.js",
+    "buildServer": "./node_modules/.bin/webpack --config ./webpack.server.config.js",
+    "build": "npm run buildClient && npm run buildServer",
+    "start": "webpack-dev-server --config ./webpack.config.dev.js"
+  },
+  "dependencies": {
+    "autoprefixer": "^7.1.6",
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.5",
+    "firebase": "3.9.0",
+    "firebase-functions": "^0.7.1",
+    "lodash": "4.17.4",
+    "node-sass": "^4.5.3",
+    "postcss": "^6.0.14",
+    "postcss-loader": "^2.0.8",
+    "raw-loader": "^0.5.1",
+    "react": "15.5.4",
+    "react-dom": "15.5.4",
+    "react-instantsearch": "^4.1.3",
+    "react-router": "4.1.1",
+    "react-router-dom": "4.1.1",
+    "sass": "^1.0.0-beta.2",
+    "sass-loader": "^6.0.6",
+    "style-loader": "0.19.0",
+    "webpack-dev-server": "^2.9.4"
+  },
+  "devDependencies": {
+    "babel-core": "6.24.1",
+    "babel-loader": "7.0.0",
+    "babel-preset-react": "6.24.1",
+    "babel-preset-stage-0": "6.24.1",
+    "webpack": "2.5.0"
+  },
+  "babel": {
+    "presets": [
+      "react",
+      "stage-0"
+    ]
+  }
+}

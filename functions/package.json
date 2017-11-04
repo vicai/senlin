@@ -1,0 +1,17 @@
+{
+  "name": "senlin",
+  "description": "A Search React app using Functions and Hosting",
+  "dependencies": {
+    "algoliasearch": "^3.24.5",
+    "dotenv": "^4.0.0",
+    "express": "4.15.2",
+    "firebase": "3.9.0",
+    "firebase-admin": "^5.4.3",
+    "firebase-functions": "^0.7.1",
+    "instantsearch.js": "^2.2.2",
+    "react": "15.5.4",
+    "react-dom": "15.5.4",
+    "request": "2.81.0",
+    "text-2-json": "^1.0.4"
+  }
+}
