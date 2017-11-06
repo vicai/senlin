@@ -1,0 +1,19 @@
+:local(.hit) {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+:local(.tweetHeader) {
+  display: flex;
+  justify-content: space-between;
+}
+
+:local(.tweetHeaderLeft) {
+  font-weight: bold;
+}
+
+:local(.tweetHeaderRight) {
+  font-size: small;
+  color: #657786;
+}

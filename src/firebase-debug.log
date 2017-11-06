@@ -1,0 +1,102 @@
+[debug] [2017-11-05T04:19:29.389Z] ----------------------------------------------------------------------
+[debug] [2017-11-05T04:19:29.391Z] Command:       /Users/weiqic/.nvm/versions/node/v6.11.1/bin/node /Users/weiqic/.nvm/versions/node/v6.11.1/bin/firebase serve --only hosting,functions
+[debug] [2017-11-05T04:19:29.392Z] CLI Version:   3.14.0
+[debug] [2017-11-05T04:19:29.392Z] Platform:      darwin
+[debug] [2017-11-05T04:19:29.392Z] Node Version:  v6.11.1
+[debug] [2017-11-05T04:19:29.392Z] Time:          Sat Nov 04 2017 21:19:29 GMT-0700 (PDT)
+[debug] [2017-11-05T04:19:29.393Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-05T04:19:29.404Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-05T04:19:29.404Z] > authorizing via signed-in user
+[debug] [2017-11-05T04:19:29.406Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/senlin-f007f  
+ Sat Nov 04 2017 21:19:29 GMT-0700 (PDT)
+[debug] [2017-11-05T04:19:30.347Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-05T04:19:30.348Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/senlin-f007f/tokens  
+ Sat Nov 04 2017 21:19:30 GMT-0700 (PDT)
+[debug] [2017-11-05T04:19:31.373Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/weiqic/Documents/Github/senlin'...
+[info] 
+[info] i  functions: Preparing to emulate functions.
+[debug] [2017-11-05T04:19:31.645Z] >>> HTTP REQUEST GET https://appengine.googleapis.com/v1/apps/senlin-f007f  
+ Sat Nov 04 2017 21:19:31 GMT-0700 (PDT)
+[debug] [2017-11-05T04:19:31.646Z] >>> HTTP REQUEST GET https://apikeys.googleapis.com/v1/projects/senlin-f007f/apiKeys  
+ Sat Nov 04 2017 21:19:31 GMT-0700 (PDT)
+[debug] [2017-11-05T04:19:31.646Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/senlin-f007f  
+ Sat Nov 04 2017 21:19:31 GMT-0700 (PDT)
+[debug] [2017-11-05T04:19:35.889Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-05T04:19:35.945Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-05T04:19:38.257Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-05T04:19:38.257Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/732117745665/clients/_:getWebAppConfig  
+ Sat Nov 04 2017 21:19:38 GMT-0700 (PDT)
+[debug] [2017-11-05T04:19:38.666Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+
+[info] ✔  functions: app: http://localhost:5001/senlin-f007f/us-central1/app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app
+[info] [hosting] Rewriting / to local function app
+[info] [hosting] Rewriting /assets/es6-promise.map to local function app

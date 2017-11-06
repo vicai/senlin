@@ -5,10 +5,11 @@
     "buildClient": "./node_modules/.bin/webpack --config ./webpack.client.config.js",
     "buildServer": "./node_modules/.bin/webpack --config ./webpack.server.config.js",
     "build": "npm run buildClient && npm run buildServer",
-    "start": "webpack-dev-server --config ./webpack.config.dev.js"
+    "start": "npm run buildClient && firebase serve --only hosting,functions"
   },
   "dependencies": {
     "autoprefixer": "^7.1.6",
+    "classnames": "^2.2.5",
     "css-loader": "^0.28.7",
     "file-loader": "^1.1.5",
     "firebase": "3.9.0",

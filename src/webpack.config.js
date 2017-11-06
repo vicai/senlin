@@ -17,8 +17,8 @@ module.exports = {
       loader: 'babel-loader'
     },
     {
-  test: /\.scss$/,
-  use: [
+      test: /\.scss$/,
+      use: [
         'style-loader',
         'css-loader?importLoaders=1&modules&localIdentName=[path]___[name]__[local]___[hash:base64:5]',
         'postcss-loader',

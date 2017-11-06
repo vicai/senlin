@@ -1,3 +1,20 @@
-:local(.pagination) {
-  height: 40px;
+:local(.footer) {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+:local(.headerContainer) {
+  margin: 20px 0;
+}
+
+:local(.searchContainer) {
+  display: flex;
+  justify-content: space-around;
+  height: 46px;
+}
+
+:local(.resultContainer) {
+  height: 600px;
+  overflow-y: scroll;
 }

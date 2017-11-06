@@ -18,20 +18,11 @@ export default class App extends React.Component {
 
   render() {
   return (
-    <div>
-      <nav id="mainNav" className="navbar navbar-custom">
-        <div className="container">
-          <div className="navbar-header">
-            <Link to='/' className="navbar-brand">Senlin</Link>
-          </div>
-        </div>
-      </nav>
-      <Switch>
-        <Route path='/' render={(props) => (
-          <Home {...props} />
-        )}/>
-      </Switch>
-    </div>
+    <Switch>
+      <Route path='/' render={(props) => (
+        <Home {...props} />
+      )}/>
+    </Switch>
   )
 }
 }
